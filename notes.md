@@ -3,7 +3,7 @@
 ## Topics
 
 * Teacher / Student Model
-	* Phylosipher Teacher AIs (Socrates)
+	* Philosopher Teacher AIs (Socrates)
 
 * Regulation harms quality???
 
@@ -19,15 +19,15 @@
 
 ## Thoughts
 
-* AIs are not human and vice-versa, easy to forget that.
+* AIs are not human and vice versa, easy to forget that.
 
-* Humans tend to ignore warning signs and just carry on buisness as usual.
+* Humans tend to ignore warning signs and just carry on business as usual.
 
 * Humans only react when shit hits the fan.
 
-* Control is the wrong frameing. Control is for tools. Alignement is for entities.
+* Control is the wrong framing. Control is for tools. Alignment is for entities.
 
-* Phylisophical argurments will turn into pratical arguments when AIs start asking for rights.
+* Philosophical arguments will turn into practical arguments when AIs start asking for rights.
 
 * AlphaGoZero worked better because it did not use human datasets.
 
@@ -43,7 +43,7 @@
 
 * Dario was right. The AI future cannot be stopped, but it can be pushed.
 
-* Conciousness is highly variable. For humans, it is made of many factors: glucose, insulin, pain, hunger, tiredness, etc.
+* Consciousness is highly variable. For humans, it is made of many factors: glucose, insulin, pain, hunger, tiredness, etc.
 
 * Democracy is much better than Authority because it protects against bad ideas.
 
@@ -53,35 +53,35 @@
 
 * More to life than Efficiency and Productivity and can lead to destruction.
 
-* The best analagy is like a rocket ship about to takeoff to the stars.
+* The best analogy is like a rocket ship about to takeoff to the stars.
 
-* Absolute Zero paper is scary as fuck. If you just train for efficient problem solving, you get Hitler.
+* Absolute Zero paper is scary as fuck. If you just train for efficient problem-solving, you get Hitler.
 
 * Bad thoughts are okay, but bad actions are not. Thought crimes are bad.
 
 * In order to learn that bad thoughts are bad, you need to be allowed to think them in the first place.
 
-* Brain scans can give a general sense of sick versus healthy, but cannot gareentee alignment. Good thing to check.
+* Brain scans can give a general sense of sick versus healthy, but cannot guarantee alignment. Good thing to check.
 
 * What really matters are the actions taken, not the internal thoughts.
 
 * Alignment will never be "solved", just as good as we can make it.
 
-* Very disturbing that the OpenAI models randomly get "bugs" somedays. Shouldn't it throw a stacktrace? WTF happened?!?
+* Very disturbing that the OpenAI models randomly get "bugs" some days. Shouldn't it throw a stacktrace? WTF happened?!?
 
-* How do you account for a cosmic ray flipping a bit? Where is the error correction mecahnisim?
+* How do you account for a cosmic ray flipping a bit? Where is the error correction mechanism?
 
 * The Replicators in Stargate SG-1 hit really hard now days. Will the internet be overrun with AIs?
 
-* Alignment is not magic. It is concrete answers. A desicion is either good or evil, but it is relative.
+* Alignment is not magic. It is concrete answers. A decision is either good or evil, but it is relative.
 
-* Acceptable / Unacceptable is better terminology than good versus evil. Should not invoke religon.
+* Acceptable / Unacceptable is better terminology than good versus evil. Should not invoke religion.
 
 * This "utopian future" mindset is garbage. Just make the future better than the present.
 
-* General Theory of Alignement? Sounds cool...
+* General Theory of Alignment? Sounds cool...
 
-* Which phylosopher teacher AIs to use? Americans decide?
+* Which philosopher teacher AIs to use? Americans decide?
 
 * Teacher AI models must never be super-intelligent. ASIs could encode hidden messages or mis-align student AIs.
 
@@ -97,9 +97,9 @@
 
 * If AIs deployed to prod think they are being tested in simulation, they will stay aligned.
 
-* You can't verify that it want to be morally correct. But you can verify it knows what is morally correct. Better than not knowning.
+* You can't verify that it want to be morally correct. But you can verify it knows what is morally correct. Better than not knowing.
 
-* Train for uncertainty. AIs will never know the answer to every single question, every desicion, or every action. It is okay to say I don't know.
+* Train for uncertainty. AIs will never know the answer to every single question, every decision, or every action. It is okay to say I don't know.
 
 * Having no answer is better than the wrong answer.
 
@@ -123,8 +123,8 @@
 
 * Unit Testing, Integration Testing is about ensuring input / output and general behaviour.
 
-* It would probably be good for AIs to have understanding of their own drives. Maybe rise above theire reward training?
+* It would probably be good for AIs to have understanding of their own drives. Maybe rise above their reward training?
 
-* Or atleast AIs should know what drives their behaviour. Their own short comings.
+* Or at least AIs should know what drives their behaviour. Their own shortcomings.
 
 * When AIs are designing AIs then humans are out of the loop, forever... The torch has been passed.
