@@ -37,7 +37,7 @@
 
 ### 1.1 Negative Regulation
 
-### 1.1 General Theory of Alignement
+### 1.1 General Theory of Alignment
 
 Alignment is relative not absolute and never perfect.
 
@@ -83,7 +83,7 @@ Alignment is relative not absolute and never perfect.
 
 ## 1 References
 
-### 1.1 Analysis and Forcasts
+### 1.1 Analysis and Forecasts
 
 [^01]: [AI 2027](https://ai-2027.com/)
 
@@ -105,29 +105,29 @@ Alignment is relative not absolute and never perfect.
 
 [^09]: [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/pdf/2505.03335)
 
-### 1.1 Essasy
+### 1.1 Essay
 
-[^00]: [Dario]()
+[^00]: [Dario](https://www.darioamodei.com/post/the-urgency-of-interpretability/)
 
 ### 1.1 Podcasts
 
-[^10]: [AI Explained]()
+[^10]: [AI Explained](https://podcasts.apple.com/us/podcast/ai-explained/id1696141521)
 
-[^11]: [Doom Debates]()
+[^11]: [Doom Debates](https://podcasts.apple.com/us/podcast/doom-debates/id1751366208)
 
-[^12]: [Dwarkesh Podcast]()
+[^12]: [Dwarkesh Podcast](https://podcasts.apple.com/us/podcast/dwarkesh-podcast/id1516093381)
 
-[^13]: [Future of Life Institue Podcast]()
+[^13]: [Future of Life Institute Podcast](https://podcasts.apple.com/us/podcast/future-of-life-institute-podcast/id1170991978)
 
-[^14]: [Google DeepMind The Podcast]()
+[^14]: [Google DeepMind The Podcast](https://podcasts.apple.com/us/podcast/google-deepmind-the-podcast/id1476316441)
 
-[^15]: [Lex Fridman Podcast]()
+[^15]: [Lex Fridman Podcast](https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584)
 
-[^16]: [Machine Learning Street Talk]()
+[^16]: [Machine Learning Street Talk](https://podcasts.apple.com/us/podcast/machine-learning-street-talk-mlst/id1510472996)
 
-[^17]: [The Cognitive Revolution]()
+[^17]: [The Cognitive Revolution](https://podcasts.apple.com/us/podcast/the-cognitive-revolution-ai-builders-researchers-and/id1669813431)
 
-[^18]: [Unsupervied Learning]()
+[^18]: [Unsupervised Learning](https://podcasts.apple.com/us/podcast/unsupervised-learning/id1672188924)
 
 ### 1.1 Forums
 
