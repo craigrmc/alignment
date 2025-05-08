@@ -103,7 +103,7 @@ Alignment is relative not absolute and never perfect.
 
 ### 1.1 Research Papers
 
-[^09]: [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/pdf/2505.03335)
+[^09]: Absolute Zero: Reinforced Self-play Reasoning with Zero Data [Link](https://arxiv.org/pdf/2505.03335)
 
 ### 1.1 Essay
 
