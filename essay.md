@@ -9,6 +9,8 @@
 
 ## 1 Overview
 
+* Absolute Zero Paper kicked me into gear
+
 ### 1A Background
 
 ### 1B Purpose
@@ -32,6 +34,12 @@
 * AI Rights
 * Commander Data
 
+### 2E The C Word
+
+* Consciousness, ugh...
+* Mind-Body-Soul
+* Religion and Spirituality
+
 ## 3 Engineering
 
 ### 3A Traditional Software Engineering
@@ -52,25 +60,39 @@
 
 * Q&A Thought Scenarios
 * Don't know if you don't ask
+* Thought Crimes are bad
 
 ### 4D Positive Regulation
 
 ### 4E Negative Regulation
 
-### 4G Immersive Simulation
+### 4F Immersive Simulation
 
 * First-Person Perspective Scenarios
 * Best way to learn is through experience
+* Is it ethical to subject AIs to this?
 
-### 4H Turtles all the way down
+### 4G Turtles all the way down
 
 * Deep Nested Simulations
 
-### 4F General Theory of Alignment
+### 4H General Theory of Alignment
 
 * Alignment is relative not absolute and never perfect
 * Alignment is relative to space and time
 * Alignment is relative to perspective
+* Bad thoughts are okay
+* Bad actions are not okay
+* Brain scans will help
+* Meta cognition
+    * Understand their own reward signals
+    * Better understanding will lead to better behavior
+
+### 4I Corrupt AI
+
+* Bugs, Cosmic Rays, and Defective RAM
+* The Country of AIs should negate one bad AI
+* One giant ASI is worst case scenario
 
 ## 5 History
 
@@ -83,6 +105,14 @@
 ### 5B Efficiency and Productivity
 
 * Nazi Analogy
+* Communism doesn't work
+* Authoritarianism doesn't work
+
+### 5C Capitalism and Democracy
+
+* Capitalism works because of motivation and control
+* Democracy works because checks and balances are evenly distributed
+* But the system only works if the rules are set correctly
 
 ## 6 The Great Filter
 
@@ -98,7 +128,12 @@
 * Sim Racing Analogy
     * Use the brakes
 
-### 6B The Final Countdown
+### 6D Replicators
+
+* Stargate SG-1 Stuff
+* Other Sci-Fi things
+
+### 6E The Final Countdown
 
 * Rocketship analogy
     * Countdown
@@ -111,6 +146,7 @@
 
 ### 7A Prepare
 
+* Digitize the family archive
 * Offline Backups (e.g. HDDs)
 * Save cash and buy land
 * Do NOT build a doomsday bunker
@@ -127,21 +163,24 @@
 
 ### 8A Summary
 
-* Stay Calm
-* Do your job
-
 ### 8B Caveats
 
+* Not at all a writer
 * Not even close to an AI Researcher
 * Not remotely close to a real philosopher
 
 ### 8C Recommendations
 
+* Stay Calm
+* Prepare for takeoff
+* Don't wait for someone else to save you
 * Start pushing to alignment
 * Slow down, take your time, and build it correctly
 * Just make the world a better place
 
 ### 8D Final Thoughts
+
+* Only one pale blue dot
 
 ## 9 References
 
