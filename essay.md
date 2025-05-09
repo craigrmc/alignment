@@ -101,6 +101,8 @@ Alignment is relative not absolute and never perfect.
 
 08: [TrackingAI](https://trackingai.org/IQ)
 
+00: [Situational Awareness](https://situational-awareness.ai/)
+
 ### 1.1 Research Papers
 
 09: [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/pdf/2505.03335)
@@ -108,6 +110,8 @@ Alignment is relative not absolute and never perfect.
 ### 1.1 Essay
 
 00: [Dario](https://www.darioamodei.com/post/the-urgency-of-interpretability/)
+00: [The AI Revolution Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+00: [The AI Revolution Part 2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
 
 ### 1.1 Podcasts
 
@@ -150,3 +154,8 @@ Alignment is relative not absolute and never perfect.
 26: [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers/)
 
 27: [Wes Roth](https://www.youtube.com/@WesRoth/)
+
+### 1.1 Wikipedia
+
+00: [Overton Window](https://en.wikipedia.org/wiki/Overton_window)
+00: [Stargate SG-1 Replicators](https://en.wikipedia.org/wiki/List_of_Stargate_SG-1_characters#Replicators)

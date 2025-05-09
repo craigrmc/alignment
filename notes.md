@@ -128,3 +128,6 @@
 * Or at least AIs should know what drives their behaviour. Their own shortcomings.
 
 * When AIs are designing AIs then humans are out of the loop, forever... The torch has been passed.
+
+*Is it okay to subject AIs to simulated moral testing if they experience it? Real road block.
+
