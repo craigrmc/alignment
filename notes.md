@@ -120,3 +120,8 @@
     * Bigger reward to positively affect outcomes.
     * Need to quickly move beyond answering questions correctly.
     * Need to add achievements. It works on Steam.
+* Sam Altman's "second brain" analogy is disturbing if that brain lives in an OpenAI controlled cloud.
+    * Kind of like the Black Mirror episode with the brain tumor replacement implant.
+    * What happens if they don't want you using "your" second brain?
+    * What happens if they continue to charge more for use?
+    * Just goes right back to lust for power. They should make it open source and run it locally.
