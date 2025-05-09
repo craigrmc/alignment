@@ -2,88 +2,131 @@
 
 ## 1 Metadata
 
-* Author: SpockRC
-* Date: 2025-05-08
+* Created By: SpockRC
+* Created On: 2025-05-08
+* Updated By: SpockRC
+* Updated On: 2025-08-09
 
 ## 1 Overview
 
 ### 1A Background
 
-### 1A Purpose
+### 1B Purpose
 
-## 1 Overton Window
+## 2 Overton Window
 
-### 1A Tools or Entities
+### 2A Tools or Entities
 
-### 1A Control or Align
+### 2B Control or Align
 
-### 1A AI Rights
+### 2C Fast or Slow
 
-## 1 Game Plan
+* Daniel Kokotajlo Timeline (Fast)
+* Ray Kurzweil Timeline (Slow)
+* 2020s is the transition decade
+* 2030s will be the babysitter phase
+* Complexities of FSD Autopilot
 
-### 1A Datasets
+### 2D The Measure of a Man
 
-### 1A Seeding
+* AI Rights
+* Commander Data
 
-### 1A Bootstrapping
+## 3 Engineering
 
-### 1A Self Play
+### 3A Tradition Software Engineering
 
-### 1A Fast or Slow
+### 3B Test Your Code
 
-### 1A Traditional Software Engineering
+### 3C Methodical Iterations
 
-### 1A Positive Regulation
+### 3D Regulations
 
-### 1A Negative Regulation
+## 4 Game Plan
 
-### 1A General Theory of Alignment
+### 4A Datasets
 
-Alignment is relative not absolute and never perfect.
+### 4B Bootstrapping and Seeding
 
-### 1A Immersive Simulation
+### 4C Self Play
 
-### 1A Turtles all the way down
+* Q&A Thought Scenarios
+* Don't know if you don't ask
 
-## 1 Traditional Software Engineering
+### 4D Positive Regulation
 
-### 1A Test Your Code
+### 4E Negative Regulation
 
-### 1A Iterate
+### 4G Immersive Simulation
 
-## 1 History
+* First-Person Perspective Scenarios
+* Best way to learn is through experience
 
-### 1A Efficiency
+### 4H Turtles all the way down
 
-### 1A Productivity
+* Deep Nested Simulations
 
-## 1 The Great Filter
+### 4F General Theory of Alignment
 
-### 1A Out-of-Time
+* Alignment is relative not absolute and never perfect
+* Alignment is relative to space and time
+* Alignment is relative to perspective
 
-### 1A The Final Countdown
+## 5 History
 
-### 1A The Blame Game
+### 5A Human Evolution
 
-## 1 Future
+* The creation of language
+* Increasing levels of cooperation
+* Tool use
 
-### 1A Prepare
+### 5B Efficiency and Productivity
 
-### 1A Takeoff
+* Nazi Analogy
 
-### 1A Ad Astra
+## 6 The Great Filter
 
-## 1 Conclusions
+### 6A Out-of-Time
 
-### 1A Summary
+* The AIs are coming and they will be here soon
+* There is no stopping this
 
-### 1A Recommendations
+### 6C The Blame Game
 
-### 1A Final Thoughts
+* You can't defer responsibility for what you build
+* Sim Racing Analogy
 
-## 1 References
+### 6B The Final Countdown
 
-### 1A Analysis and Forecasts
+* Rocketship analogy
+
+## 7 Future
+
+### 7A Prepare
+
+### 7B Takeoff
+
+### 7C Ad Astra
+
+## 8 Conclusions
+
+### 8A Summary
+
+### 8B Caveats
+
+* Not even close to an AI Researcher
+* Not remotely close to a real philosopher
+
+### 8C Recommendations
+
+* Start pushing to alignment
+* Slow down, take your time, and build it correctly
+
+### 8D Final Thoughts
+
+## 9 References
+
+### 9A Analysis and Forecasts
 
 01: [AI 2027](https://ai-2027.com/)
 
@@ -101,64 +144,68 @@ Alignment is relative not absolute and never perfect.
 
 08: [TrackingAI](https://trackingai.org/IQ)
 
-00: [Situational Awareness](https://situational-awareness.ai/)
+09: [Situational Awareness](https://situational-awareness.ai/)
 
-### 1A Research Papers
+### 9B Research Papers
 
-09: [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/pdf/2505.03335)
+10: [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/pdf/2505.03335)
 
-### 1A Essay
+### 9C Essay
 
-00: [The AI Revolution Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+11: [The AI Revolution Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 
-00: [The AI Revolution Part 2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
+12: [The AI Revolution Part 2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
 
-00: [The Urgency of Interpretability](https://www.darioamodei.com/post/the-urgency-of-interpretability/)
+13: [The Urgency of Interpretability](https://www.darioamodei.com/post/the-urgency-of-interpretability/)
 
-### 1A Podcasts
+### 9D Podcasts
 
-10: [AI Explained](https://podcasts.apple.com/us/podcast/ai-explained/id1696141521)
+14: [AI Explained](https://podcasts.apple.com/us/podcast/ai-explained/id1696141521)
 
-11: [Doom Debates](https://podcasts.apple.com/us/podcast/doom-debates/id1751366208)
+15: [Doom Debates](https://podcasts.apple.com/us/podcast/doom-debates/id1751366208)
 
-12: [Dwarkesh Podcast](https://podcasts.apple.com/us/podcast/dwarkesh-podcast/id1516093381)
+16: [Dwarkesh Podcast](https://podcasts.apple.com/us/podcast/dwarkesh-podcast/id1516093381)
 
-13: [Future of Life Institute Podcast](https://podcasts.apple.com/us/podcast/future-of-life-institute-podcast/id1170991978)
+17: [Future of Life Institute Podcast](https://podcasts.apple.com/us/podcast/future-of-life-institute-podcast/id1170991978)
 
-14: [Google DeepMind The Podcast](https://podcasts.apple.com/us/podcast/google-deepmind-the-podcast/id1476316441)
+18: [Google DeepMind The Podcast](https://podcasts.apple.com/us/podcast/google-deepmind-the-podcast/id1476316441)
 
-15: [Lex Fridman Podcast](https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584)
+19: [Lex Fridman Podcast](https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584)
 
-16: [Machine Learning Street Talk](https://podcasts.apple.com/us/podcast/machine-learning-street-talk-mlst/id1510472996)
+20: [Machine Learning Street Talk](https://podcasts.apple.com/us/podcast/machine-learning-street-talk-mlst/id1510472996)
 
-17: [The Cognitive Revolution](https://podcasts.apple.com/us/podcast/the-cognitive-revolution-ai-builders-researchers-and/id1669813431)
+21: [The Cognitive Revolution](https://podcasts.apple.com/us/podcast/the-cognitive-revolution-ai-builders-researchers-and/id1669813431)
 
-18: [Unsupervised Learning](https://podcasts.apple.com/us/podcast/unsupervised-learning/id1672188924)
+22: [Unsupervised Learning](https://podcasts.apple.com/us/podcast/unsupervised-learning/id1672188924)
 
-### 1A Forums
+### 9E Forums
 
-19: [LessWrong](https://www.lesswrong.com/)
+23: [LessWrong](https://www.lesswrong.com/)
 
-20: [r/Accelerate Subreddit](https://www.reddit.com/r/accelerate/)
+24: [r/Accelerate Subreddit](https://www.reddit.com/r/accelerate/)
 
-21: [r/Singularity Subreddit](https://www.reddit.com/r/singularity/)
+25: [r/Singularity Subreddit](https://www.reddit.com/r/singularity/)
 
-### 1A Youtube
+### 9F Youtube
 
-22: [David Shapiro](https://www.youtube.com/@DaveShap/)
+26: [David Shapiro](https://www.youtube.com/@DaveShap/)
 
-23: [Dr Waku](https://www.youtube.com/@DrWaku/)
+27: [Dr Waku](https://www.youtube.com/@DrWaku/)
 
-24: [Emergent Garden](https://www.youtube.com/@EmergentGarden/)
+28: [Emergent Garden](https://www.youtube.com/@EmergentGarden/)
 
-25: [Species Documenting AGI](https://www.youtube.com/@AISpecies/)
+29: [Species Documenting AGI](https://www.youtube.com/@AISpecies/)
 
-26: [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers/)
+30: [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers/)
 
-27: [Wes Roth](https://www.youtube.com/@WesRoth/)
+31: [Wes Roth](https://www.youtube.com/@WesRoth/)
 
-### 1A Wikipedia
+### 9G Wikipedia
 
-00: [Overton Window](https://en.wikipedia.org/wiki/Overton_window)
+32: [Overton Window](https://en.wikipedia.org/wiki/Overton_window)
 
-00: [Stargate SG-1 Replicators](https://en.wikipedia.org/wiki/List_of_Stargate_SG-1_characters#Replicators)
+33: [Stargate SG-1 Replicators](https://en.wikipedia.org/wiki/List_of_Stargate_SG-1_characters#Replicators)
+
+34: [Star Trek TNG The Measure of a Man](https://en.wikipedia.org/wiki/The_Measure_of_a_Man_(Star_Trek:_The_Next_Generation))
+
+00: [Ad astra](https://en.wikipedia.org/wiki/Ad_astra)
