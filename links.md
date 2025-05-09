@@ -26,6 +26,8 @@
 
 [Superintelligence](https://play.google.com/store/books/details/Nick_Bostrom_Superintelligence?id=1mMJBAAAQBAJ)
 
+[The Artilect War](https://www.amazon.com/Artilect-War-Controversy-Concerning-Intelligent/dp/0882801546)
+
 [The Singularity is Near](https://play.google.com/store/books/details/Ray_Kurzweil_The_Singularity_Is_Near?id=9FtnppNpsT4C)
 
 ## Essays
