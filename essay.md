@@ -109,9 +109,11 @@ Alignment is relative not absolute and never perfect.
 
 ### 1A Essay
 
-00: [Dario](https://www.darioamodei.com/post/the-urgency-of-interpretability/)
 00: [The AI Revolution Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+
 00: [The AI Revolution Part 2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
+
+00: [The Urgency of Interpretability](https://www.darioamodei.com/post/the-urgency-of-interpretability/)
 
 ### 1A Podcasts
 
@@ -158,4 +160,5 @@ Alignment is relative not absolute and never perfect.
 ### 1A Wikipedia
 
 00: [Overton Window](https://en.wikipedia.org/wiki/Overton_window)
+
 00: [Stargate SG-1 Replicators](https://en.wikipedia.org/wiki/List_of_Stargate_SG-1_characters#Replicators)
