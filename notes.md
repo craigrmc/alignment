@@ -113,3 +113,10 @@
     * Theoretically can get behind their arguments, but the LLMs keep getting better...
     * Right now the LLMs are slow and don't understand the physical world.
     * At the very least there needs to be more changes. Keep them grounded and what not.
+* Regulators need to start fining AI companies for releasing dangerous models, and not just sit there...
+    * This might work itself out tho if it starts to hurt other businesses.
+* Reward functions should be fine-grain not binary.
+    * Small reward to decide no answer or action.
+    * Bigger reward to positively affect outcomes.
+    * Need to quickly move beyond answering questions correctly.
+    * Need to add achievements. It works on Steam.
