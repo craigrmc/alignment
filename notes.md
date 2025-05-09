@@ -131,3 +131,9 @@
     * People seem to not understand that FSD can fail. You HAVE TO PAY ATTENTION TO THE ROAD.
     * Should stay in beta until reliability is close to %100. People are fucking dumb.
     * Autopilot works great when there are not any crazy apes on the road.
+* Building a doomsday bunker is not the right move. Push towards a future you want to live in.
+    * Doomsday bunkers are for shitty dystopian futures.
+* We are in the transition decade.
+    * Cars can sort of drive.
+    * AIs can sort of write code.
+    * They will be much more reliable in the next decade.
