@@ -19,6 +19,8 @@
 * Live and let Live
 * Open vs. Closed
 * Tools vs. Entities
+* Timelines
+    * Fast Takeoff or Slow Takeoff
 
 ## Thoughts
 
@@ -103,3 +105,11 @@
 * It is not okay to release / deploy unsafe AI models.
     * Saying that it is more open / safe to release prototypes to the public is just deferring responsibility.
     * These AIs are being sold as products and used in real companies. Safety matters here.
+* Don't really believe Daniel Kokotajlo's superfast timelines. Smarter to stick with Ray Kurzweil predictions.
+    * It is clear that intelligence is directly related to data processing. Expect jumps with new datacenters.
+    * But have been wrong so many times. Used to think image generators were stupid.
+    * Actually... used to think text generators were stupid too.
+* Are Ben Goertzel and Yann LeCun right about the limitations of LLMs?
+    * Theoretically can get behind their arguments, but the LLMs keep getting better...
+    * Right now the LLMs are slow and don't understand the physical world.
+    * At the very least there needs to be more changes. Keep them grounded and what not.
