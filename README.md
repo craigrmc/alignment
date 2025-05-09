@@ -4,12 +4,14 @@ An essay to help facility the transition to AGI and then ASI. A traditional Soft
 
 AI Alignment Essay:
 
-https://github.com/craigrmc/alignment/blob/main/essay.md
+[essay.html](https://craigrmc.github.io/alignment/essay.html)
+[essay.md](https://github.com/craigrmc/alignment/blob/main/essay.md)
 
 AI Alignment Links:
 
-https://github.com/craigrmc/alignment/blob/main/links.md
+[links.html](https://craigrmc.github.io/alignment/links.html)
+[links.md](https://github.com/craigrmc/alignment/blob/main/links.md)
 
 Home Page:
 
-https://craigrmc.github.io/alignment
+[craigrmc.github.io/alignment](https://craigrmc.github.io/alignment)
