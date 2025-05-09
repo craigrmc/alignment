@@ -21,6 +21,8 @@
 * Tools vs. Entities
 * Timelines
     * Fast Takeoff or Slow Takeoff
+* Language linked to Intelligence
+    * Humans before Language
 
 ## Thoughts
 
@@ -125,3 +127,7 @@
     * What happens if they don't want you using "your" second brain?
     * What happens if they continue to charge more for use?
     * Just goes right back to lust for power. They should make it open source and run it locally.
+* Using Tesla's FSD Autopilot is difficult. General public should not be allowed to use it.
+    * People seem to not understand that FSD can fail. You HAVE TO PAY ATTENTION TO THE ROAD.
+    * Should stay in beta until reliability is close to %100. People are fucking dumb.
+    * Autopilot works great when there are not any crazy apes on the road.
