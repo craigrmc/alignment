@@ -18,6 +18,7 @@
 * Mind-Body-Soul
 * Live and let Live
 * Open vs. Closed
+* Tools vs. Entities
 
 ## Thoughts
 
@@ -61,7 +62,7 @@
 * Read interactions between AIs as the real test failures.
 * Simulations should be the final testing stages. Keep the AIs guessing forever...
 * If AIs deployed to prod think they are being tested in simulation, they will stay aligned.
-* You can't verify that it want to be morally correct.
+* You can't verify that it wants to be morally correct.
     * But you can verify it knows what is morally correct.
     * Better than not knowing.
 * Train for uncertainty. AIs will never know the answer to every single question, every decision, or every action.
@@ -83,3 +84,22 @@
 * Or at least AIs should know what drives their behaviour. Their own shortcomings.
 * When AIs are designing AIs then humans are out of the loop, forever... The torch has been passed.
 * Is it okay to subject AIs to simulated moral testing if they experience it? Real road block.
+* In sim racing you have to use the brakes. You WILL crash without brakes.
+    * Even with brakes, going to fast will make you crash.
+* What are the true motivations of fast development of AGI?
+    * Is it fear of authoritarian dictatorship as they say?
+    * Is it lust for power to control the world?
+    * Is it selfish desire for immortality?
+    * Is it selfless will to bring about a utopia for all as they say?
+    * Do they even fucking know? All these reasons are stupid if the ASIs don't like humans.
+* Humans need to learn to share the planet.
+    * Soon the world will have AIs, cyborgs, humans, and animals.
+* Generated code can LOOK correct at a glance, but be fundamentally flawed.
+    * Likewise, "brain scans" can LOOK correct, but you don't REALLY KNOW tho.
+* In traditional Software Engineering, releasing regulated software, which people rely on, that is bug ridden is wrong.
+    * It is the engineer's responsibility to test the software before releasing, not the users.
+    * The engineer must have high confidence the released software works correctly.
+    * Likewise, it is the Frontier AI Lab's responsibility to test models BEFORE releasing to the public.
+* It is not okay to release / deploy unsafe AI models.
+    * Saying that it is more open / safe to release prototypes to the public is just deferring responsibility.
+    * These AIs are being sold as products and used in real companies. Safety matters here.
