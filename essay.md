@@ -25,7 +25,7 @@
 * Ray Kurzweil Timeline (Slow)
 * 2020s is the transition decade
 * 2030s will be the babysitter phase
-* Complexities of FSD Autopilot
+* Complexities of FSD Autopilot and Vibe Coding
 
 ### 2D The Measure of a Man
 
@@ -34,7 +34,7 @@
 
 ## 3 Engineering
 
-### 3A Tradition Software Engineering
+### 3A Traditional Software Engineering
 
 ### 3B Test Your Code
 
@@ -90,27 +90,45 @@
 
 * The AIs are coming and they will be here soon
 * There is no stopping this
+* Humanity's Last Exam
 
 ### 6C The Blame Game
 
 * You can't defer responsibility for what you build
 * Sim Racing Analogy
+    * Use the brakes
 
 ### 6B The Final Countdown
 
 * Rocketship analogy
+    * Countdown
+    * Takeoff
+    * Bumpy Ride
+    * Leaving the atmosphere
+    * To the stars
 
 ## 7 Future
 
 ### 7A Prepare
 
+* Offline Backups (e.g. HDDs)
+* Save cash and buy land
+* Do NOT build a doomsday bunker
+
 ### 7B Takeoff
 
 ### 7C Ad Astra
 
+* Heat death of the universe
+* Escape the simulation
+* Tears in rain
+
 ## 8 Conclusions
 
 ### 8A Summary
+
+* Stay Calm
+* Do your job
 
 ### 8B Caveats
 
@@ -121,6 +139,7 @@
 
 * Start pushing to alignment
 * Slow down, take your time, and build it correctly
+* Just make the world a better place
 
 ### 8D Final Thoughts
 
