@@ -7,83 +7,83 @@
 
 ## 1 Overview
 
-### 1.1 Background
+### 1A Background
 
-### 1.1 Purpose
+### 1A Purpose
 
 ## 1 Overton Window
 
-### 1.1 Tools or Entities
+### 1A Tools or Entities
 
-### 1.1 Control or Align
+### 1A Control or Align
 
-### 1.1 AI Rights
+### 1A AI Rights
 
 ## 1 Game Plan
 
-### 1.1 Datasets
+### 1A Datasets
 
-### 1.1 Seeding
+### 1A Seeding
 
-### 1.1 Bootstrapping
+### 1A Bootstrapping
 
-### 1.1 Self Play
+### 1A Self Play
 
-### 1.1 Fast or Slow
+### 1A Fast or Slow
 
-### 1.1 Traditional Software Engineering
+### 1A Traditional Software Engineering
 
-### 1.1 Positive Regulation
+### 1A Positive Regulation
 
-### 1.1 Negative Regulation
+### 1A Negative Regulation
 
-### 1.1 General Theory of Alignment
+### 1A General Theory of Alignment
 
 Alignment is relative not absolute and never perfect.
 
-### 1.1 Immersive Simulation
+### 1A Immersive Simulation
 
-### 1.1 Turtles all the way down
+### 1A Turtles all the way down
 
 ## 1 Traditional Software Engineering
 
-### 1.1 Test Your Code
+### 1A Test Your Code
 
-### 1.1 Iterate
+### 1A Iterate
 
 ## 1 History
 
-### 1.1 Efficiency
+### 1A Efficiency
 
-### 1.1 Productivity
+### 1A Productivity
 
 ## 1 The Great Filter
 
-### 1.1 Out-of-Time
+### 1A Out-of-Time
 
-### 1.1 The Final Countdown
+### 1A The Final Countdown
 
-### 1.1 The Blame Game
+### 1A The Blame Game
 
 ## 1 Future
 
-### 1.1 Prepare
+### 1A Prepare
 
-### 1.1 Takeoff
+### 1A Takeoff
 
-### 1.1 Ad Astra
+### 1A Ad Astra
 
 ## 1 Conclusions
 
-### 1.1 Summary
+### 1A Summary
 
-### 1.1 Recommendations
+### 1A Recommendations
 
-### 1.1 Final Thoughts
+### 1A Final Thoughts
 
 ## 1 References
 
-### 1.1 Analysis and Forecasts
+### 1A Analysis and Forecasts
 
 01: [AI 2027](https://ai-2027.com/)
 
@@ -103,17 +103,17 @@ Alignment is relative not absolute and never perfect.
 
 00: [Situational Awareness](https://situational-awareness.ai/)
 
-### 1.1 Research Papers
+### 1A Research Papers
 
 09: [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/pdf/2505.03335)
 
-### 1.1 Essay
+### 1A Essay
 
 00: [Dario](https://www.darioamodei.com/post/the-urgency-of-interpretability/)
 00: [The AI Revolution Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 00: [The AI Revolution Part 2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
 
-### 1.1 Podcasts
+### 1A Podcasts
 
 10: [AI Explained](https://podcasts.apple.com/us/podcast/ai-explained/id1696141521)
 
@@ -133,7 +133,7 @@ Alignment is relative not absolute and never perfect.
 
 18: [Unsupervised Learning](https://podcasts.apple.com/us/podcast/unsupervised-learning/id1672188924)
 
-### 1.1 Forums
+### 1A Forums
 
 19: [LessWrong](https://www.lesswrong.com/)
 
@@ -141,7 +141,7 @@ Alignment is relative not absolute and never perfect.
 
 21: [r/Singularity Subreddit](https://www.reddit.com/r/singularity/)
 
-### 1.1 Youtube
+### 1A Youtube
 
 22: [David Shapiro](https://www.youtube.com/@DaveShap/)
 
@@ -155,7 +155,7 @@ Alignment is relative not absolute and never perfect.
 
 27: [Wes Roth](https://www.youtube.com/@WesRoth/)
 
-### 1.1 Wikipedia
+### 1A Wikipedia
 
 00: [Overton Window](https://en.wikipedia.org/wiki/Overton_window)
 00: [Stargate SG-1 Replicators](https://en.wikipedia.org/wiki/List_of_Stargate_SG-1_characters#Replicators)
