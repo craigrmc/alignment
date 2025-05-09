@@ -1,6 +1,6 @@
 # AI Alignment Links
 
-## 1 Analysis and Forecasts
+## Analysis and Forecasts
 
 [AI 2027](https://ai-2027.com/)
 
@@ -20,11 +20,15 @@
 
 [TrackingAI](https://trackingai.org/IQ/)
 
-## 2 Research Papers
+## Books
 
-[Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/pdf/2505.03335)
+[Life 3.0](https://play.google.com/store/books/details/Max_Tegmark_Life_3_0?id=2hIcDgAAQBAJ&pli=1)
 
-## 3 Essays
+[Superintelligence](https://play.google.com/store/books/details/Nick_Bostrom_Superintelligence?id=1mMJBAAAQBAJ)
+
+[The Singularity is Near](https://play.google.com/store/books/details/Ray_Kurzweil_The_Singularity_Is_Near?id=9FtnppNpsT4C)
+
+## Essays
 
 [The AI Revolution Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 
@@ -32,7 +36,11 @@
 
 [The Urgency of Interpretability](https://www.darioamodei.com/post/the-urgency-of-interpretability/)
 
-## 4 Podcasts
+## Papers
+
+[Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/pdf/2505.03335)
+
+## Podcasts
 
 [AI Explained](https://podcasts.apple.com/us/podcast/ai-explained/id1696141521)
 
@@ -52,7 +60,7 @@
 
 [Unsupervised Learning](https://podcasts.apple.com/us/podcast/unsupervised-learning/id1672188924)
 
-## 5 Forums
+## Forums
 
 [LessWrong](https://www.lesswrong.com/)
 
@@ -60,7 +68,7 @@
 
 [r/Singularity](https://www.reddit.com/r/singularity/)
 
-## 6 Youtube
+## Youtube
 
 [David Shapiro](https://www.youtube.com/@DaveShap/)
 
