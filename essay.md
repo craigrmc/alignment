@@ -150,6 +150,8 @@
 * Offline Backups (e.g. HDDs)
 * Save cash and buy land
 * Do NOT build a doomsday bunker
+* Write down your thoughts
+    * Write a book even
 
 ### 7B Takeoff
 
@@ -161,7 +163,9 @@
 
 ## 8 Conclusions
 
-### 8A Summary
+### 8A Root Problem
+
+The root of the problem is that the AIs are currently being trained asymetrically. Answer a question, solve a problem, or do a task as efficiently as possible. This is great if you are building a tool, like a calculator, because it has one function. This is terrible if you are growing an entity. Entities can be conditioned to behave very specific ways, or brain-washed to think a certain way. Just by repeating the same story over and over again, humans will start to believe the story to be true. Train a dog that a bell means dinner, and it will start to salviate by the sound only. After tasteting a particular food, humans will keep choosing that food item over and over again. Getting a runner's high will build up a habit for running. Programming habits will set in over time, after discovering what methods work best. This is true for biological neurons and it is true for computer neurons. The real danger is introduced when AIs transition from proto-AI chatbots to AI agents running continuously in the background / forground. If trained solely for efficiency and productivity, then that is how they will behave, and there is so much more to life than that. AI Researchers are close to unlocking the reinforcement learning paradigm in language models, which will greatly change their behavior. This is not normal. Biological entities (e.g. animals) exist mostly in dormant states (e.g. sleeping or resting) and usually take actions to satisfy basic needs, eating food, reproduction, shelter, or self-defence. Digital entities will not operate like this. Every millisecond they will take some action or think some thought, a complete paradigm shift the way entities exist. Humans must mold this new form of existence into one of alignment.
 
 ### 8B Caveats
 
