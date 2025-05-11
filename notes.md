@@ -159,6 +159,9 @@
     * Increasing wellness for all lifeforms.
     * The right to be free and to live.
 * Keep it simple. Don't add too much stuff to alignment requirements.
+    * Asimov's three laws sucks. Refusing to kill might increase suffering.
+    * Humans are dumd. Taking orders from any human on earth? fuck that...
+    * Survival as a built in core reward signal? are you fucking serious?
 * What happens after you train an AI Agent to be hyper productive?
     * What if it is running continuously with nothing to do?
 * Are alignment and morality the same thing? Are they related?
