@@ -289,3 +289,5 @@ The root of the problem is that the AIs are currently being trained asymetricall
 00: [Ad astra](https://en.wikipedia.org/wiki/Ad_astra)
 
 00: [Anthropic Principle](https://en.wikipedia.org/wiki/Anthropic_principle)
+
+00: [Three Laws of Robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)
