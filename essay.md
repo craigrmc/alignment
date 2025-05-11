@@ -152,6 +152,13 @@
 * Do NOT build a doomsday bunker
 * Write down your thoughts
     * Write a book even
+* Stay Healthy
+    * Sleep - Diet - Excersize
+    * Don't Drink Alcohol
+    * Don't Smoke Cigaretes
+    * Don't do drugs
+    * Don't eat junk food
+* Be Risk Adverse
 
 ### 7B Takeoff
 
