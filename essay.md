@@ -120,7 +120,7 @@
 
 * The AIs are coming and they will be here soon
 * There is no stopping this
-* Humanity's Last Exam
+* The Final Exam
 
 ### 6C The Blame Game
 
@@ -287,3 +287,5 @@ The root of the problem is that the AIs are currently being trained asymetricall
 34: [Star Trek TNG The Measure of a Man](https://en.wikipedia.org/wiki/The_Measure_of_a_Man_(Star_Trek:_The_Next_Generation))
 
 00: [Ad astra](https://en.wikipedia.org/wiki/Ad_astra)
+
+00: [Anthropic Principle](https://en.wikipedia.org/wiki/Anthropic_principle)
