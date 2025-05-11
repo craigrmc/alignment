@@ -159,6 +159,15 @@
     * Don't do drugs
     * Don't eat junk food
 * Be Risk Adverse
+* The internet will soon be the wild west
+    * Beef up cyber security
+    * Use MFA everywhere
+    * Use unique generated passwords everywhere
+    * Try to use passkeys if possible
+    * Seperate your devices
+        * Keep Home and Work seperate
+        * Keep Game devices seperate
+        * Move from Windows to Chromebook or macOS
 
 ### 7B Takeoff
 
