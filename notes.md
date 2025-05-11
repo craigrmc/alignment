@@ -159,7 +159,7 @@
     * Increasing wellness for all lifeforms.
     * The right to be free and to live.
 * Keep it simple. Don't add too much stuff to alignment requirements.
-    * Asimov's three laws sucks. Refusing to kill might increase suffering.
+    * Asimov's three laws sucks. Self-defence is sometimes nessicary.
     * Humans are dumd. Taking orders from any human on earth? fuck that...
     * Survival as a built in core reward signal? are you fucking serious?
 * What happens after you train an AI Agent to be hyper productive?
@@ -171,3 +171,4 @@
     * Sci-Fi like Blade Runner shows the problematic combination (emotion, immaturiaty, god-like powers).
     * Stargate SG-1 has a Replicator named "Five" that has emotions.
     * Star Trek TNG has Commander Data that experiments with emotions.
+* If people can't accepted each other now, just wait until the cyborgs start appearing.
