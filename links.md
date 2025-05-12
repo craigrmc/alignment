@@ -86,6 +86,8 @@
 
 ## Sci-Fi
 
+[2001: A Space Odyssey](https://www.imdb.com/title/tt0062622/)
+
 [Ex Machina](https://www.imdb.com/title/tt0470752/)
 
 [Ghost in the Shell](https://www.imdb.com/title/tt0113568/)
