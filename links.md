@@ -78,6 +78,8 @@
 
 [Emergent Garden](https://www.youtube.com/@EmergentGarden/)
 
+[SFIA Isaac Arthur](https://www.youtube.com/@isaacarthurSFIA/)
+
 [Species Documenting AGI](https://www.youtube.com/@AISpecies/)
 
 [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers/)
