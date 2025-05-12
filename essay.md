@@ -259,6 +259,26 @@ The root of the problem is that the AIs are currently being trained asymmetrical
 
 ### 8C Recommendations
 
+Primary recommendation is do not build things that you do not understand.
+
+Secondary remommendation is more realistic. This is not a perfect world. The situation we are in is not ideal. Each generation of AI models should be pushed as close to human alignment as possible. Time for discussion has run out. It is time to act now before it is too late.
+
+General public should demand politicians to take AI Alignment seriously. Stay calm a prepare for a future with a bunch of AI Agents on the internet. Don't give AI Researchers incentives to build dangerous AI models as fast as possible (e.g. giving them money).
+
+Politically oriented humans should blame AI Researchers when models misbehave. Attempt to add light touch regulation to give incetive to frontier AI labs to not release and deploy dangerous AI models. Don't fall into the naritive that the US must beat China in the AI Race. If dangerous ASIs are created than no human wins. The tribal us vs. them mindset will destroy us all. We need to collaborate and work together to survive.
+
+University crowd should focus more on understanding AI model behaviour.
+
+Students should use their brains to do homework. Do not delegate 100% thinking to the AIs. It is impoartant to exercise the brain just like any other muscle. The best time to strengthen skills is during school. Cheating will only hurt yourself.
+
+Buisness people should think before integrating AI system into their companies. These should be considered highly experimentaly research projects instead of robust and reliable products.
+
+AI Researchers should strive to understand their creations. Use air gaps to contain frontier AI models. Increase resource allocation for saftey testing. Attempt to do high resolution brain scans on AI models. Incorpoerate alignment and morality into the training process. Attempt I/O alignment and morality checks into testing process.
+
+Software Engineers should not blindly adopt new AI workflows. Tread carefully and make sure that you continue to build high-quality, safe, and reliable products.
+
+Everyone should push toward alignment now. This transition will not be perfect. Just try to make the world a better place.
+
 * Stay Calm
 * Prepare for takeoff
 * Don't wait for someone else to save you
