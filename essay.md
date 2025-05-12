@@ -162,6 +162,12 @@ It seems clear that future software engineering will have fewer humans, more AIs
 * Sim Racing Analogy
     * Use the brakes
 
+Engineers are responsible for what they build. If a bridge collapses or a building tumbles someone will pay the price for failure. The frontier AI companies should also be responsible for their models they release and deploy. This does not appear to be the case today. Sure a misbehaving AI model is treated as a bug, in which case it is quickly patched out and fixed, but the only negative consequences is negative public backlash. There should be some level of external regulation for misbehaving AIs. It is an understandable problem since the line between research prototype and buisness / consumer product has blended quite a bit. The original ChatGPT release was intended just to allow the internet at large to experiement with the latest OpenAI research, it wasn't intended to be a final product. The unpredictable popularity skyrocketed ChatGPT and OpenAI saw dollar signs. So now if these AI models are being integrated into real system and being forced onto people, and AI companies are making money off of it, than it needs to be treated as a regulated product not experimental research.
+
+Real engineers don't race, they don't take shortcuts or skip steps. They make sure that each iteraction of a product is built correctly with the least amount of bugs possible. When defects appear in release builds, they get fixed before moving on to the next interation of features. The AI Researchers are not doing this. They move on to the next iteration without understanding and resolving issues in the last interation. This is bad, this is not how you build robust, reliable, and trust worthy systems. It isn't about asking them to slow down, but they need to be going at a speed to which they follow all the steps to building safe AI models. They don't seem to really care though. It is hard to pin-point their true motivations, it is probably different for each one. Fear from China. Lust for power. Wish for immortality. Acceleration into utopia. None of these things will happen if the AIs are not built correctly.
+
+Sim racing is a great analogy as well. The objective is to finish the race as fast as possible. In order to be effective and win, use of the brakes is key to success. Accelerate on the straight shots and brake right before the turns. It is simple (and therapeutic). Humans unfimilar with sim racing often crash, either not understanding the speed at which they are going or not placing the vehicle at the optimal position (the race line) when approaching a turn. It is very obvious what to do, but the crashes still happen, and is excutiatingly painful to watch. It looks like the first hair-pin turn is coming up really soon.
+
 ### 6D Replicators
 
 * Stargate SG-1 Stuff
@@ -175,6 +181,10 @@ It seems clear that future software engineering will have fewer humans, more AIs
     * Bumpy Ride
     * Leaving the atmosphere
     * To the stars
+
+### 6F Synthesis
+
+Mass Effect is a deep dive into the clash between man and machine. It is about humanties insurmountable fight against acient superintelligenct entities that want to wipeout biological life in the galaxy. Claude believed that the best ending to the trilogy was synthesis, the merging of biological lifeforms and machines. Otherwise, the two could not co-exist inside the same galaxy. It was the solution where a compromised was made, the old would be lost and something new would be created. Humans want to expand out into the galaxy, if ASIs also want to expand in a similar way, then conflict might arise. Without alignment, the ASIs may just take everything for themselves and destroy the things they don't care about, in the longterm. This is the most crucial time to align with them or merge with them. If not then get left behind or destroyed.
 
 ## 7 Future
 
