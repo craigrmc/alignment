@@ -66,13 +66,23 @@ But this is all philosophical. What matters here is the I/O of the AI Agents.
 
 ## 3 Engineering
 
-### 3A Traditional Software Engineering
+### 3A Old Era Software Engineering
+
+Traditional Software Engineering is all about building safe and reliable software. It is more than just writing code. It requires following processes and not skipping steps. Engineering differentiates it's self from developers or code monkeys by it's unrelintly persuit for robust, maintainable, and scaleable systems. It requires planning and methodical step-by-step iterations. Engineering software is essitail for ensuring that planes don't fall out of the sky or that a medial device gives a surgeon correct biometric data. It keeps humans safe.
 
 ### 3B Test Your Code
 
-### 3C Methodical Iterations
+Test your code. It sounds simple but humans tend to ignore it or don't utilize them enough. Unit tests are great. Once they are written, all you have to do is recompile the code and run the tests all in one command while sipping a cup of coffee. This immediately gives you a large amount of feedback for code changes. Although it won't catch everything, it will give a certain confidence level that it will work. Any subltle changes can be detected before any binaries are even run. Integration test will pickup the problems the unit test fail to find. It is a curcial step in a continous integration pipeline.
 
-### 3D Regulations
+It is important to keep the codebase in a good working state. Make a minor change, compile, run the tests, run the app, commit the code and repeat. If a method gets to big then break it apart. If a class gets to big, reorganize it. Don't copy / paste the code, make a util class. Make sure to wrap everything in tests. Make sure the continous integration builds are passing. It's not really about going slow, it is about going through each and every step, don't take shortcuts. These are a core principles of software engineering.
+
+### 3C New Era Software Engineering
+
+Vibe coding is not Software Engineering, at least not by default. The current proto-AIs are training to convert text to code, but they are not yet trained to fully replace Software Engineering. It will probably be the 2030s before the AGIs are copentent enough to follow the discipline. In the 2020s the field will change, just like it has always changed. Take a look back in time and try to build something in the 1990s without modern tools. It will soon be possible to point an AI at a cobebase and have it wrtie all the tests for every method and every class to the point where it reaches 99% code coverage. They will look over every single merge request for errors. They can reorganize the wiki documenation and find security vulnerabilties. There are so many ways usecase that it is hard to believe that things would stay the same for much longer. It's just that the AIs are just not smart enough to do it alone yet.
+
+Maybe in the 2030s humans will only handle the high level logic and let the AGIs handle the low level details. Humans write all the functional and non-functional requirements, draw the architecture diagrams, and define the relational database tables. AGIs write all the code and tests however they see fit. Then humans will run each iteration, making adjustments to the requirements and providing suggestions to the UI / UX on the front-end. Just keep running iterations until it is ready for prod, then the AGIs go and deploy it.
+
+It seems clear that future software engineering will have fewer humans, more AIs, and it will all go much faster.
 
 ## 4 Game Plan
 
