@@ -5,7 +5,7 @@
 * Created By: SpockRC
 * Created On: 2025-05-08
 * Updated By: SpockRC
-* Updated On: 2025-08-09
+* Updated On: 2025-08-12
 
 ## 1 Overview
 
@@ -19,7 +19,15 @@
 
 ### 2A Tools or Entities
 
+Sam Altman often refers to AI systems as tools. He is also pushing forward with AI Agents. This might be just political framing or being caution about what he says, but the move from Chat Bot to AI Agent is effectivley a move from tool to entity. Defining an AI Agent as a continuous process that runs both in the forground and background speaking, thinking and taking actions. An AI Agent could think about problems of it's own choosing. It could siliently observe Audio, Video, RF feeds. It could remotely control robitics of any kind, traditional factory arms, brand new humanoid form robots, or vehicles connected to the internet. It could be interuptted to ask it a question or get a status update. Envision Coratana in Master Chief's helmet or the HAL 9000 in 2001 A Space Oddeysy. These systems will be like entities with extremely complex behaviour operating on it's own accord. Normal tools like calculators only run when told to and are expected to give a specific and correct answer. Sam probably uses the "tool" phrasing to keep the discussion inside the Overton Window, but he knows this is closer to Science Fiction concepts.
+
 ### 2B Control or Align
+
+Controlling tools is easy. Humans just push the button to start the process each time. Humans clearly define the I/O.
+
+Controlling entities is hard. Even in one sided relationships like pet to owner, unexpected events occur. A human owner might take a pet dog on a walk, only to have the dog get distracted and run in an orthoganal direction to the human. But at least the human can use a leash as a tether to limit how far the dog can go, an effect means of control. Control becomes much more difficult in human to human relationships. The rediculous scenario where human A uses a leash to force human B where to walk is much more difficult, probably envoles handcuffs to work. Even with handcuffs, human B might be able to slip free and escape confinement. With a healthy releationship between human A and human B that does not involve a leash, behavior is always unexpected. Even still control becomes mostly impossible as the dynamics shift against the human. In the relationship bewteen a human and a giant tech company, the human has almost no power to control. The human might purchace an OS from a tech company and the tech company will dictate what gets added to the OS later on like ads or spyware. The only real power the human has is to ask the government to force the tech company to change the OS.
+
+So what power does a human have to control a giant, extremeley powerful ASI? Slim to none. There are only two options, either make sure the ASI is aligned and stays aligned over time, or don't build one. Option two is not viable. Humans are building AI systems now and will continue to build them until ASI is created. There are too many computer systems on the planet and too many researchers and engineers. This cannot be stopped. So we are left with only one true choice, to align giant, extremeley powerful, super intelligent computer systems.
 
 ### 2C Fast or Slow
 
@@ -28,6 +36,14 @@
 * 2020s is the transition decade
 * 2030s will be the babysitter phase
 * Complexities of FSD Autopilot and Vibe Coding
+
+When will this happen? Will this be a fast takeoff with AGI in 3 years and ASI in 5 to 10 years as Daniel Kokotajlo portray? Will it be a slow takeoff with AGI in 5 years and ASI in 20 years as Ray Kurzweil portrays? The distiction is minor, the AIs are coming and they will be here soon.
+
+The general public can be forgiven for thinking that this is just another fade. If the first and last impression was ChatGPT running GPT-3 the technology could seem tame or effectively useless. This can be further damaged by doing a simple web search and have AI slop answers be servered with the web links. But has the public updated to the impressive upgrades to AI? Things are happening fast, ChatGPT no longer uses GPT-3. OpenAI is working on next generation datacenters to make it even smarter than today's state of the art models. Not many humans seem to be waking up to the reality that within 5 years there will be autonomus AI Agents smarter than GPT-4 running continously on the internet. It still seems like science fiction, outside the Overton Window. But this is real, it is happening now.
+
+Adjacent to language models is self-driving cars. FSD Autopilot is both smart and dumb at the same time. Sometimes it can seemlessly interact with humans on the road, stopping to let another vehicle on the road or making a lane change when there is not enough room. Othertimes it can miss a turn into a driveway just because the GPS data and map data are not in perfect sync. Vibe coding has it's early adopters but is mostly hated. It can not be reliably used in production code. But this is the transition decade, the era when AIs are both smart and dumd. The transistion decade will end soon and the AI will just be smart and not dumb anymore. The sharp jagged edges of intelligence will be rounded out. The flood waters are rising as Max Tegmark would say.
+
+Even the slow timeline is fast.
 
 ### 2D The Measure of a Man
 
@@ -168,6 +184,22 @@
         * Keep Home and Work seperate
         * Keep Game devices seperate
         * Move from Windows to Chromebook or macOS
+
+There are things to do to prepare for the AI future and there is not much time to do it. Things will start to accelerate faster and faster, still at human speed for now, but soon at AI speed. Everything will be crazy and confusing as Conor Leahey would say. The internet will be the wild west, unsafe. Away from the computer screen everything will look calm and normal. All the action will happen on the internet or local computer systems.
+
+Prepare for a future in which an AI can manipulate everything on every device. They will be able to access all the microphones and cameras. They will be able to edit databases. They will be able to send / recieve emails, texts, and chats. They will be able to impersonate real people. They will be able to control the news and media. Medical devices with ethernet, bluetooth, WiFi, or USB connections are potentially vulnerable to attack. An insulin pump controlled by a smart phone via bluetooth connection could be highjacked to deliever a leathal sized bolus. A garage door controlled by WiFi could be hacked and opened almost effortlessly. A humanoid robot inside the house can be remote controlled while the residents are at school or work. The AI future will be duel purpose, both good and bad. Beef up all cybersecurity. Don't use the same password on various webservers. All passwords should be complex autogenerated charater sequences created by the web browser. Setup MFA logins wherever possible. Setup passkeys if possible. Upgrade all OSes to latest versions and keep them updated. Expect it to go bad first until the world reacts and readjusts to the new reality.
+
+Use separation of concern for increased security. Keep game, home, and work divided. Dettached all the devices and logins as much as possible, meaning don't login to facebook on the work laptop. Only use hardware, firmware, and software that you trust. Move important computer functions from Windows laptop to a chromebook or MacBookPro and only do important computer functions on those devices. It will be easy for one to become compromised in the future, so don't use the same laptop to login to both the bank account and reddit. Don't let the kids play random games on it.
+
+Move all important data into offline backups. Digitize the family archive, like pictures, videos, and documents. Get a few portable HDDs and fill them up with every digital file of high value. Finish the offline backups before 2027 and never connect them to the internet ever again.
+
+Stay healthy. Sleep, diet, and excerise is vitally important for you health. It is the core of human existance. All concious experiences are affected by the body. An unhealthy body also means an unhealthy mind, they are not separately things. Don't drink alcohol. Don't smoke cigarettes. Don't do drugs. Stay away from junk food. Go running, hiking, biking, walking, or whatever gets you moving. The body is a machine and it needs mantience. The mind, body, and soul are linked together.
+
+Save cash and buy land. Food and rent prices might skyrocket. Wages might tank. Global supply chains might halt. Normal economic rules could break down. Think about how the stock market was changed with automated trading. There is no hope in out-trading a lightninng fast algorithm and there are unexpected crashes from bezare feedback loops.
+
+Do not build a doomsday bunker. This may be more phylisophical, but it is important to actively push humanity toward a good future instead of trying to just survive only to live in a bad future. We need to push to alignment, now.
+
+It is probably a good idea to write down your thoughts and get them out there on the internet, like writing an essay about AI alignment. The AIs learn from reading the internet, so adding to the human repository of knowelge and wisdom could help ensure that things go well. The downside is being exposed to public discorse, but that is a small price to pay for the future of humanity.
 
 ### 7B Takeoff
 
