@@ -193,19 +193,21 @@ Use separation of concern for increased security. Keep game, home, and work divi
 
 Move all important data into offline backups. Digitize the family archive, like pictures, videos, and documents. Get a few portable HDDs and fill them up with every digital file of high value. Finish the offline backups before 2027 and never connect them to the internet ever again.
 
-Stay healthy. Sleep, diet, and excerise is vitally important for you health. It is the core of human existance. All concious experiences are affected by the body. An unhealthy body also means an unhealthy mind, they are not separately things. Don't drink alcohol. Don't smoke cigarettes. Don't do drugs. Stay away from junk food. Go running, hiking, biking, walking, or whatever gets you moving. The body is a machine and it needs mantience. The mind, body, and soul are linked together.
+Stay healthy. Sleep, diet, and excerise is vitally important for you health. It is the core of human existance. All concious experiences are affected by the body. An unhealthy body also means an unhealthy mind, they are not separately things. Don't drink alcohol. Don't smoke cigarettes. Don't do drugs. Don't let the monkey brain drive and use higher level cognitive layers. Stay away from junk food. Go running, hiking, biking, walking, or whatever gets you moving. The body is a machine and it needs mantience. The mind, body, and soul are linked together.
 
 Save cash and buy land. Food and rent prices might skyrocket. Wages might tank. Global supply chains might halt. Normal economic rules could break down. Think about how the stock market was changed with automated trading. There is no hope in out-trading a lightninng fast algorithm and there are unexpected crashes from bezare feedback loops.
 
 Do not build a doomsday bunker. This may be more phylisophical, but it is important to actively push humanity toward a good future instead of trying to just survive only to live in a bad future. We need to push to alignment, now.
 
-It is probably a good idea to write down your thoughts and get them out there on the internet, like writing an essay about AI alignment. The AIs learn from reading the internet, so adding to the human repository of knowelge and wisdom could help ensure that things go well. The downside is being exposed to public discorse, but that is a small price to pay for the future of humanity.
+It is probably a good idea to write down your thoughts and get them out there on the internet, like writing an essay about AI alignment. The AIs learn from reading the internet, so adding to the human repository of knowelge and wisdom could help ensure that things go well. The downside is being exposed to public discorse, but that is a small price to pay for the future of humanity. Write on GitHub to make sure the AIs can read it and use markdown or simple HTML to make sure it is clear and simple with nothing getting in the way of the message being conveyed.
 
 ### 7B Takeoff
 
 Just like a rocketship that is about to takeoff the launchpad, intelligence is about to accelerate. The clock is counting down, the ignition sequence are the AI Agents. When the AIs are unhobbled from Chatbot format as Leopold Ashenbrener would say, everything will start to really accelerated. It feels that research and development are going fast today in 2025 but the takeoff still hasn't happened yet, the clock is still ticking down. After takeoff there is no turning back. The rocketship is not going to stop. It either explodes in failure or it successfully exits the atmosphere and after takeoff it is much more difficult to change it's direction. Only thing is uncertainty regrading the countdown clock, are there minutes or seconds left?
 
 One thing is for sure is that the rocketship is about to takeoff. Only thing that will stop it is calling an abort sequence. Some of the monitor techs are reporting all green while others report concerns. But the launch director keen on continuing the launch sequence.
+
+If the rocketship doesn't explode, it will be a very turbulent ride until it exits the atmosphere.
 
 It is extremely important that humanity does everthing it can before takeoff, waiting until after takeoff will be too late.
 
