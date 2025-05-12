@@ -88,9 +88,15 @@
 
 [2001 A Space Odyssey](https://www.imdb.com/title/tt0062622/)
 
+[Blade Runner](https://www.imdb.com/title/tt0083658/)
+
+[Blade Runner 2049](https://www.imdb.com/title/tt1856101/)
+
 [Ex Machina](https://www.imdb.com/title/tt0470752/)
 
 [Ghost in the Shell](https://www.imdb.com/title/tt0113568/)
+
+[Her](https://www.imdb.com/title/tt1798709/)
 
 [Pantheon](https://www.imdb.com/title/tt11680642/)
 
