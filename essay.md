@@ -56,6 +56,14 @@ Even the slow timeline is fast.
 * Mind-Body-Soul
 * Religion and Spirituality
 
+Did the universe give rise to conciousness or did conciousness give rise to the physical universe? One thing is for sure and that conciousness can be effectively transferred from one area to another. When a user puts on a VR headset the physical world is suppressed and a new digital world is layered over it. Premitive yet effective, it is like being warpped into a new reality or existence. VR systems will probably improve overtime, maybe even reaching direct brain stimulation via a BCI. Maybe this universe is an immersive simulation controlled by a computer interfacae. Ultimately there is no way to tell. The only thing for sure is that this universe does exist in some form with at least one concious entity in it. Hopefully it is many concious entities though, it would be extremely depressed to learn that this is a single-player game. All alone, forever.
+
+Have the AI Researhers unlocked the secrets to conciousness in the same way they unlocked the secrects to intelligence? Is conciousness just data processing like Sam Harris suggests? It is unclear, but if it is possible to have a concious seintient thinking computer then the AIs will figure out how to do it at somepoint.
+
+There is clear relationship between mind, body, and soul. They are linked togther. They effect each other. Human thoughts and actions are governed by the physical body. They directly correlate with biometric data (e.g. glucose, insulin, oxygen, etc.). Physical attributes correlate (hungry, tiredness, fatigue, etc.). Mental states correlate to the physical body, stress can lead to hunger. Conciousness is the balance between mind, body, and soul.
+
+But this is all philosophical. What matters here is the I/O of the AI Agents.
+
 ## 3 Engineering
 
 ### 3A Traditional Software Engineering
