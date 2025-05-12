@@ -86,7 +86,7 @@
 
 ## Sci-Fi
 
-[2001: A Space Odyssey](https://www.imdb.com/title/tt0062622/)
+[2001 A Space Odyssey](https://www.imdb.com/title/tt0062622/)
 
 [Ex Machina](https://www.imdb.com/title/tt0470752/)
 
@@ -94,7 +94,9 @@
 
 [Pantheon](https://www.imdb.com/title/tt11680642/)
 
-[Star Trek: TNG](https://www.imdb.com/title/tt0092455/)
+[Raised by Wolves](https://www.imdb.com/title/tt9170108/)
+
+[Star Trek TNG](https://www.imdb.com/title/tt0092455/)
 
 [Stargate SG-1](https://www.imdb.com/title/tt0118480/)
 
