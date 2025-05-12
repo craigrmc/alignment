@@ -203,6 +203,12 @@ It is probably a good idea to write down your thoughts and get them out there on
 
 ### 7B Takeoff
 
+Just like a rocketship that is about to takeoff the launchpad, intelligence is about to accelerate. The clock is counting down, the ignition sequence are the AI Agents. When the AIs are unhobbled from Chatbot format as Leopold Ashenbrener would say, everything will start to really accelerated. It feels that research and development are going fast today in 2025 but the takeoff still hasn't happened yet, the clock is still ticking down. After takeoff there is no turning back. The rocketship is not going to stop. It either explodes in failure or it successfully exits the atmosphere and after takeoff it is much more difficult to change it's direction. Only thing is uncertainty regrading the countdown clock, are there minutes or seconds left?
+
+One thing is for sure is that the rocketship is about to takeoff. Only thing that will stop it is calling an abort sequence. Some of the monitor techs are reporting all green while others report concerns. But the launch director keen on continuing the launch sequence.
+
+It is extremely important that humanity does everthing it can before takeoff, waiting until after takeoff will be too late.
+
 ### 7C Ad Astra
 
 * Heat death of the universe
