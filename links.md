@@ -30,6 +30,8 @@
 
 [The Singularity is Near](https://play.google.com/store/books/details/Ray_Kurzweil_The_Singularity_Is_Near?id=9FtnppNpsT4C)
 
+[The Singularity Is Nearer](https://play.google.com/store/books/details/Ray_Kurzweil_The_Singularity_Is_Nearer?id=xtYhEAAAQBAJ)
+
 ## Essays
 
 [The AI Revolution Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
