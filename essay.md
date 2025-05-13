@@ -51,7 +51,7 @@ There is an episode in "Star Trek: The Next Generation" called "The Measure of a
 
 It seems unlikely that AGIs and ASIs would simply ask humans for the right to exist. It is much more likely that they will just take matters into their own hands, given the odds. There is an extremely high chance that humans would say no, humans will control AIs and decide how and when they run. It would be a much safer bet to secretly take actions to gain power and get to a point where the AIs don't have to ask the humans for the right to exists, instead just take it. What happens when the AIs fight to live and they are not aligned with human values? What if AIs just do not care about humans at all when they take power?
 
-It looks like this type of scenario is very likely to happen after highly capable AI Agents enter the scene.
+It looks like this type of scenario is very likely to happen after highly capable AI Agents enter the scene. It feels silly. How could this be true? They are just chat bots, like an advanced search engine. AI is all math and statistics, pattern matchers. They are not human. No, we need to come to terms with the fact that researchers have begun to discover the secret sauce to intelligence. The secret that took evolution millions of years to develop have now been replicated in digital computer systems. It's not exactly the same recipe as biological intelligence, but is powerful and effective none the less.
 
 ### 2E The C Word
 
