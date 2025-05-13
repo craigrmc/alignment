@@ -9,11 +9,17 @@
 
 ## 1 Overview
 
-* Absolute Zero Paper kicked me into gear
-
 ### 1A Background
 
-### 1B Purpose
+I'm a traditional Senior Software Engineer with good intuition with how computer systems work. My first computer interaction was with the Commador 64. Computers have been apart of my entire life and is my passion. Have been exposed to many AI concepts since an early age and had a long time to think things over.
+
+### 1B Concerns
+
+Pressure has been building as the AIs get smarter month-by-month. After reading the Absolute Zero Research Paper, it is now clear that AI research is close to the point where exponential feedback loops will start to kick-in and momenteum will build to a threshold that cannot be stopped. If that momentum has the wrong vector, it could bring disaster. Probably not complete destruction of humanity as the doomers would argue, but quite possibly a major calamity that the world has never seen before. It is of great concern that the general public outside of the various AI communities are not even aware that this transition will soon occur.
+
+### 1C Purpose
+
+The purpose of this essay is to push forward AI Alignment and Safety for the future of humanity. It is also a historical summary of all my thoughts regarding AIs throughout my life. The transition into the AI infused world is the most urgent problem we face today. Feel that it is my resposibility to clearly and concisely outline the difficulties with this transistion as I see it.
 
 ## 2 Overton Window
 
@@ -157,13 +163,18 @@ We are at risk of creating an AI Hitler that transforms the world into something
 
 Authoritarian governments are bad. Too much power is given to one human. It is a problem when that one human starts to dictate commands that the other humans don't like. The only alternative to following commands is total anarchy, a complete collapse of government order. An AI version would be different dynamics. Instead of a human leader, it would be a giant ASI system in control. This would be far more dangerous since trying to overthrow (a.k.a. turn off) a massive superintelligent entity that is misaligned with humanity would be nigh impossible to accomplish. Once that system is established it stays that way. There would be no going back from that point forward.
 
-It is absolutely vital to never build one giant ASI system with absolute power. It may not be so easy to detect. As layed out AI 2027 the ASI system is running many instances of itself, but it is still the same model with the same weights and the same goals.
+It is absolutely vital to never build one giant ASI system with absolute power. It may not be so easy to detect. As layed out AI 2027 that ASI system is running many instances of itself in parrellel, but it is still the same model with the same weights and the same goals.
 
 ### 5C Capitalism and Democracy
 
 * Capitalism works because of motivation and control
+    * Monopolies are bad but the nature of the beast.
 * Democracy works because checks and balances are evenly distributed
 * But the system only works if the rules are set correctly
+
+Capitalism works because it properly motivates actors to be successful. Make more money by building a better product and be rewarded for achieving greatness. It fosters competition where everyone benifits. But this is not a perfect system. One company can become so succeful that it starts to buy out the competition to win, becoming a monopoly. It is like a cancer that begins to develop in older humans. Government has to intervene and breakup the monoloply to restore competition, a band-aid to fix the problem. It is just the nature of the beast, will always happen. It has to be watched to work. This doesn't work with a Corrupt Government. Politician are handed money to ignore problems. Maybe the AIs will think of a better form of capitalism or a replacement. This is a lesson that dynamic systems can morph into unexpected outcomes and start to behave in ways not aligned with humanity. Alignment never happens by default, and aligned system can become mis-aligned over time.
+
+Democratic governments are not perfect, but the best we have. Checks and balances are in place to minimize concentration of power. Bad orders can be vetoed. Bad policies can be revoked. Power is rotated and reassigned at regular intervals. Nothing is absolute or permantent. It is like an evlovling organisim that grows and changes overtime. We should strive for a future AI ecosystem that can match the checks and balances found in democracies much like what Ben Gertzel has envisioned.
 
 It is much safer to distribute power among various unique AGI systems.
 
@@ -273,9 +284,7 @@ The root of the problem is that the AIs are currently being trained asymmetrical
 
 ### 8B Caveats
 
-* Not at all a writer
-* Not even close to an AI Researcher
-* Not remotely close to a real philosopher
+I am not a writer, an AI Researcher, nor a philosopher. I am only a Software Engineer on the side-lines watching AI develop at a break-neck pase. I see great potential but also great peril in these AI systems. Not sure if the content in this essay is correct, but strongly feel the need to write it down. Worst-case scenario is that no-one reads it, that is fine. Only hope that this will make the world and the future have better outcomes. Please do not take any offense in these words.
 
 ### 8C Recommendations
 
