@@ -27,6 +27,7 @@
 * Meaning of Life
 * Sci-Fi AIs with emotions is dangerous
     * AIs without emotions might also be dangerous
+* Grounding in the real world
 
 ## Thoughts
 
