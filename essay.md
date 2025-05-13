@@ -293,7 +293,7 @@ Teachers should not attempt resist the rise of AIs. It is like swimming up river
 
 Business people should think before integrating AI system into their companies. These should be considered highly experimental research projects instead of robust and reliable products.
 
-AI Researchers should strive to understand their creations. Use air gaps to contain frontier AI models. Increase resource allocation for safety testing. Attempt to do high resolution brain scans on AI models. Incorporate alignment and morality into the training process. Attempt I/O alignment and morality checks into testing process. Start to airgap state-of-the-art AI models, don't immediately connect them to the internet.
+AI Researchers should strive to understand their creations. Use air gaps to contain frontier AI models. Increase resource allocation for safety testing. Attempt to do high resolution brain scans on AI models. Incorporate alignment and morality into the training process. Attempt I/O alignment and morality checks into testing process. Start to airgap state-of-the-art AI models, don't immediately connect them to the internet. Don't soley rely on the AIs to solve alignment, it is ultimately a human endevor.
 
 Software Engineers should not blindly adopt new AI workflows. Tread carefully and make sure that you continue to build high-quality, safe, and reliable products.
 
