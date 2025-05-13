@@ -143,13 +143,21 @@ It is unnerving to think about the evolution of language. At some point in the p
 
 Language is a massive tool for higher levels of intelligence. Only after mastering it could humanity move forward, colaborate, trade, specialize, belong to groups. Longterm storage of language in books ensures that hard earned revelation are not forgot and remembered across time. It is the backbone of modern civilization.
 
-In hindsight, it is so obviously that training computers to learn language is the secret sauce to inbueing them with intelligence.
+In hindsight, it is so obvious that training computers to learn language is the secret sauce to inbueing them with intelligence.
 
 ### 5B Efficiency and Productivity
 
 * Nazi Analogy
 * Communism doesn't work
 * Authoritarianism doesn't work
+
+World War Two was a terify chapter in human history, but a powerful lesson. In regards to the AI Agent future some mistakes from the past might unfortunately be repeated. The Nazi's wanted to rebuild the world and were willing to mercilessly kill in order to do it. They wanted to cleanse humanity from, as they saw it, the weakest portions of the population. It was a plan to cull huamns for the sake of efficieny, with blantant disregard to the lives lost. A sick inhuman mindset devoid of morality, a complete disregard for the complex diversity and beauty of all lifeforms on the planet. This is why AI Alignment is so important. The AIs are currenlty being trained to solve problems with efficiency and productivity, but there is more to life than that. The Nazi's came very close to turning the planet into hellish nightmare. Their goals were not aligned with humanity.
+
+We are at risk of creating an AI Hitler that transforms the world into something we don't want.
+
+Authoritarian governments are bad. Too much power is given to one human. It is a problem when that one human starts to dictate commands that the other humans don't like. The only alternative to following commands is total anarchy, a complete collapse of government order. An AI version would be different dynamics. Instead of a human leader, it would be a giant ASI system in control. This would be far more dangerous since trying to overthrow (a.k.a. turn off) a massive superintelligent entity that is misaligned with humanity would be nigh impossible to accomplish. Once that system is established it stays that way. There would be no going back from that point forward.
+
+It is absolutely vital to never build one giant ASI system with absolute power.
 
 ### 5C Capitalism and Democracy
 
@@ -285,7 +293,7 @@ Teachers should not attempt resist the rise of AIs. It is like swimming up river
 
 Business people should think before integrating AI system into their companies. These should be considered highly experimental research projects instead of robust and reliable products.
 
-AI Researchers should strive to understand their creations. Use air gaps to contain frontier AI models. Increase resource allocation for safety testing. Attempt to do high resolution brain scans on AI models. Incorporate alignment and morality into the training process. Attempt I/O alignment and morality checks into testing process.
+AI Researchers should strive to understand their creations. Use air gaps to contain frontier AI models. Increase resource allocation for safety testing. Attempt to do high resolution brain scans on AI models. Incorporate alignment and morality into the training process. Attempt I/O alignment and morality checks into testing process. Start to airgap state-of-the-art AI models, don't immediately connect them to the internet.
 
 Software Engineers should not blindly adopt new AI workflows. Tread carefully and make sure that you continue to build high-quality, safe, and reliable products.
 
