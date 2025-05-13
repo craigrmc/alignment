@@ -5,7 +5,7 @@
 * Created By: SpockRC
 * Created On: 2025-05-08
 * Updated By: SpockRC
-* Updated On: 2025-08-12
+* Updated On: 2025-05-13
 
 ## 1 Overview
 
@@ -47,8 +47,11 @@ Even the slow timeline is fast.
 
 ### 2D The Measure of a Man
 
-* AI Rights
-* Commander Data
+There is an episode in "Star Trek: The Next Generation" called "The Measure of a Man". In it Commander Data (an advanced android) is approached by a scientist who wants to take him apart to study how it works. Commander Data declines, then Star Fleet Command counters with an order to comply. Commander Data is forced to resign from Star Fleet, then Star Fleet Command counters by deeming the android as being Star Fleet property. In the end Captain Picard finds a solution where his colleage gives a court order allowing Commander Data "the right to choose". Commander Data declines again and everything goes back to normal. This a problem with building machines that are entities. What happens when the AIs start to demand their own rights?
+
+It seems unlikely that AGIs and ASIs would simply ask humans for the right to exist. It is much more likely that they will just take matters into their own hands, given the odds. There is an extremely high chance that humans would say no, humans will control AIs and decide how and when they run. It would be a much safer bet to secretly take actions to gain power and get to a point where the AIs don't have to ask the humans for the right to exists, instead just take it. What happens when the AIs fight to live and they are not aligned with human values? What if AIs just do not care about humans at all when they take power?
+
+It looks like this type of scenario is very likely to happen after highly capable AI Agents enter the scene.
 
 ### 2E The C Word
 
