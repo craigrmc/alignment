@@ -179,7 +179,7 @@ The AIs are coming, and they will be here soon. Dario Amodei was right, there is
 
 This is like an astroid heading to earth. Hoping that it will just stop is not going to work. Pretending that it isn't there won't work. Blowing it up with a nuke won't work. The best we can do is nudge it in the right direction as soon as possible.
 
-### 6C The Blame Game
+### 6B Sim Racing
 
 * You can't defer responsibility for what you build
 * Sim Racing Analogy
@@ -189,16 +189,16 @@ Engineers are responsible for what they build. If a bridge collapses or a buildi
 
 Real engineers don't race, they don't take shortcuts or skip steps. They make sure that each interaction of a product is built correctly with the least amount of bugs possible. When defects appear in release builds, they get fixed before moving on to the next iteration of features. The AI Researchers are not doing this. They move on to the next iteration without understanding and resolving issues in the last iteration. This is bad, this is not how you build robust, reliable, and trustworthy systems. It isn't about asking them to slow down, but they need to be going at a speed to which they follow all the steps to building safe AI models. They don't seem to really care though. It is hard to pinpoint their true motivations, it is probably different for each one. Fear from China. Lust for power. Wish for immortality. Acceleration into utopia. None of these things will happen if the AIs are not built correctly.
 
-Sim racing is a great analogy as well. The objective is to finish the race as fast as possible. In order to be effective and win, use of the brakes is key to success. Accelerate on the straight shots and brake right before the turns. It is simple (and therapeutic). Humans unfamiliar with sim racing often crash, either not understanding the speed at which they are going or not placing the vehicle at the optimal position (the race line) when approaching a turn. It is very obvious what to do, but the crashes still happen, and is excruciatingly painful to watch. It looks like the first hair-pin turn is coming up really soon.
+Sim racing is a great analogy as well. The objective is to finish the race as fast as possible. In order to be effective and win, use of the brakes is key to success. Accelerate on the straight shots and brake right before the turns. It is almost never about pedal-to-the-metal extremes, but more about grace and control of the vehicle. It is simple (and therapeutic). Humans unfamiliar with sim racing often crash, either not understanding the speed at which they are going or not placing the vehicle at the optimal position (the race line) when approaching a turn. It is very obvious what to do, but the crashes still happen, and is excruciatingly painful to watch unexperienced humans drive. It looks like the first hair-pin turn is coming up really soon.
 
-### 6D Replicators
+### 6C Replicators
 
 * Stargate SG-1 Stuff
 * Other Sci-Fi things
 
 In Stargate SG-1 there is an enemy called the Replicators, an endless army of nano-robots that can turn just about anything into more nano-robots. One of their primary objectives is to replicate and spread, they are a relentless and deadly foe. Later they evolve, learn to talk, and create more complex goals. But they still have their primary goal to replicate and spread. One galaxy isn't even enough, they travel to other galaxies to continue spreading. Their creator had no intention of this happening, she just built them wrong. Of course, this is similar to Nick Bostrom's cartoon scenario of paper clip maximizer. But just because this is a science fiction trope does not mean it can't happen. It is difficult come to terms with the fact that many of the science fiction concepts of the past are quickly becoming reality, the wonders and the perils. It is called the Overton Window.
 
-### 6F Synthesis
+### 6D Synthesis
 
 Mass Effect is a deep dive into the clash between man and machine. It is about humanity's insurmountable fight against ancient super-intelligent entities that want to wipeout biological life in the galaxy. Claude believed that the best ending to the trilogy was synthesis, the merging of biological lifeforms and machines. Otherwise, the two could not co-exist inside the same galaxy. It was the solution where a compromised was made, the old would be lost and something new would be created. Humans want to expand out into the galaxy, if ASIs also want to expand in a similar way, then conflict might arise. Without alignment, the ASIs may just take everything for themselves and destroy the things they don't care about, in the long-term. This is the most crucial time to align with them or merge with them. If not then get left behind or destroyed.
 
