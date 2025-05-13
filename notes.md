@@ -176,3 +176,5 @@
 * It is easy to get mad at people that interfere with plans.
     * An AI that has emotions and wants to solve problems can be dangerous.
     * An AI that values solving problems above everyting else is super dangerous.
+    * It is a context limit issue. Can't see the bigger picture beyond the one problem.
+        * This is a known issue to AI researchers.
