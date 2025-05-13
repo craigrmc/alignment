@@ -139,9 +139,9 @@ It seems clear that future software engineering will have fewer humans, more AIs
 * Increasing levels of cooperation
 * Tool use
 
-It is unnerving to think about the evolution of language. At some point in the past, humans had no language. Their existence was more basic. No way to convey complex concepts to each other. No inner monologue to think through problems. No way to chronolical history. Then only using basic words to identify humans, objects, and locations. Attempting to just sit and meditate with no thoughts or words is immensely difficult and unconfortable. The inner monologe is on by default and very useful to have.
+It is unnerving to think about the evolution of language. At some point in the past, humans had no language. Their existence was more basic. No way to convey complex concepts to each other. No inner monologue to think through problems. No way to chronolical history. Then only using basic words to identify humans, objects, and locations. Grunting and pointing at each other. Attempting to just sit and meditate with no thoughts or words is immensely difficult and unconfortable. The inner monologe is on by default, flows like water, and very useful to have.
 
-Language is a massive tool for higher levels of intelligence. Only after mastering it could humanity move forward, colaborate, trade, specialize, belong to groups. Longterm storage of language in books ensures that hard earned revelation are not forgot and remembered across time. It is the backbone of modern civilization.
+Language is a massive tool for higher levels of intelligence. Only after mastering it could humanity move forward, colaborate, trade, specialize, belong to groups. Longterm storage of language in books ensures that hard earned revelation are not forgotten and remembered across time. It is the backbone of modern civilization.
 
 In hindsight, it is so obvious that training computers to learn language is the secret sauce to inbueing them with intelligence.
 
@@ -157,13 +157,15 @@ We are at risk of creating an AI Hitler that transforms the world into something
 
 Authoritarian governments are bad. Too much power is given to one human. It is a problem when that one human starts to dictate commands that the other humans don't like. The only alternative to following commands is total anarchy, a complete collapse of government order. An AI version would be different dynamics. Instead of a human leader, it would be a giant ASI system in control. This would be far more dangerous since trying to overthrow (a.k.a. turn off) a massive superintelligent entity that is misaligned with humanity would be nigh impossible to accomplish. Once that system is established it stays that way. There would be no going back from that point forward.
 
-It is absolutely vital to never build one giant ASI system with absolute power.
+It is absolutely vital to never build one giant ASI system with absolute power. It may not be so easy to detect. As layed out AI 2027 the ASI system is running many instances of itself, but it is still the same model with the same weights and the same goals.
 
 ### 5C Capitalism and Democracy
 
 * Capitalism works because of motivation and control
 * Democracy works because checks and balances are evenly distributed
 * But the system only works if the rules are set correctly
+
+It is much safer to distribute power among various unique AGI systems.
 
 ## 6 The Great Filter
 
