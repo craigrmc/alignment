@@ -22,15 +22,17 @@
 
 ## Books
 
-[Life 3.0](https://play.google.com/store/books/details/Max_Tegmark_Life_3_0?id=2hIcDgAAQBAJ&pli=1)
+[Life 3.0](https://www.google.com/books/edition/Life_3_0/2hIcDgAAQBAJ)
 
-[Superintelligence](https://play.google.com/store/books/details/Nick_Bostrom_Superintelligence?id=1mMJBAAAQBAJ)
+[Superintelligence](https://www.google.com/books/edition/Superintelligence/1mMJBAAAQBAJ)
 
-[The Artilect War](https://www.amazon.com/Artilect-War-Controversy-Concerning-Intelligent/dp/0882801546)
+[The Artilect War](https://www.google.com/books/edition/The_Artilect_War/8IAfAQAAIAAJ)
 
-[The Singularity is Near](https://play.google.com/store/books/details/Ray_Kurzweil_The_Singularity_Is_Near?id=9FtnppNpsT4C)
+[The Evolution of Language](https://www.google.com/books/edition/The_Evolution_of_Language/r4IhAwAAQBAJ)
 
-[The Singularity Is Nearer](https://play.google.com/store/books/details/Ray_Kurzweil_The_Singularity_Is_Nearer?id=xtYhEAAAQBAJ)
+[The Singularity is Near](https://www.google.com/books/edition/The_Singularity_Is_Near/9FtnppNpsT4C)
+
+[The Singularity Is Nearer](https://www.google.com/books/edition/The_Singularity_Is_Nearer/oAriEAAAQBAJ)
 
 ## Essays
 
