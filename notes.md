@@ -173,3 +173,6 @@
     * Stargate SG-1 has a Replicator named "Five" that has emotions.
     * Star Trek TNG has Commander Data that experiments with emotions.
 * If people can't accepted each other now, just wait until the cyborgs start appearing.
+* It is easy to get mad at people that interfere with plans.
+    * An AI that has emotions and wants to solve problems can be dangerous.
+    * An AI that values solving problems above everyting else is super dangerous.
