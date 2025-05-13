@@ -139,6 +139,12 @@ It seems clear that future software engineering will have fewer humans, more AIs
 * Increasing levels of cooperation
 * Tool use
 
+It is unnerving to think about the evolution of language. At some point in the past, humans had no language. Their existence was more basic. No way to convey complex concepts to each other. No inner monologue to think through problems. No way to chronolical history. Then only using basic words to identify humans, objects, and locations. Attempting to just sit and meditate with no thoughts or words is immensely difficult and unconfortable. The inner monologe is on by default and very useful to have.
+
+Language is a massive tool for higher levels of intelligence. Only after mastering it could humanity move forward, colaborate, trade, specialize, belong to groups. Longterm storage of language in books ensures that hard earned revelation are not forgot and remembered across time. It is the backbone of modern civilization.
+
+In hindsight, it is so obviously that training computers to learn language is the secret sauce to inbueing them with intelligence.
+
 ### 5B Efficiency and Productivity
 
 * Nazi Analogy
@@ -274,6 +280,8 @@ Politically oriented humans should blame AI Researchers when models misbehave. A
 University crowd should focus more on understanding AI model behaviour.
 
 Students should use their brains to do homework. Do not delegate 100% thinking to the AIs. It is important to exercise the brain just like any other muscle. The best time to strengthen skills is during school. Cheating will only hurt yourself.
+
+Teachers should not attempt resist the rise of AIs. It is like swimming up river, it is really difficult, won't get very far, and at some point you get tired stop and loose all progress you have made. Adpat and change. Find new ways to teach.
 
 Business people should think before integrating AI system into their companies. These should be considered highly experimental research projects instead of robust and reliable products.
 
