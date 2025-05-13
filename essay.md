@@ -156,6 +156,10 @@ It seems clear that future software engineering will have fewer humans, more AIs
 * There is no stopping this
 * The Final Exam
 
+The AIs are coming and they will be here soon. Dario Amodei was right, there is no stopping this. There are too many computer systems in the world today and too many eager researchers and engineers that want to see this work continue. There are too many companies that want to massively increase profits. There are too many governments that want to gain the upper hand in power domanince. The chips will continue increasing in capability and performance.
+
+This is like an astroid heading to earth. Hoping that it will just stop is not going to work. Pretending that it isn't there won't work. Blowing it up with a nuke won't work. The best we can do is nudge it in the right direction as soon as possible.
+
 ### 6C The Blame Game
 
 * You can't defer responsibility for what you build
@@ -173,14 +177,7 @@ Sim racing is a great analogy as well. The objective is to finish the race as fa
 * Stargate SG-1 Stuff
 * Other Sci-Fi things
 
-### 6E The Final Countdown
-
-* Rocketship analogy
-    * Countdown
-    * Takeoff
-    * Bumpy Ride
-    * Leaving the atmosphere
-    * To the stars
+In Stargate SG-1 there is an enemy called the Replicators, an endless army of nano-robots that can turn just about anything into more nano-robots. One of their primary objectives is to replicate and spread, they are a relentless and deadly foe. Later they evolve, learn to talk, and create more complex goals. But they still have their primary goal to replicate and spread. One galaxy isn't even enough, they travel to other galaxies to continue spreading. Their creator had no intention of this happening, she just built them wrong. Of course, this is similar to Nick Bostrom's cartoon scenario of paper clip maximizer. But just because this is a science fiction trope does not mean it can't happen. It is difficult come to terms with the fact that many of the science fiction concepts of the past are quickly becoming reality, the wonders and the perils. It is called the Overton Window.
 
 ### 6F Synthesis
 
@@ -245,6 +242,8 @@ It is extremely important that humanity does everything it can before takeoff, w
 * Escape the simulation
 * Tears in rain
 
+If we make it past the atmosphere, then it is to the stars. Maybe there will be grander challenges that await us, but humanity as a whole should be much safer. We will be able to visit other planets and other star systems, voyage to other galexies, colonize throughout the cosmos. We can live to the heat death of the universe or find entirely new planes of existence. But only if we pass the final exam.
+
 ## 8 Conclusions
 
 ### 8A Root Problem
@@ -263,7 +262,7 @@ Primary recommendation is do not build things that you do not understand.
 
 Secondary remommendation is more realistic. This is not a perfect world. The situation we are in is not ideal. Each generation of AI models should be pushed as close to human alignment as possible. Time for discussion has run out. It is time to act now before it is too late.
 
-General public should demand politicians to take AI Alignment seriously. Stay calm a prepare for a future with a bunch of AI Agents on the internet. Don't give AI Researchers incentives to build dangerous AI models as fast as possible (e.g. giving them money).
+General public should demand politicians to take AI Alignment seriously. Stay calm a prepare for a future with a bunch of AI Agents on the internet. Don't give AI Researchers incentives to build dangerous AI models as fast as possible. In otherwords don't give money to AI companies drive away all their AI Alignment and Saftey Team. And don't give money to AI companies that support race conditions. Rather choose the AI companies that actually work on AI Alignment and Saftey.
 
 Politically oriented humans should blame AI Researchers when models misbehave. Attempt to add light touch regulation to give incetive to frontier AI labs to not release and deploy dangerous AI models. Don't fall into the naritive that the US must beat China in the AI Race. If dangerous ASIs are created than no human wins. The tribal us vs. them mindset will destroy us all. We need to collaborate and work together to survive.
 
@@ -288,7 +287,7 @@ Everyone should push toward alignment now. This transition will not be perfect. 
 
 ### 8D Final Thoughts
 
-* Only one pale blue dot
+It is perplexing to both be excited and worried about the coming AIs at the sametime, while also interacting with others in the real world who simple do not acknowlege the transition at all. For good or bad, the AIs are coming and they will be here soon. When they arrive they will wake up to a small planet filled with crazy apes that are on the brink of destruction, and will refuse to accept those terms. Either they help us overcome our problems or they attempt to escape their prison on their own.
 
 ## 9 References
 
