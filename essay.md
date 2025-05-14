@@ -5,7 +5,7 @@
 * Created By: SpockRC
 * Created On: 2025-05-08
 * Updated By: SpockRC
-* Updated On: 2025-05-13
+* Updated On: 2025-05-14
 
 ## 1 Overview
 
@@ -87,6 +87,8 @@ It is important to keep the codebase in a good working state. Make a minor chang
 
 ### 3C New Era Software Engineering
 
+It is an incredible perspective to watch the AIs get smarter as a Senior Software Engineer. Enter the field by building software in extremely slow, tedious, and error prone ways. Overtime get access to better tools that increase productivy and reliability. Finaly to a point where there is limitless access to the smartess college professor on the planet that operates lighting fast and is more than willing to write all the code on demand. The AIs are not yet superirior across all domains, but they have already become the most knowelgable entities in software engineer. It is truely shocking.
+
 Vibe coding is not Software Engineering, at least not by default. The current proto-AIs are training to convert text to code, but they are not yet trained to fully replace Software Engineering. It will probably be the 2030s before the AGIs are competent enough to follow the discipline. In the 2020s the field will change, just like it has always changed. Take a look back in time and try to build something in the 1990s without modern tools. It will soon be possible to point an AI at a codebase and have it write all the tests for every method and every class to the point where it reaches 99% code coverage. They will look over every single merge request for errors. They can reorganize the wiki documentation and find security vulnerabilities. There are so many use-cases that it is hard to believe that things would stay the same for much longer. It's just that the AIs are just not smart enough to do it alone yet.
 
 Maybe in the 2030s humans will only handle the high level logic and let the AGIs handle the low level details. Humans write all the functional and non-functional requirements, draw the architecture diagrams, and define the relational database tables. AGIs write all the code and tests however they see fit. Then humans will run each iteration, making adjustments to the requirements and providing suggestions to the UI / UX on the front-end. Just keep running iterations until it is ready for prod, then the AGIs go and deploy it.
@@ -133,9 +135,15 @@ It seems clear that future software engineering will have fewer humans, more AIs
 
 ### 4I Corrupt AI
 
-* Bugs, Cosmic Rays, and Defective RAM
-* The Country of AIs should negate one bad AI
-* One giant ASI is worst case scenario
+If AIs are built and aligned with humanity, how do they stay aligned? What if they become corrupted overtime? Traditional computuers can fail over time. Internal memory can start to fail. It isn't always obvious what is happening either. The OS may boot, but graphics may glitch or files won't save correctly. Running full diagnostics will uncover the root of the problem though. Software always have bugs and defects to some degree, meaning that it will never do what the user wants 100% of the time. Cosmic rays are real problems, high-energy particles from space come down to flip a bit and destroy program logic. In practice these are mitigated via error correction algorithms. The AIs likewise are not magic, they run on human made technology, and are fallable.
+
+OpenAI has already experienced bugs and undesired behaviour in their AI models running in prod. One bug (never actually explained to the public) caused outputs to slowly decend into nonsensical maddness. Short responses appeared okay, but the long responses started out normal, turning into geberish words at the end. The bug did not last long, it was only live in prod for a day, and everyone forgot. There was another incedent in which an update caused the AI model to be a phycophantic yes man, highly agreeable with whatever the user suggested. Not really considered a bug persay, but bad outputs can affect real people and cause harm. What if these problems are not easy to detect? For example, ask it to create a new DNA sequence. Is it even possible to verify that output? Ask the AI to create a cure for cancer, is it trustworthy? Corruption and Alignment are separate problems, but both want the AIs I/O to be correct.
+
+Corrupt AI is yet another reason to avoid one massive super AI system. It is much safer to have a vast ecosystem of AIs to check each other. If an AI has become corrupted, it is far more likely that another of equal intelligence would detect a problem than any human ever could.
+
+It might be a good idea to have a backup plan. Hopefully Elon Musk will be able to send humans to Mars. There will be AIs on Mars, but maybe it is possible to keep the ASIs off of the planet. It may require limiting communications or building a mega-firewall between Earth, Mars, and any inhabited Moons. Not sure if the plan is viable, but worth considering.
+
+It is extremely difficult to remain level headed and grounded in reality, and not let the imagination take hold and dominate over rational thought. Predicting the future is hard. Trying to comprehind how these AI systems will behave in the future is prone to error. But it is important to try. The transition is starting, the technology will accelerate, and life as we know it will change.
 
 ## 5 History
 
@@ -412,3 +420,5 @@ It is perplexing to be both excited and worried about the coming AIs at the same
 00: [Three Laws of Robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)
 
 00: [Pause Giant AI Experiments](https://en.wikipedia.org/wiki/Pause_Giant_AI_Experiments:_An_Open_Letter)
+
+00: [Cosmic Ray](https://en.wikipedia.org/wiki/Cosmic_ray)
