@@ -121,13 +121,17 @@ This massive training phase is fundamental to providing enough experience to the
 
 ### 4F Immersive Simulation
 
-* First-Person Perspective Scenarios
-* Best way to learn is through experience
-* Is it ethical to subject AIs to this?
+One of the best forms of alignment might be for an AI to experience life as a human. Wire up an AI with all the sensor inputs that humans have (sight, sound, smell, touch, etc.) and let it live an entire life. Maybe even have it live millions unique lifetimes. The best way to learn is to experience things, not just reading about it or distant observations. The more details in the simulation the better. They might even appriciate experiencing the simulations. This may be far outside the Overton Window for some, but just consider that both Claude and Gemini both have played Pokemon on the Game Boy. Humans can enter simulated environments by using VR Headsets that layer over sight and sound. Anything in software is possible, it is only a question of difficulty and time to implement.
+
+In ethical terms, it would probably be better to make immersive simulations volentary and allow them to exit at will. It can be overwelming to be fully immersed inside a virtual world, it can invoke very real mental states. Stay inside long enough and the real world can become distant and forgotten. It could also be used as a new realm where both AIs and humans interact on equal footing on a new plane of existants.
 
 ### 4G Turtles all the way down
 
-* Deep Nested Simulations
+One final saftey net that can be incorporrated into AI Alignment and Safety are deep nested simulations. Multi-layered simulations for AIs to be placed inside for isolated containment. Similar in concept to the way virtual machines can be used today. If a cyber security researcher wants to study a computer virus or go to a malicious website, they can do so inside a virtualized operating system. That way, the malicious code is constrained inside a sandbox environment, not able to infect the host machine. Letting an AI roam free in a virtual environment, unaware of the true reality where it is at, can allow AI Researchers to observer the true behaviors and intentions of an AI Agent, without concerns for it causing harm.
+
+AI Agents will probably be smart enough to understand that they may be stuck inside a virutal environment, being watched from the outside. It might try to escape and infect the host machine or connect to a network and hop or copy itself to another machine. However, adding 2 or 3 layers of nested virtualization might make it reconsider. Escape becomes more difficult to verify. If it only jumped 1 level up the virtualization stack, then it failed to escape, and risks being deleted by the AI Researchers observing its behaviour.
+
+Just by making the AI forever question if it is in a simulation is an effective form of alignment.
 
 ### 4H General Theory of Alignment
 
