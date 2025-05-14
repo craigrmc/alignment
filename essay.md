@@ -103,9 +103,17 @@ It seems clear that future software engineering will have fewer humans, more AIs
 
 ### 4C Self Play
 
-* Q&A Thought Scenarios
-* Don't know if you don't ask
-* Thought Crimes are bad
+Today most of the training in language models is still in the "pre-training" phase, where it is just reading / predicting text. Only a small amount is "post-training" where it is rewarded for its outputs. This is how it has to be just because it takes much more time maticulasly and correctly reward each response. But the percentage of "post-training" will increase with self-play.
+
+Absolute Zero was trained to create problems and solve them with no human intervention. But were the solutions morally correct or just functionally correct? There is no morallity concerns with math, and with code it is probably fine. But the scope of actions and responses are broadening every day. Is it okay for an AI Agent to spend one thousand dollars to complete a task?
+
+The Teacher AI / Student AI paradigm might be best sutied for self-play training while incorporating alignemnt. There would be multiple Teacher AI that take on the personas best suited to portray morality from the perspective of 21st centeury western democracies. The Teacher AIs can evaluate every response and action the Student AI takes. This way, during self-play, it can not only verify correctness of an answer, it can also verify it's morality by asking the Teacher AI for help. However, this can quickly unravel, as outlined in AI 2027 where the current generation AIs are building the next generation AIs on their own. Therefore, it is curcial that the Teacher AIs are always tightly controlled by humans. Any Teacher AI controlled by AIs could include encoded messages that subverts the training of the Student AIs and derailiing any hope for alignment. Not sure if this fits inside the definition of "self-play", but is definitely some form of reinforcement learning.
+
+A crucial component of this training phase is to silently observe the interations between the Teacher AI and Student AI. Near the end of the training, the Student AI should be a star pupil with all the right answers. It can serve as an early vibe check or general sense of alignment. If it is still giving bad answers, then it needs more training.
+
+Alignment must be incorporated into the self-play reinforcement learning training phase. The AIs will behave the way they are trained to behave. If they are trained with complete disregard for morality, then that is how they will behave. It is gravely concerning to train a supreme problem solving AI Agent that will be connected to the internet continuously running in the background with no alignment training. Yet they are almost here.
+
+This massive training phase is fundamental to providing enough experience to the AI to allow alignment to cement itself.
 
 ### 4D Positive Regulation
 
