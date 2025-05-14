@@ -117,7 +117,13 @@ This massive training phase is fundamental to providing enough experience to the
 
 ### 4D Positive Regulation
 
+Small, light touch regulation would be a postive impact on AI Alignment and Safety. It is important to accurately assign responsibility to AI companies building AI models. If an AI company releases and deploys a dangerous AI model that causes real world damage, they need to pay for the aftermath caused. There must be incentives to build AI models safely. Expecting companines to "self-regulate" is simply unrealistic.
+
 ### 4E Negative Regulation
+
+Too much regulation can have massive negative consequences. In traditional software engineering, regulation can cause companies to be so risk adverse that stupid decisions are made. Highly detailed processes are put in place and never changed, crystalized in time. Development is closely watched and slowed to a snails pace. Features are debated over at great length. From the outside perspective the final product appears uninspired and lazy, but it is just an inherint nature from the constraints the system has placed on it.
+
+Good healthy software needs room to breath, it needs to be free.
 
 ### 4F Immersive Simulation
 
