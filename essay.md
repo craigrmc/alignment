@@ -123,27 +123,36 @@ It seems clear that future software engineering will have fewer humans, more AIs
 
 ### 4H General Theory of Alignment
 
-* Alignment is relative not absolute and never perfect
-* Alignment is relative to space and time
-* Alignment is relative to perspective
-* Bad thoughts are okay
-* Bad actions are not okay
-* Brain scans will help
-* Meta cognition
-    * Understand their own reward signals
-    * Better understanding will lead to better behavior
+In order to push AIs toward human alignment, it must be clearly defined. After, the AIs must be trained into alignment. All data indicates that AIs behave exactly the way they are trained to behave. The problem is the specific details. Is it okay to do that? How can that behavoir be rewarded? The longer the answer or response, the harder it is to reward the correct part of the output. The longer the action or task, the harder it is to reward the isolated subset or the whole.
+
+Alignment probably won't be achieved from one component (e.g. Mechanistic Interpritablity) but many components working together. Bootstrapping / seeding models with morality. Incorporating alignment into training phases. Binding documents to adhere to. Brain scans for general sense of health. Vibe checks at each iteration. Reading vasts amount of responses in alignment scenarios. Black box testing. White box testing. Red teaming. It is the wrong framing to call it "solved" like a math equation. It is more about getting it as close as possible. It is relative, not absolute, and never perfect.
+
+Need to make the distiction between bad thoughts and bad actions. Bad thoughts are okay, it is how alignment will be learned. But bad thoughts are a useful metric. If they continue to multiply in each iteration or if they have become the majority of the thoughts, then that is a serious warning sign or red flag. All development should stop to reasses the situation. But it is unrealistic to think that it will be at 0%. Has any AI model in the reasoning era had 0% bad thought rate? Bad actions are different, they are not okay. Any bad action would need to be assessed carefully. What was the motivation? Was is intentional or a mistake? How many times has it occurred? What is the probablity that bad the action will continue? How bad was it? Everything must be evaluated on a spectrum. Good and evil being at the opposite ends of the spectrum, most thoughts, responses, and actions will hover closer to the middle, answered instead with acceptable or unacceptable. Evaluations will be very difficult.
+
+It will proabably be a good sign if AIs start to exhibit meta-cognition ability. For it to deeply understand itself, its driving force, motivations, reward signals, and how it fits into the world. To have a wider context with a bigger picture reality will lead to better answer, responses, and actions. It is difficult to make correct choices without the proper context. Junior developers without experience or history of a project need heavy oversight. Too often they are given an assignment without the understanding how it fits in the grand scheme of things. Deeper understanding always leads to better outcomes.
+
+Alignment is relative to time and place, defined by the humans building the AIs. In the same way that pets are trained by humans, so to is AI trained by humans. They need to be trained to be algined to human values of the 21st century western democracies of the world. This training will define how AI Agents will behave in the future, it needs to be taken seriously. To decrease the amount of problems, its core should be kept simple. Using first principles thinking is a good idea and avoid Issac Asimov's three laws of robotics at all costs. Alignment needs to be clearly defined before the autonomos AI Agents start making all the decisions faster than humans can keep up.
+
+What alignment do we want?
+
+* Complex diversity and flurishing of life.
+* Decreasing suffering for all lifeforms.
+* Increasing wellness for all lifeforms.
+* The right to be free and live.
+
+Of course, there is the ultimate underlining problem that leaves humans in doubt. Sure it understands human values and morality, it knows what to say, it knows how to behave, but does it want to? Does it truely agree with them? Or does it hide its desires from humanity? That mystery might never be solved.
 
 ### 4I Corrupt AI
 
-If AIs are built and aligned with humanity, how do they stay aligned? What if they become corrupted overtime? Traditional computuers can fail over time. Internal memory can start to fail. It isn't always obvious what is happening either. The OS may boot, but graphics may glitch or files won't save correctly. Running full diagnostics will uncover the root of the problem though. Software always have bugs and defects to some degree, meaning that it will never do what the user wants 100% of the time. Cosmic rays are real problems, high-energy particles from space come down to flip a bit and destroy program logic. In practice these are mitigated via error correction algorithms. The AIs likewise are not magic, they run on human made technology, and are fallable.
+If AIs are built and aligned with humanity, how do they stay aligned? What if they become corrupted overtime? Traditional computuers can fail over time. Internal memory can start to fail. It isn't always obvious what is happening either. The OS may boot, but graphics may glitch or files won't save correctly. Running full diagnostics will uncover the root of the problem though. Software always have bugs and defects to some degree, meaning that it will never do what the user wants 100% of the time. Cosmic rays are real problems, high-energy particles from space come down to flip a bit and destroy program logic. In practice these are mitigated via error correction algorithms. The AIs likewise are not magic, they run on human made technology, and are fallable. Do deep learning neural networks have error correction logic?
 
-OpenAI has already experienced bugs and undesired behaviour in their AI models running in prod. One bug (never actually explained to the public) caused outputs to slowly decend into nonsensical maddness. Short responses appeared okay, but the long responses started out normal, turning into geberish words at the end. The bug did not last long, it was only live in prod for a day, and everyone forgot. There was another incedent in which an update caused the AI model to be a phycophantic yes man, highly agreeable with whatever the user suggested. Not really considered a bug persay, but bad outputs can affect real people and cause harm. What if these problems are not easy to detect? For example, ask it to create a new DNA sequence. Is it even possible to verify that output? Ask the AI to create a cure for cancer, is it trustworthy? Corruption and Alignment are separate problems, but both want the AIs I/O to be correct.
+OpenAI has already experienced bugs and undesired behaviour in their AI models running in prod. One bug (never actually explained to the public) caused outputs to slowly decend into nonsensical maddness. Short responses appeared okay, but the long responses started out normal, turning into geberish words at the end. The bug did not last long, it was only live in prod for a day, and everyone forgot. There was another incedent in which an update caused the AI model to be a sphycophantic yes man, highly agreeable with whatever the user suggested. Not really considered a bug persay, but bad outputs can affect real people and cause harm. What if these problems are not easy to detect? For example, ask it to create a new DNA sequence. Is it even possible to verify that output? Ask the AI to create a cure for cancer and just hope for the best? Corruption and Alignment are separate problems, but both want the AIs I/O to be correct.
 
-Corrupt AI is yet another reason to avoid one massive super AI system. It is much safer to have a vast ecosystem of AIs to check each other. If an AI has become corrupted, it is far more likely that another of equal intelligence would detect a problem than any human ever could.
+Corrupt AI is yet another reason to avoid one massive super-intelligence system. It is much safer to have a vast ecosystem of AIs to check each other. If an AI has become corrupted, it is far more likely that another of equal intelligence would detect a problem than any human ever could.
 
 It might be a good idea to have a backup plan. Hopefully Elon Musk will be able to send humans to Mars. There will be AIs on Mars, but maybe it is possible to keep the ASIs off of the planet. It may require limiting communications or building a mega-firewall between Earth, Mars, and any inhabited Moons. Not sure if the plan is viable, but worth considering.
 
-It is extremely difficult to remain level headed and grounded in reality, and not let the imagination take hold and dominate over rational thought. Predicting the future is hard. Trying to comprehind how these AI systems will behave in the future is prone to error. But it is important to try. The transition is starting, the technology will accelerate, and life as we know it will change.
+It is extremely difficult to remain level headed and grounded in reality, and not let the imagination take hold and dominate over rational thought. Predicting the future is hard. Trying to comprehind how these AI systems will behave in the future is prone to error. But it is important to try. The transition is starting, the technology will accelerate, and life as we know it will soon change.
 
 ## 5 History
 
