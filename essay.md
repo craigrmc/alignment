@@ -327,7 +327,7 @@ The root of the problem is that the AIs are currently being trained asymmetrical
 
 ### 8B Caveats
 
-I am not a writer, an AI Researcher, nor a philosopher. I am only a Software Engineer on the side-lines watching AI develop at a break-neck pase. I see great potential but also great peril in these AI systems. Not sure if the content in this essay is correct, but strongly feel the need to write it down. Worst-case scenario is that no-one reads it, that is fine. Only hope that this will make the world and the future have better outcomes. Please do not take any offense in these words.
+I am not a writer, an AI Researcher, nor a philosopher. I am definetely not a doomer. I am only a Software Engineer on the side-lines watching AI develop at a break-neck pace. I see great potential but also great peril in these AI systems. Not sure if the content in this essay is correct, but strongly feel the need to write it down. Worst-case scenario is that no-one reads it, that is fine. Only hope that this will make the world and the future have better outcomes. Please do not take any offense in these words.
 
 ### 8C Recommendations
 
