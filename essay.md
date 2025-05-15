@@ -5,7 +5,7 @@
 * Created By: SpockRC
 * Created On: 2025-05-08
 * Updated By: SpockRC
-* Updated On: 2025-05-14
+* Updated On: 2025-05-15
 
 ## 1 Overview
 
@@ -398,62 +398,20 @@ It is perplexing to be both excited and worried about the coming AIs at the same
 
 13: [The Urgency of Interpretability](https://www.darioamodei.com/post/the-urgency-of-interpretability/)
 
-### 9D Podcasts
-
-14: [AI Explained](https://podcasts.apple.com/us/podcast/ai-explained/id1696141521)
-
-15: [Doom Debates](https://podcasts.apple.com/us/podcast/doom-debates/id1751366208)
-
-16: [Dwarkesh Podcast](https://podcasts.apple.com/us/podcast/dwarkesh-podcast/id1516093381)
-
-17: [Future of Life Institute Podcast](https://podcasts.apple.com/us/podcast/future-of-life-institute-podcast/id1170991978)
-
-18: [Google DeepMind The Podcast](https://podcasts.apple.com/us/podcast/google-deepmind-the-podcast/id1476316441)
-
-19: [Lex Fridman Podcast](https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584)
-
-20: [Machine Learning Street Talk](https://podcasts.apple.com/us/podcast/machine-learning-street-talk-mlst/id1510472996)
-
-21: [The Cognitive Revolution](https://podcasts.apple.com/us/podcast/the-cognitive-revolution-ai-builders-researchers-and/id1669813431)
-
-22: [Unsupervised Learning](https://podcasts.apple.com/us/podcast/unsupervised-learning/id1672188924)
-
-### 9E Forums
-
-23: [LessWrong](https://www.lesswrong.com/)
-
-24: [r/Accelerate Subreddit](https://www.reddit.com/r/accelerate/)
-
-25: [r/Singularity Subreddit](https://www.reddit.com/r/singularity/)
-
-### 9F Youtube
-
-26: [David Shapiro](https://www.youtube.com/@DaveShap/)
-
-27: [Dr Waku](https://www.youtube.com/@DrWaku/)
-
-28: [Emergent Garden](https://www.youtube.com/@EmergentGarden/)
-
-29: [Species Documenting AGI](https://www.youtube.com/@AISpecies/)
-
-30: [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers/)
-
-31: [Wes Roth](https://www.youtube.com/@WesRoth/)
-
-### 9G Wikipedia
-
-32: [Overton Window](https://en.wikipedia.org/wiki/Overton_window)
-
-33: [Stargate SG-1 Replicators](https://en.wikipedia.org/wiki/List_of_Stargate_SG-1_characters#Replicators)
-
-34: [Star Trek TNG The Measure of a Man](https://en.wikipedia.org/wiki/The_Measure_of_a_Man_(Star_Trek:_The_Next_Generation))
+### 9D Wikipedia
 
 00: [Ad astra](https://en.wikipedia.org/wiki/Ad_astra)
 
 00: [Anthropic Principle](https://en.wikipedia.org/wiki/Anthropic_principle)
 
-00: [Three Laws of Robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)
+00: [Cosmic Ray](https://en.wikipedia.org/wiki/Cosmic_ray)
+
+00: [Overton Window](https://en.wikipedia.org/wiki/Overton_window)
 
 00: [Pause Giant AI Experiments](https://en.wikipedia.org/wiki/Pause_Giant_AI_Experiments:_An_Open_Letter)
 
-00: [Cosmic Ray](https://en.wikipedia.org/wiki/Cosmic_ray)
+00: [Star Trek TNG The Measure of a Man](https://en.wikipedia.org/wiki/The_Measure_of_a_Man_(Star_Trek:_The_Next_Generation))
+
+00: [Stargate SG-1 Replicators](https://en.wikipedia.org/wiki/List_of_Stargate_SG-1_characters#Replicators)
+
+00: [Three Laws of Robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)
