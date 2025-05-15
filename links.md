@@ -82,6 +82,8 @@
 
 [Emergent Garden](https://www.youtube.com/@EmergentGarden/)
 
+[Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI/)
+
 [SFIA Isaac Arthur](https://www.youtube.com/@isaacarthurSFIA/)
 
 [Species Documenting AGI](https://www.youtube.com/@AISpecies/)
