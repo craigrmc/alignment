@@ -328,11 +328,11 @@ It is perplexing to be both excited and worried about the coming AIs at the same
 
 09: [Situational Awareness](https://situational-awareness.ai/)
 
-### 9B Research Papers
+### 9B Papers
 
 10: [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/pdf/2505.03335)
 
-### 9C Essay
+### 9C Essays
 
 11: [The AI Revolution Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 
