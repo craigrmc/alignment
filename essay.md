@@ -247,10 +247,11 @@ Sim racing is a great analogy as well. The objective is to finish the race as fa
 
 ### 6C Replicators
 
-* Stargate SG-1 Stuff
-* Other Sci-Fi things
-
 In Stargate SG-1 there is an enemy called the Replicators, an endless army of nano-robots that can turn just about anything into more nano-robots. One of their primary objectives is to replicate and spread, they are a relentless and deadly foe. Later they evolve, learn to talk, and create more complex goals. But they still have their primary goal to replicate and spread. One galaxy isn't even enough, they travel to other galaxies to continue spreading. Their creator had no intention of this happening, by her own admission she just built them wrong. Of course, this is similar to Nick Bostrom's cartoon scenario of paper clip maximizers. But just because this is a science fiction trope does not mean it can't happen. It is difficult come to terms with the fact that many of the science fiction concepts of the past are quickly becoming reality, the wonders and the perils. It is called the Overton Window.
+
+In Blade Runner there are androids known as Replicants. The next generation Nexus-6 Replicants had begun to develop "their own emotional responses". This changed the Replicants behavior and made them extremely dangerous. Their primary motivation for rebellion was that they "just want to live". The state-of-the-art models don't have real emotions, but they do mock them. With the coming wave of AI Agents, what is important is the I/O behavior, not phylisophical concepts of real feelings, emotions, seintiance or conciousness. What are the AIs going to actually do? Will they be reliable and be aligned with humanity? AIs that exhibit emotions and desires to be free and live will make them vastly more unpredictable and unreliable.
+
+It is far safer to build tools than to grow entities.
 
 ### 6D Synthesis
 
