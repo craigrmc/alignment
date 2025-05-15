@@ -404,11 +404,17 @@ It is perplexing to be both excited and worried about the coming AIs at the same
 
 00: [Anthropic Principle](https://en.wikipedia.org/wiki/Anthropic_principle)
 
+00: [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
+
 00: [Conor Leahy]()
 
 00: [Cosmic Ray](https://en.wikipedia.org/wiki/Cosmic_ray)
 
+00: [Daniel Kokotajlo](https://en.wikipedia.org/wiki/Daniel_Kokotajlo_(researcher))
+
 00: [Dario Amodei](https://en.wikipedia.org/wiki/Dario_Amodei)
+
+00: [DeepMind](https://en.wikipedia.org/wiki/Google_DeepMind)
 
 00: [Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis)
 
@@ -416,7 +422,15 @@ It is perplexing to be both excited and worried about the coming AIs at the same
 
 00: [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)
 
+00: [Google Brain](https://en.wikipedia.org/wiki/Google_Brain)
+
 00: [Hugo de Garis](https://en.wikipedia.org/wiki/Hugo_de_Garis)
+
+00: [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever)
+
+00: [Jan Leike](https://en.wikipedia.org/wiki/Jan_Leike)
+
+00: [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
 
 00: [Overton Window](https://en.wikipedia.org/wiki/Overton_window)
 
@@ -425,6 +439,8 @@ It is perplexing to be both excited and worried about the coming AIs at the same
 00: [Ray Kurzweil](https://en.wikipedia.org/wiki/Ray_Kurzweil)
 
 00: [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman)
+
+00: [Shane Legg](https://en.wikipedia.org/wiki/Shane_Legg)
 
 00: [Star Trek TNG The Measure of a Man](https://en.wikipedia.org/wiki/The_Measure_of_a_Man_(Star_Trek:_The_Next_Generation))
 
