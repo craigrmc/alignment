@@ -424,6 +424,12 @@ It is perplexing to be both excited and worried about the coming AIs at the same
 
 00: [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)
 
+00: [Eric Schmidt](https://en.wikipedia.org/wiki/Eric_Schmidt)
+
+00: [Gary Marcus](https://en.wikipedia.org/wiki/Gary_Marcus)
+
+00: [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton)
+
 00: [Google Brain](https://en.wikipedia.org/wiki/Google_Brain)
 
 00: [Hugo de Garis](https://en.wikipedia.org/wiki/Hugo_de_Garis)
@@ -453,3 +459,5 @@ It is perplexing to be both excited and worried about the coming AIs at the same
 00: [Three Laws of Robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)
 
 00: [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)
+
+00: [Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio)
