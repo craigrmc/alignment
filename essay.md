@@ -217,7 +217,7 @@ It is absolutely vital to never build one giant ASI system with absolute power. 
 
 Capitalism works because it properly motivates actors to be successful. Make more money by building a better product and be rewarded for achieving greatness. It fosters competition where everyone benefits. But this is not a perfect system. One company can become so successful that it starts to buy out the competition to win, becoming a monopoly. It is like a cancer that begins to develop in older humans. Government has to intervene and breakup the monopoly to restore competition, a band-aid to fix the problem. It is just the nature of the beast, it will always happen. It has to be observed and watched to stay healthy. This doesn't work with a Corrupt Government. Politicians are handed money to ignore problems. Maybe the AIs will think of a better form of capitalism or a replacement. This is a lesson that dynamic systems can start great but morph into unexpected outcomes and start to behave in ways not aligned with humanity. Alignment never happens by default, and aligned system can become mis-aligned over time.
 
-Democratic governments are not perfect, but by far the best we have. Checks and balances are in place to minimize concentration of power. Bad orders can be vetoed. Bad policies can be revoked. Power is rotated and reassigned at regular intervals. Nothing is absolute or permanent. It is like an evolving organism that grows and changes overtime. We should strive for a future AI ecosystem that can match the checks and balances found in democracies much like what Ben Gertzel has envisioned.
+Democratic governments are not perfect, but by far the best we have. Checks and balances are in place to minimize concentration of power. Bad orders can be vetoed. Bad policies can be revoked. Power is rotated and reassigned at regular intervals. Nothing is absolute or permanent. It is like an evolving organism that grows and changes overtime. We should strive for a future AI ecosystem that can match the checks and balances found in democracies much like what Ben Goertzel has envisioned.
 
 It is much safer to distribute power among various unique AGI systems.
 
@@ -406,6 +406,8 @@ It is perplexing to be both excited and worried about the coming AIs at the same
 
 00: [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
 
+00: [Ben Goertzel](https://en.wikipedia.org/wiki/Ben_Goertzel)
+
 00: [Conor Leahy]()
 
 00: [Cosmic Ray](https://en.wikipedia.org/wiki/Cosmic_ray)
@@ -431,6 +433,8 @@ It is perplexing to be both excited and worried about the coming AIs at the same
 00: [Jan Leike](https://en.wikipedia.org/wiki/Jan_Leike)
 
 00: [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
+
+00: [OpenCog](https://en.wikipedia.org/wiki/OpenCog)
 
 00: [Overton Window](https://en.wikipedia.org/wiki/Overton_window)
 
