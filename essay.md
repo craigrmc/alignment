@@ -115,6 +115,14 @@ Alignment must be incorporated into the self-play reinforcement learning trainin
 
 This massive training phase is fundamental to providing enough experience to the AI to allow alignment to cement itself.
 
+### 4C Real Time
+
+AI Agents are not Chatbots. They will run continously in the background. Action and task durations will increase. Reenforcement learninig mechanisims gives rewards for small, specific answers during the training phase. AI Agents will soon start to learn, evolve, and change in real time performing many complex actions in sequences (and out of sequence) or thinking about problems on long time horizons. Their behavoir response will be subjecated by the memories they have stored as well. The current training mechanisism are ill suited for AI Agents. The current alignment and saftey practices cannot protect against AI Agents either, since they are preformed on static, unchanging models, rather than a quickly evolving entities.
+
+This new paradigm makes the current alignement and saftey research look like childs play. Even if an AI Agents is successfully aligned with humanity, how do they stay aligned over time? Any human on the planet would have the opertunity to perswade and change how an AI thinks. Any AI would have the opportunity to persuade and change how another AI thinks. An AI Agent in isolation running and thinking continously for years (human years) would change its thinking. We are entering completely new uncharted waters. There needs to be a way to effectively bind human values over time, where they don't evaporate or get left behind.
+
+Testing will not be able to keep up, will need a new layer that just keeps the peace on the internet. An AI Police force if you will, a subset of well trained AI Agents that are able to detect dangers and threats in real-time, and the authority to access private systems to investigate. They will need the power to terminate AI Agents (and any copies they make). Maybe even have an elite task force of AI Agents. An organization with the resources and the authority to fight AI terrorism whereever it flourishes. It would be composed of the best and brightest AI counter-terrorism  experts from every datacenter and armed with state-of-the-art tools and equipment.
+
 ### 4D Positive Regulation
 
 Small, light touch regulation would be a positive impact on AI Alignment and Safety. It is important to accurately assign responsibility to AI companies building AI models. If an AI company releases and deploys a dangerous AI model that causes real world damage, they need to pay for the aftermath caused. There must be incentives to build AI models safely. Expecting companies to "self-regulate" is simply unrealistic.
