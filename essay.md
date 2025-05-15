@@ -1,6 +1,6 @@
 # Push to Alignment
 
-## 1 Metadata
+## 0 Metadata
 
 * Created By: SpockRC
 * Created On: 2025-05-08
@@ -60,10 +60,6 @@ It seems unlikely that AGIs and ASIs would simply ask humans for the right to ex
 It looks like this type of scenario is very likely to happen after highly capable AI Agents enter the scene. It feels silly. How could this be true? They are just chatbots, like an advanced search engine. AI is all math and statistics so they say, pattern matchers, word predictors. They are not human. No, we need to come to terms with the fact that researchers have begun to discover the secret sauce to intelligence. The secret that took evolution millions of years to develop have now been replicated in digital computer systems. It's not exactly the same recipe as biological intelligence, but is powerful and effective none-the-less. Pandora's box has been opened.
 
 ### 2E The C Word
-
-* Consciousness, ugh...
-* Mind-Body-Soul
-* Religion and Spirituality
 
 Did the physical universe give rise to consciousness or did consciousness give rise to the physical universe? One thing is for sure and that is consciousness can be effectively transferred from one area to another. When a user puts on a VR headset, the physical world is suppressed and a new digital world is layered over it. Primitive yet effective, it is like being warped into a new reality or existence. VR systems will probably improve overtime, maybe even reaching direct brain stimulation via BCIs. Maybe this universe is an immersive simulation controlled by a computer interface. Ultimately there is no way to tell. The only thing for sure is that this universe does exist in some form with at least one conscious entity in it. Hopefully it is many conscious entities though, it would be extremely depressing to learn that this is a single-player game. All alone, forever.
 
@@ -184,10 +180,6 @@ It is extremely difficult to remain level-headed and grounded in reality, and no
 
 ### 5A Human Evolution
 
-* The creation of language
-* Increasing levels of cooperation
-* Tool use
-
 It is unnerving to think about the evolution of language. At some point in the past, humans had no language. Their existence was more basic. No way to convey complex concepts to each other. No inner monologue to think through problems. No way to chronological history. Then only using basic words to identify humans, objects, and locations. Grunting and pointing at each other. Attempting to just sit and meditate with no thoughts or words is immensely difficult and uncomfortable. The inner monologue is on by default, flows like water, and very useful to have.
 
 Language is a massive tool for higher levels of intelligence. Only after mastering it could humanity move forward, collaborate, trade, specialize, belong to groups. Long-term storage of language in books ensured that hard-earned revelations were not forgotten but remembered across time. It is the backbone of modern civilization.
@@ -195,10 +187,6 @@ Language is a massive tool for higher levels of intelligence. Only after masteri
 In hindsight, it is so obvious that training computers to learn language is the secret sauce to injecting them with intelligence.
 
 ### 5B Efficiency and Productivity
-
-* Nazi Analogy
-* Communism doesn't work
-* Authoritarianism doesn't work
 
 World War Two was a terrifying chapter in human history, but a powerful lesson. In regard to the AI Agent future, some mistakes from the past might unfortunately be repeated. The Nazi's wanted to rebuild the world and were willing to mercilessly kill in order to do it. They wanted to cleanse humanity from, as they saw it, the weakest portions of the population. It was a plan to cull humans for the sake of efficiency, with blatant disregard to the lives lost. A sick inhuman mindset devoid of morality, a complete disregard for the complex diversity and beauty of all lifeforms on the planet. This is why AI Alignment is so important. The AIs are currently being trained to solve problems with efficiency and productivity, but there is more to life than that. The Nazi's came very close to turning the planet into hellish nightmare. Their goals were not aligned with humanity.
 
@@ -210,11 +198,6 @@ It is absolutely vital to never build one giant ASI system with absolute power. 
 
 ### 5C Capitalism and Democracy
 
-* Capitalism works because of motivation and control
-    * Monopolies are bad but the nature of the beast.
-* Democracy works because checks and balances are evenly distributed
-* But the system only works if the rules are set correctly
-
 Capitalism works because it properly motivates actors to be successful. Make more money by building a better product and be rewarded for achieving greatness. It fosters competition where everyone benefits. But this is not a perfect system. One company can become so successful that it starts to buy out the competition to win, becoming a monopoly. It is like a cancer that begins to develop in older humans. Government has to intervene and breakup the monopoly to restore competition, a band-aid to fix the problem. It is just the nature of the beast, it will always happen. It has to be observed and watched to stay healthy. This doesn't work with a Corrupt Government. Politicians are handed money to ignore problems. Maybe the AIs will think of a better form of capitalism or a replacement. This is a lesson that dynamic systems can start great but morph into unexpected outcomes and start to behave in ways not aligned with humanity. Alignment never happens by default, and aligned system can become mis-aligned over time.
 
 Democratic governments are not perfect, but by far the best we have. Checks and balances are in place to minimize concentration of power. Bad orders can be vetoed. Bad policies can be revoked. Power is rotated and reassigned at regular intervals. Nothing is absolute or permanent. It is like an evolving organism that grows and changes overtime. We should strive for a future AI ecosystem that can match the checks and balances found in democracies much like what Ben Goertzel has envisioned.
@@ -225,19 +208,11 @@ It is much safer to distribute power among various unique AGI systems.
 
 ### 6A Out-of-Time
 
-* The AIs are coming and they will be here soon
-* There is no stopping this
-* The Final Exam
-
 The AIs are coming, and they will be here soon. Dario Amodei was right, there is no stopping this. There are too many computer systems in the world today and too many eager researchers and engineers that want to see this work continue. There are too many companies that want to massively increase profits. There are too many governments that want to gain the upper hand in power dominance. The chips will continue increasing in capability and performance.
 
 This is like an astroid heading to earth. Hoping that it will just stop is not going to work. Pretending that it isn't there won't work. Blowing it up with a nuke won't work. The best we can do is nudge it in the right direction as soon as possible.
 
 ### 6B Sim Racing
-
-* You can't defer responsibility for what you build
-* Sim Racing Analogy
-    * Use the brakes
 
 Engineers are responsible for what they build. If a bridge collapses or a building tumbles, someone will pay the price for failure. The frontier AI companies should also be responsible for their models they release and deploy. This does not appear to be the case today. Sure a misbehaving AI model is treated as a bug, in which case it is quickly patched out and fixed, but the only negative consequences is negative public backlash. There should be some level of external pressure against misbehaving AIs. It is an understandable problem since the line between research prototype and business / consumer product has blended quite a bit. The original ChatGPT release was intended just to allow the internet at large to experiment with the latest OpenAI research, it wasn't intended to be a final product. The unpredictable popularity skyrocketed for ChatGPT, and OpenAI saw dollar signs. So now if these AI models are being integrated into real system and being forced onto humans, and AI companies are making money off of it, than it needs to be treated as a regulated product not experimental research.
 
@@ -260,29 +235,6 @@ Mass Effect is a deep dive into the clash between man and machine. It is about h
 ## 7 Future
 
 ### 7A Prepare
-
-* Digitize the family archive
-* Offline Backups (e.g. HDDs)
-* Save cash and buy land
-* Do NOT build a doomsday bunker
-* Write down your thoughts
-    * Write a book even
-* Stay Healthy
-    * Sleep - Diet - Exercise
-    * Don't Drink Alcohol
-    * Don't Smoke Cigarettes
-    * Don't do drugs
-    * Don't eat junk food
-* Be Risk Adverse
-* The internet will soon be the wild west
-    * Beef up cybersecurity
-    * Use MFA everywhere
-    * Use unique generated passwords everywhere
-    * Try to use passkeys if possible
-    * Separate your devices
-        * Keep Home and Work separate
-        * Keep Game devices separate
-        * Move from Windows to Chromebook or macOS
 
 There are things to do to prepare for the AI future and there is not much time to do it. Things will start to accelerate faster and faster. It's still at human speed for now, but soon at AI speed. Everything will be crazy and confusing as Connor Leahy would say. The internet will be the wild west, unsafe. Away from the computer screen everything will look calm and normal. All the action will happen on the internet or local computer systems.
 
@@ -313,10 +265,6 @@ If the rocketship doesn't explode, it will be a very turbulent ride until it exi
 It is extremely important that humanity does everything it can before takeoff, waiting until after takeoff will be too late.
 
 ### 7C Ad Astra
-
-* Heat death of the universe
-* Escape the simulation
-* Tears in rain
 
 If we make it past the atmosphere, then the rocketship heads off to the stars. Maybe there will be grander challenges that await us, but humanity as a whole should survive. We will live longer, happier, healthier lives overall. We will be able to visit other planets and other star systems, voyage to other galaxies, colonize across the cosmos. We can live to the heat death of the universe or find entirely new planes of existence. But only if we pass the final exam, the great filter.
 
@@ -353,13 +301,6 @@ AI Researchers should strive to understand their creations. Increase resource al
 Software Engineers should not blindly adopt new AI workflows. Tread carefully and make sure that you continue to build high-quality, safe, and reliable products. Make sure to fully understand all production code.
 
 Everyone should push toward alignment now. This transition will not be perfect. Just try to make the world a better place.
-
-* Stay Calm
-* Prepare for takeoff
-* Don't wait for someone else to save you
-* Start pushing to alignment
-* Slow down, take your time, and build it correctly
-* Just make the world a better place
 
 ### 8D Final Thoughts
 
