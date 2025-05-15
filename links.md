@@ -72,6 +72,8 @@
 
 [r/Accelerate](https://www.reddit.com/r/accelerate/)
 
+[r/AGI](https://www.reddit.com/r/agi/)
+
 [r/Singularity](https://www.reddit.com/r/singularity/)
 
 ## Youtube
