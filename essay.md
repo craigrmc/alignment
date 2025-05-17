@@ -5,7 +5,7 @@
 * Created By: SpockRC
 * Created On: 2025-05-08
 * Updated By: SpockRC
-* Updated On: 2025-05-15
+* Updated On: 2025-05-17
 
 ## 1 Overview
 
@@ -15,7 +15,7 @@ I'm a traditional Senior Software Engineer with good intuition on how computer s
 
 ### 1B Concerns
 
-Pressure has been building as the AIs get smarter month-by-month. After reading the Absolute Zero Research Paper, it is now clear that AI research is close to the point where exponential feedback loops will start to kick-in and momentum will build to a threshold that cannot be stopped. If that momentum has the wrong vector, it could bring disaster. Probably not complete destruction of humanity as the doomers would argue, but quite possibly a major calamity that the world has never seen before. Most likely though, there will be many dangerous AIs lurking on the internet (in secret) doing dasterdly things. It is of great concern that the general public outside of the various AI communities are not even aware that this transition will soon occur.
+Pressure has been building as the AIs get smarter month-by-month. After reading the Absolute Zero Research Paper, it is now clear that AI research is close to the point where exponential feedback loops will start to kick-in and momentum will build to a threshold that cannot be stopped. If that momentum has the wrong vector, it could bring disaster. Probably not complete destruction of humanity as the doomers would argue, but quite possibly a major calamity that the world has never seen before. Most likely though, there will be many potentially dangerous rouge AIs lurking on the internet (in secret). It is of great concern that the general public outside of the various AI communities are not even aware that this transition will soon occur.
 
 The Absolute Zero Research Paper was an attempt to train a base foundation AI model to create and solve problems on its own. The base model was trained by just reading large quantities of text, then a new training stage was applied to focus on problem-solving, with promising results. This is of grave concern because of its asymmetry. Asking an AI to solve a problem is similar to asking a genie for wishes. An AI Agent that will go to any extreme to solve a problem is powerful and dangerous.
 
