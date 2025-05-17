@@ -24,6 +24,8 @@
 
 [Life 3.0](https://www.google.com/books/edition/Life_3_0/2hIcDgAAQBAJ)
 
+[Our Final Invention](https://www.google.com/books/edition/Our_Final_Invention/KQ8zsFhlmg0C)
+
 [Superintelligence](https://www.google.com/books/edition/Superintelligence/1mMJBAAAQBAJ)
 
 [The Artilect War](https://www.google.com/books/edition/The_Artilect_War/8IAfAQAAIAAJ)
@@ -44,7 +46,9 @@
 
 ## Papers
 
-[Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/pdf/2505.03335)
+[Absolute Zero](https://arxiv.org/pdf/2505.03335)
+
+[AlphaEvolve](https://arxiv.org/abs/2103.16196)
 
 ## Podcasts
 
