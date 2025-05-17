@@ -280,6 +280,8 @@ The root of the problem is that the AIs are currently being trained asymmetrical
 
 I am not a writer, an AI Researcher, nor a philosopher. I am definitely not a doomer. I am only a Software Engineer on the side-lines watching AI develop at a break-neck pace. I see great potential but also great peril in these AI systems. Not sure if the content in this essay is correct, but strongly feel the need to write it down. Worst-case scenario is that no-one reads it, that is fine. Only hope that this will make the world and the future have better outcomes. Please do not take any offense in these words.
 
+It is also important to stay grounded in reality. The current proto-AIs can go off-the-rails in crazy unexpected directions, but they are mostly just helpful under normal conditions. It is unclear if a recursive self-improvement phase will happen, or what that truely looks like. It is unknown how far the language model paradigm will go, there may be new bottlenecks as Yann LeCun would argue. On one last counter-point, the human imagination is very powerful, and can take you on a direct flight to dream land, detached from reality.
+
 ### 8C Recommendations
 
 Primary recommendation is do not build things that you do not understand.
