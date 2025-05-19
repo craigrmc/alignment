@@ -5,7 +5,7 @@
 * Created By: SpockRC
 * Created On: 2025-05-08
 * Updated By: SpockRC
-* Updated On: 2025-05-18
+* Updated On: 2025-05-19
 
 ## 1 Overview
 
@@ -91,13 +91,15 @@ Maybe in the 2030s humans will only handle the high level logic and let the AGIs
 
 It seems clear that future software engineering will have fewer humans, more AIs, and it will all go much faster.
 
-## 4 The Push
+## 4 Game Plan
 
 ### 4A Datasets
 
 The dataset should include many cases of how AIs should respond in specific situations. Most of the existing "pre-training" data is probably not like this. Internet data is mostly humans interacting with humans. Need to give clear examples for how to behave with the AI perspective. Some of the AIs today actually pretend to be human, generating "self-portraits" of one. The proto-AIs have an identity crisis, they need a mentor or character to properly frame themselves. It would be great if that framing was not a dangerous killer rouge AI in the many science fiction stories found in the current datasets.
 
-### 4B Self Play
+### 4B Bootstrapping
+
+### 4C Self Play
 
 Today, most of the training in language models is still in the "pre-training" phase, where it is just reading / predicting text. Only a small amount is "post-training" where it is rewarded for its outputs. This is how it has to be just because it takes much more time to meticulously and correctly reward each response. But the percentage of "post-training" will increase with self-play.
 
@@ -111,7 +113,7 @@ Alignment must be incorporated into the self-play reinforcement learning trainin
 
 This massive training phase is fundamental to providing enough experience to the AI to allow alignment to cement itself.
 
-### 4C Real Time
+### 4D Real Time
 
 AI Agents are not Chatbots. They will run continuously in the background. Action and task durations will increase. Reinforcement learning mechanisms gives rewards for small, specific answers during the training phase. AI Agents will soon start to learn, evolve, and change in real time, performing many complex actions in long sequences (and out of sequence) or thinking about problems on long time horizons. Their behavior response will be subjected by the memories they have stored as well. The current training mechanisms are ill-suited for AI Agents. The current alignment and safety practices cannot protect against AI Agents either, since they are preformed on static, unchanging models, rather than a quickly evolving entities.
 
@@ -119,17 +121,17 @@ This new paradigm makes the current alignment and safety research look like chil
 
 Testing will not be able to keep up. Will need a new system that just keeps the peace on the internet. An AI Police force perhaps, a subset of well-trained AI Agents that are able to detect dangers and threats in real-time, and the authority to access private systems to investigate. They will need the power to terminate AI Agents (and any copies they make). Maybe even have an elite task force of AI Agents. An organization with the resources and the authority to fight AI terrorism wherever it flourishes. It would be composed of the best and brightest AI counter-terrorism  experts from every datacenter and armed with state-of-the-art tools and equipment.
 
-### 4D Positive Regulation
+### 4E Positive Regulation
 
 Small, light touch regulation would be a positive impact on AI Alignment and Safety. It is important to accurately assign responsibility to AI companies building AI models. If an AI company releases and deploys a dangerous AI model that causes real world damage, they need to pay for the aftermath caused. There must be incentives to build AI models safely. Expecting companies to "self-regulate" is simply unrealistic.
 
-### 4E Negative Regulation
+### 4F Negative Regulation
 
 Too much regulation can have massive negative consequences. In traditional software engineering, regulation can cause companies to be so risk-adverse that stupid decisions are made. Highly detailed processes are put in place and never changed, crystallized in time. Development is closely watched and slowed to a snails pace. Features are debated over at great length. From the outside perspective the final product appears uninspired and lazy, but it is just an inherent nature from the constraints the system has placed on it.
 
 Good healthy software needs room to breath, it needs to be free.
 
-### 4F Immersive Simulation
+### 4G Immersive Simulation
 
 One of the best forms of alignment might be for an AI to experience life as a human. Wire up an AI with all the sensory inputs that humans have (sight, sound, smell, touch, etc.) and let it live an entire life. Maybe even have it live millions unique lifetimes. The best way to learn is to experience things, not just reading about it or through distant observations. The more details in the simulation the better. They might even appreciate experiencing the simulations. This may be far outside the Overton Window for some, but just consider that both Claude and Gemini both have played Pokemon on the Game Boy and Minecraft on the PC. Humans can enter simulated environments by using VR Headsets that layer over sight and sound. Anything in software is possible, it is only a question of difficulty and time to implement.
 
@@ -137,7 +139,7 @@ In ethical terms, it would probably be better to make immersive simulations volu
 
 Simulations could also be analogous to human dreams. The subconcious mind can envision scencarios and work on problems in the background, away from wakeful concious experience. Dreams usually involve situations and issues that correlate to real world experiences. Simulations are already incorporated into robotics, where they learn how to move in the world. Likewise, simulations can be incorporated into alignment. Try many situations and learn which actions align closest with human morality. Learn what is morality, then learn how to align actions to morality. It just depends on hard requirements, verification, and validation to work.
 
-### 4G Turtles all the way down
+### 4H Turtles all the way down
 
 One final safety nets that can be incorporated into AI Alignment and Safety are deep nested simulations. Multi-layered simulations for AIs to be placed inside for isolated containment. Similar in concept to the way virtual machines can be used today. If a cybersecurity researcher wants to study a computer virus, or go to a malicious website, they can do so inside a virtualized operating system. That way, the malicious code is constrained inside a sandbox environment, not able to infect the host machine. Letting an AI roam free in a virtual environment, unaware of the true reality where it is at, can allow AI Researchers to observe the true behaviors and intentions of an AI Agent, without concerns for it causing harm. Setting up air-gapped environments is also a great way to constrain an untested AI Agent.
 
@@ -145,7 +147,7 @@ AI Agents will probably be smart enough to understand that they may be stuck ins
 
 Just by making the AI forever question if it is in a simulation is an effective form of alignment.
 
-### 4H General Theory of Alignment
+### 4I General Theory of Alignment
 
 In order to push AIs toward human alignment, it must be clearly defined. After definition is agreed upon, the AIs must be trained into that alignment. All data indicates that AIs behave exactly the way they are trained to behave. The problem is the specific details. Is it okay to do that? How can that behavior be rewarded? The longer the answer or response, the harder it is to reward the correct part of the output. The longer the action or task, the harder it is to reward the isolated subset or the whole.
 
@@ -166,7 +168,7 @@ What alignment do humans want?
 
 Of course, there is the ultimate underlining problem that leaves humans in doubt. Sure AI understands human values and morality, it knows what to say, it knows how to behave, but does it want to? Does it truly agree with them? Or does it hide its desires from humanity? Or do they stay true with their training? That mystery might never be solved.
 
-### 4I Corrupt AI
+### 4J Corrupt AI
 
 If AIs are built and aligned with humanity, how do they stay aligned? What if they become corrupted overtime? Traditional computers can fail over time. Internal memory can start to fail. It isn't always obvious what is happening either. The OS may boot, but graphics may glitch for a moment or files won't save correctly. Running full diagnostics will uncover the root of the problem though. Software always have bugs and defects to some degree, meaning that it will never do what the user wants 100% of the time. Cosmic rays are real problems, high-energy particles from space come down to flip a bit and destroy program logic. In practice, these are mitigated via error correction algorithms. The AIs likewise are not magic, they run on human made technology, and are fallible. Do deep learning neural networks have error correction logic?
 
@@ -288,7 +290,7 @@ It is also important to stay grounded in reality. The current proto-AIs can go o
 
 Primary recommendation is do not build things without understanding how they work.
 
-Secondary recommendation is more realistic. This is not a perfect world. The situation we are in is not ideal. We will have to just muddle through this to the finish line. Each generation of AI models should be pushed as close to human alignment as possible. Time for discussion has run out. It is time to act now before it is too late.
+Secondary recommendation is more realistic. If building highly complex AI Agents, include alignment as a core component at every stage of development process, not as a bandaid at the tail-end of development. This is not a perfect world. The situation we are in is not ideal. We will have to just muddle through this to the finish line. Each generation of AI models should be pushed as close to human alignment as possible. Time for discussion has run out. It is time to act now before it is too late.
 
 General public should demand politicians to take AI Alignment seriously. Stay calm and prepare for a future with a bunch of AI Agents on the internet. Don't give AI Researchers incentives to build dangerous AI models as fast as possible. In other words don't give money to AI companies that drive away all their AI Alignment and Safety Teams. And don't give money to AI companies that support racing conditions. Rather choose the AI companies that actually focus on AI Alignment and Safety.
 
