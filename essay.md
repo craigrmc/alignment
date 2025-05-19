@@ -65,7 +65,7 @@ Did the physical universe give rise to consciousness or did consciousness give r
 
 Have the AI Researchers unlocked the secrets to consciousness in the same way they unlocked the secrets to intelligence? Is consciousness just data processing like Sam Harris suggests? Still somewhat of a taboo topic, a dirty word that tends to derail grounded technical discussion, but humans are more open to it than they used to be. It is unclear, but if it is possible to have a conscious, sentient, thinking computer then the AIs will figure out how to do it at some point.
 
-There is a clear relationship between mind, body, and soul. They are linked together. They effect each other. Human thoughts and actions are governed by the physical body. They directly correlate with biometric data (e.g. glucose, insulin, oxygen, etc.). They directly correlate with physical attributes (hunger, tiredness, fatigue, etc.). Mental states correlate to the physical body, stress can lead to hunger. Consciousness is the balance between mind, body, and soul.
+There is a clear relationship between mind, body, and soul. They are linked together. They effect each other. Human thoughts and actions are governed by the physical body. They directly correlate with biometric data (e.g. glucose, insulin, oxygen, etc.). They directly correlate with physical attributes (hunger, tiredness, fatigue, etc.). Mental states correlate to the physical body, stress can lead to hunger. Consciousness is the balance between mind, body, and soul. It may also be the case that all lifeforms share a universal consciousness, connected together at the big-bang, through quantum entanglement.
 
 But this is all philosophical. What matters here is the I/O of the AI Agents.
 
