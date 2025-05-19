@@ -178,3 +178,6 @@
     * An AI that values solving problems above everyting else is super dangerous.
     * It is a context limit issue. Can't see the bigger picture beyond the one problem.
         * This is a known issue to AI researchers.
+* It may be safer to remove certain text from pre-training datasets.
+    * Although not reinforced, they can be prompted to access and use that knowledge.
+* All lifeforms sharing the same conciousness sounds correct. Will add it in.
