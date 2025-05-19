@@ -38,6 +38,12 @@
 
 ## Essays
 
+[A History of the Future 2025 to 2027](https://www.nosetgauge.com/p/a-history-of-the-future-2025-2027)
+
+[A History of the Future 2027 to 2030](https://www.nosetgauge.com/p/a-history-of-the-future-2027-2030)
+
+[A History of the Future 2030 to 2040](https://www.nosetgauge.com/p/a-history-of-the-future-2030-2040)
+
 [The AI Revolution Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 
 [The AI Revolution Part 2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
@@ -49,6 +55,8 @@
 [Absolute Zero](https://arxiv.org/pdf/2505.03335)
 
 [AlphaEvolve](https://arxiv.org/abs/2103.16196)
+
+[Titans](https://arxiv.org/pdf/2501.00663v1)
 
 ## Podcasts
 

@@ -12,6 +12,10 @@ AI Alignment Links:
 [links.html](https://craigrmc.github.io/alignment/links.html)
 [links.md](https://github.com/craigrmc/alignment/blob/main/links.md)
 
+NotebookLM Summary:
+
+[Episode Link]()
+
 Home Page:
 
 [craigrmc.github.io/alignment](https://craigrmc.github.io/alignment)
