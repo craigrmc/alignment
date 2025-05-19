@@ -181,3 +181,13 @@
 * It may be safer to remove certain text from pre-training datasets.
     * Although not reinforced, they can be prompted to access and use that knowledge.
 * All lifeforms sharing the same conciousness sounds correct. Will add it in.
+* Types of AI:
+    * Astronomer AI - emotions
+    * Companion AI - emotions
+    * Coding AI - emotionless
+    * Medical Assistant AI - emotionless
+    * Embodied Robotic AI - emotionless
+    * Customer Support AI - emotions
+    * Lawyer AI - emotions
+    * Scientific Discovery AI - emotions
+    * All knowing God-like AI - emotions
