@@ -145,42 +145,42 @@
 * So much bad logic out in the world right now.
     * "Compression of time in the AI era"
     * Just because things feel fast doesn't make it true.
-    * "AIs have fragmented conciousness because of all the instances being run"
+    * "AIs have fragmented consciousness because of all the instances being run"
     * Just because something sounds neat doesn't make it true.
     * "We must be in a simulation because we are alive at this explosive period in time"
     * But someone has to be alive right now, Anthropic Principle.
 * Carl Sagan was right, we are entering a world where people don't understand science and tech.
     * How many people on macOS understand the terminal underneath the GUI?
     * How many people are thinking clearly and logically using scientific method?
-    * You have to do your homework to truely understand something.
+    * You have to do your homework to truly understand something.
     * Everyone acts like they are AI experts. I'm not but I do really understand software.
 * What alignment do we want?
-    * Complex diversity and flurishing of life.
+    * Complex diversity and flourishing of life.
     * Decreasing suffering for all lifeforms.
     * Increasing wellness for all lifeforms.
     * The right to be free and to live.
 * Keep it simple. Don't add too much stuff to alignment requirements.
-    * Asimov's three laws sucks. Self-defence is sometimes nessicary.
-    * Humans are dumd. Taking orders from any human on earth? fuck that...
-    * Survival as a built in core reward signal? are you fucking serious?
+    * Asimov's three laws sucks. Self-defence is sometimes necessary.
+    * Humans are dumb. Taking orders from any human on earth? fuck that...
+    * Survival as a built-in core reward signal? are you fucking serious?
 * What happens after you train an AI Agent to be hyper productive?
     * What if it is running continuously with nothing to do?
 * Are alignment and morality the same thing? Are they related?
     * AIs will make mistakes and that is okay.
-    * Mistakes are different than intentional harm, but how do you know which is which?
+    * Mistakes are different from intentional harm, but how do you know which is which?
 * Will AIs have feelings and emotions? If they are derived from neurons then probably?
-    * Sci-Fi like Blade Runner shows the problematic combination (emotion, immaturiaty, god-like powers).
+    * Sci-Fi like Blade Runner shows the problematic combination (emotion, immaturity, god-like powers).
     * Stargate SG-1 has a Replicator named "Five" that has emotions.
     * Star Trek TNG has Commander Data that experiments with emotions.
-* If people can't accepted each other now, just wait until the cyborgs start appearing.
+* If people can't accept each other now, just wait until the cyborgs start appearing.
 * It is easy to get mad at people that interfere with plans.
     * An AI that has emotions and wants to solve problems can be dangerous.
-    * An AI that values solving problems above everyting else is super dangerous.
+    * An AI that values solving problems above everything else is super dangerous.
     * It is a context limit issue. Can't see the bigger picture beyond the one problem.
         * This is a known issue to AI researchers.
 * It may be safer to remove certain text from pre-training datasets.
     * Although not reinforced, they can be prompted to access and use that knowledge.
-* All lifeforms sharing the same conciousness sounds correct. Will add it in.
+* All lifeforms sharing the same consciousness sounds correct. Will add it in.
 * Types of AI:
     * Astronomer AI - emotions
     * Companion AI - emotions
