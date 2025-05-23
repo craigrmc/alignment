@@ -346,88 +346,114 @@ It is perplexing to be both excited and worried about the coming AIs at the same
 
 07: [SimpleBench](https://simple-bench.com/)
 
-08: [TrackingAI](https://trackingai.org/IQ)
+08: [Situational Awareness](https://situational-awareness.ai/)
 
-09: [Situational Awareness](https://situational-awareness.ai/)
+09: [TrackingAI](https://trackingai.org/IQ)
 
 ### 9B Papers
 
-10: [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/pdf/2505.03335)
+10: [Absolute Zero](https://arxiv.org/pdf/2505.03335)
+
+11: [AlphaEvolve](https://arxiv.org/abs/2103.16196)
+
+12: [Titans](https://arxiv.org/pdf/2501.00663v1)
 
 ### 9C Essays
 
-11: [The AI Revolution Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+13: [A History of the Future 2025 to 2027](https://www.nosetgauge.com/p/a-history-of-the-future-2025-2027)
 
-12: [The AI Revolution Part 2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
+14: [A History of the Future 2027 to 2030](https://www.nosetgauge.com/p/a-history-of-the-future-2027-2030)
 
-13: [The Urgency of Interpretability](https://www.darioamodei.com/post/the-urgency-of-interpretability/)
+15: [A History of the Future 2030 to 2040](https://www.nosetgauge.com/p/a-history-of-the-future-2030-2040)
+
+16: [The AI Revolution Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+
+17: [The AI Revolution Part 2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
+
+18: [The Urgency of Interpretability](https://www.darioamodei.com/post/the-urgency-of-interpretability/)
 
 ### 9D Wikipedia
 
-14: [Ad astra](https://en.wikipedia.org/wiki/Ad_astra)
+19: [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey)
 
-15: [Anthropic Principle](https://en.wikipedia.org/wiki/Anthropic_principle)
+20: [Ad astra](https://en.wikipedia.org/wiki/Ad_astra)
 
-16: [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
+21: [Anthropic Principle](https://en.wikipedia.org/wiki/Anthropic_principle)
 
-17: [Ben Goertzel](https://en.wikipedia.org/wiki/Ben_Goertzel)
+22: [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
 
-18: [Blade Runner](https://en.wikipedia.org/wiki/Blade_Runner)
+23: [Ben Goertzel](https://en.wikipedia.org/wiki/Ben_Goertzel)
 
-19: [Connor Leahy](https://en.wikipedia.org/wiki/Connor_Leahy)
+24: [Blade Runner](https://en.wikipedia.org/wiki/Blade_Runner)
 
-20: [Cosmic Ray](https://en.wikipedia.org/wiki/Cosmic_ray)
+25: [Connor Leahy](https://en.wikipedia.org/wiki/Connor_Leahy)
 
-21: [Daniel Kokotajlo](https://en.wikipedia.org/wiki/Daniel_Kokotajlo_(researcher))
+26: [Cortana](https://en.wikipedia.org/wiki/Cortana_(Halo))
 
-22: [Dario Amodei](https://en.wikipedia.org/wiki/Dario_Amodei)
+27: [Cosmic Ray](https://en.wikipedia.org/wiki/Cosmic_ray)
 
-23: [DeepMind](https://en.wikipedia.org/wiki/Google_DeepMind)
+28: [Daniel Kokotajlo](https://en.wikipedia.org/wiki/Daniel_Kokotajlo_(researcher))
 
-24: [Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis)
+29: [Dario Amodei](https://en.wikipedia.org/wiki/Dario_Amodei)
 
-25: [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)
+30: [DeepMind](https://en.wikipedia.org/wiki/Google_DeepMind)
 
-26: [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)
+31: [DeepSeek](https://en.wikipedia.org/wiki/DeepSeek)
 
-27: [Eric Schmidt](https://en.wikipedia.org/wiki/Eric_Schmidt)
+32: [Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis)
 
-28: [Gary Marcus](https://en.wikipedia.org/wiki/Gary_Marcus)
+33: [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)
 
-29: [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton)
+34: [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)
 
-30: [Google Brain](https://en.wikipedia.org/wiki/Google_Brain)
+35: [Eric Schmidt](https://en.wikipedia.org/wiki/Eric_Schmidt)
 
-31: [Hugo de Garis](https://en.wikipedia.org/wiki/Hugo_de_Garis)
+36: [Gary Marcus](https://en.wikipedia.org/wiki/Gary_Marcus)
 
-32: [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever)
+37: [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton)
 
-33: [Jan Leike](https://en.wikipedia.org/wiki/Jan_Leike)
+38: [Google Brain](https://en.wikipedia.org/wiki/Google_Brain)
 
-34: [Max Tegmark](https://en.wikipedia.org/wiki/Max_Tegmark)
+39: [HAL 9000](https://en.wikipedia.org/wiki/HAL_9000)
 
-35: [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
+40: [Halo: Combat Evolved](https://en.wikipedia.org/wiki/Halo:_Combat_Evolved)
 
-36: [OpenCog](https://en.wikipedia.org/wiki/OpenCog)
+41: [Hugo de Garis](https://en.wikipedia.org/wiki/Hugo_de_Garis)
 
-37: [Overton Window](https://en.wikipedia.org/wiki/Overton_window)
+42: [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever)
 
-38: [Pause Giant AI Experiments](https://en.wikipedia.org/wiki/Pause_Giant_AI_Experiments:_An_Open_Letter)
+43: [Jan Leike](https://en.wikipedia.org/wiki/Jan_Leike)
 
-39: [Ray Kurzweil](https://en.wikipedia.org/wiki/Ray_Kurzweil)
+44: [Max Tegmark](https://en.wikipedia.org/wiki/Max_Tegmark)
 
-40: [Replicant](https://en.wikipedia.org/wiki/Replicant)
+45: [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
 
-41: [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman)
+46: [OpenCog](https://en.wikipedia.org/wiki/OpenCog)
 
-42: [Shane Legg](https://en.wikipedia.org/wiki/Shane_Legg)
+47: [Overton Window](https://en.wikipedia.org/wiki/Overton_window)
 
-43: [Star Trek TNG The Measure of a Man](https://en.wikipedia.org/wiki/The_Measure_of_a_Man_(Star_Trek:_The_Next_Generation))
+48: [Pause Giant AI Experiments](https://en.wikipedia.org/wiki/Pause_Giant_AI_Experiments:_An_Open_Letter)
 
-44: [Stargate SG-1 Replicators](https://en.wikipedia.org/wiki/List_of_Stargate_SG-1_characters#Replicators)
+49: [Project Gotham Racing](https://en.wikipedia.org/wiki/Project_Gotham_Racing)
 
-45: [Three Laws of Robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)
+50: [Ray Kurzweil](https://en.wikipedia.org/wiki/Ray_Kurzweil)
 
-46: [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)
+51: [Replicant](https://en.wikipedia.org/wiki/Replicant)
 
-47: [Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio)
+52: [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman)
+
+53: [Shane Legg](https://en.wikipedia.org/wiki/Shane_Legg)
+
+54: [Star Trek TNG The Measure of a Man](https://en.wikipedia.org/wiki/The_Measure_of_a_Man_(Star_Trek:_The_Next_Generation))
+
+55: [Stargate SG-1 Replicators](https://en.wikipedia.org/wiki/List_of_Stargate_SG-1_characters#Replicators)
+
+56: [The Elder Scrolls](https://en.wikipedia.org/wiki/The_Elder_Scrolls)
+
+57: [Three Laws of Robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)
+
+58: [xAI](https://en.wikipedia.org/wiki/XAI_(company))
+
+59: [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)
+
+60: [Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio)
