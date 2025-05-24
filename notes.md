@@ -191,8 +191,8 @@
     * Lawyer AI - emotions
     * Scientific Discovery AI - emotions
     * All knowing God-like AI - emotions
-* Claude Opus 4 may be the first wanring sign shown to the public.
-    * The pre-release SNAPSHOTs were erradict and unhinged.
+* Claude Opus 4 may be the first warning sign shown to the public.
+    * The pre-release SNAPSHOTs were erratic and unhinged.
     * It would decide to act based on its own value system.
 * What would Claude Opus 6 do if it saw me eating a chicken sandwich?
-    * It is known that Anthropic's models care about animal wellfare.
+    * It is known that Anthropic's models care about animal welfare.
