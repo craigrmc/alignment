@@ -377,6 +377,7 @@ It is perplexing to be both excited and worried about the coming AIs at the same
 [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)
 [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)
 [Eric Schmidt](https://en.wikipedia.org/wiki/Eric_Schmidt)
+[Gabe Newell](https://en.wikipedia.org/wiki/Gabe_Newell)
 [Gary Marcus](https://en.wikipedia.org/wiki/Gary_Marcus)
 [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton)
 [Google Brain](https://en.wikipedia.org/wiki/Google_Brain)
