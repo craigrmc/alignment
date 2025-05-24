@@ -198,7 +198,7 @@ It is extremely difficult to remain level-headed and grounded in reality, and no
 
 ### 5A Human Evolution
 
-It is unnerving to think about the evolution of language. At some point in the past, humans had no language. Their existence was more basic. No way to convey complex concepts to each other. No inner monologue to think through problems. No way to chronological history. Then later, only using simple words to identify humans, objects, and locations. Grunting and pointing at each other. Attempting to just sit and meditate with no thoughts or words is immensely difficult and uncomfortable. The inner monologue is on by default, flows like water, and very useful to have.
+It is unnerving to think about the evolution of language. At some point in the past, humans had no language. Their existence was more basic. No way to convey complex concepts to each other. No inner monologue to think through problems. No way to chronicle history. Then later, only using simple words to identify humans, objects, and locations. Grunting and pointing at each other. Attempting to just sit and meditate with no thoughts or words is immensely difficult and uncomfortable. The inner monologue is on by default, flows like water, and very useful to have.
 
 Language is a massive tool for higher levels of intelligence. Only after mastering it could humanity move forward. Abilities like collaborating on projects, trading goods, crafting specialization, and belonging to groups, finally became possible. Long-term storage of language in books ensured that hard-earned revelations were not forgotten, but remembered across time. Language (speech, thought, and written) is the backbone of modern civilization.
 
