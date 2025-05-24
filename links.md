@@ -48,6 +48,8 @@
 
 [The AI Revolution Part 2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
 
+[The Compendium](https://www.thecompendium.ai/)
+
 [The Urgency of Interpretability](https://www.darioamodei.com/post/the-urgency-of-interpretability/)
 
 ## Papers
@@ -85,6 +87,10 @@
 [r/Accelerate](https://www.reddit.com/r/accelerate/)
 
 [r/AGI](https://www.reddit.com/r/agi/)
+
+[r/ArtificialInteligence](https://www.reddit.com/r/ArtificialInteligence/)
+
+[r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
 
 [r/Singularity](https://www.reddit.com/r/singularity/)
 
