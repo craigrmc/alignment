@@ -332,128 +332,73 @@ It is perplexing to be both excited and worried about the coming AIs at the same
 
 ### 9A Analysis and Forecasts
 
-01: [AI 2027](https://ai-2027.com/)
-
-02: [Apollo Research](https://www.apolloresearch.ai/)
-
-03: [Artificial Analysis](https://artificialanalysis.ai/)
-
-04: [Epoch AI](https://epoch.ai/)
-
-05: [LifeArchitect](https://lifearchitect.ai/)
-
-06: [METR](https://metr.org/)
-
-07: [SimpleBench](https://simple-bench.com/)
-
-08: [Situational Awareness](https://situational-awareness.ai/)
-
-09: [TrackingAI](https://trackingai.org/IQ)
+[AI 2027](https://ai-2027.com/)
+[Apollo Research](https://www.apolloresearch.ai/)
+[Artificial Analysis](https://artificialanalysis.ai/)
+[Epoch AI](https://epoch.ai/)
+[LifeArchitect](https://lifearchitect.ai/)
+[METR](https://metr.org/)
+[SimpleBench](https://simple-bench.com/)
+[Situational Awareness](https://situational-awareness.ai/)
+[TrackingAI](https://trackingai.org/IQ)
 
 ### 9B Papers
 
-10: [Absolute Zero](https://arxiv.org/pdf/2505.03335)
-
-11: [AlphaEvolve](https://arxiv.org/abs/2103.16196)
-
-12: [Titans](https://arxiv.org/pdf/2501.00663v1)
+[Absolute Zero](https://arxiv.org/pdf/2505.03335)
+[AlphaEvolve](https://arxiv.org/abs/2103.16196)
+[Titans](https://arxiv.org/pdf/2501.00663v1)
 
 ### 9C Essays
 
-13: [A History of the Future 2025 to 2027](https://www.nosetgauge.com/p/a-history-of-the-future-2025-2027)
-
-14: [A History of the Future 2027 to 2030](https://www.nosetgauge.com/p/a-history-of-the-future-2027-2030)
-
-15: [A History of the Future 2030 to 2040](https://www.nosetgauge.com/p/a-history-of-the-future-2030-2040)
-
-16: [The AI Revolution Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
-
-17: [The AI Revolution Part 2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
-
-18: [The Urgency of Interpretability](https://www.darioamodei.com/post/the-urgency-of-interpretability/)
+[A History of the Future 2025 to 2027](https://www.nosetgauge.com/p/a-history-of-the-future-2025-2027)
+[A History of the Future 2027 to 2030](https://www.nosetgauge.com/p/a-history-of-the-future-2027-2030)
+[A History of the Future 2030 to 2040](https://www.nosetgauge.com/p/a-history-of-the-future-2030-2040)
+[The AI Revolution Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+[The AI Revolution Part 2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
+[The Compendium](https://www.thecompendium.ai/)
+[The Urgency of Interpretability](https://www.darioamodei.com/post/the-urgency-of-interpretability/)
 
 ### 9D Wikipedia
 
-19: [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey)
-
-20: [Ad astra](https://en.wikipedia.org/wiki/Ad_astra)
-
-21: [Anthropic Principle](https://en.wikipedia.org/wiki/Anthropic_principle)
-
-22: [Anthropic](https://en.wikipedia.org/wiki/Anthropic)
-
-23: [Ben Goertzel](https://en.wikipedia.org/wiki/Ben_Goertzel)
-
-24: [Blade Runner](https://en.wikipedia.org/wiki/Blade_Runner)
-
-25: [Connor Leahy](https://en.wikipedia.org/wiki/Connor_Leahy)
-
-26: [Cortana](https://en.wikipedia.org/wiki/Cortana_(Halo))
-
-27: [Cosmic Ray](https://en.wikipedia.org/wiki/Cosmic_ray)
-
-28: [Daniel Kokotajlo](https://en.wikipedia.org/wiki/Daniel_Kokotajlo_(researcher))
-
-29: [Dario Amodei](https://en.wikipedia.org/wiki/Dario_Amodei)
-
-30: [DeepMind](https://en.wikipedia.org/wiki/Google_DeepMind)
-
-31: [DeepSeek](https://en.wikipedia.org/wiki/DeepSeek)
-
-32: [Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis)
-
-33: [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)
-
-34: [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)
-
-35: [Eric Schmidt](https://en.wikipedia.org/wiki/Eric_Schmidt)
-
-36: [Gary Marcus](https://en.wikipedia.org/wiki/Gary_Marcus)
-
-37: [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton)
-
-38: [Google Brain](https://en.wikipedia.org/wiki/Google_Brain)
-
-39: [HAL 9000](https://en.wikipedia.org/wiki/HAL_9000)
-
-40: [Halo: Combat Evolved](https://en.wikipedia.org/wiki/Halo:_Combat_Evolved)
-
-41: [Hugo de Garis](https://en.wikipedia.org/wiki/Hugo_de_Garis)
-
-42: [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever)
-
-43: [Jan Leike](https://en.wikipedia.org/wiki/Jan_Leike)
-
-44: [Max Tegmark](https://en.wikipedia.org/wiki/Max_Tegmark)
-
-45: [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
-
-46: [OpenCog](https://en.wikipedia.org/wiki/OpenCog)
-
-47: [Overton Window](https://en.wikipedia.org/wiki/Overton_window)
-
-48: [Pause Giant AI Experiments](https://en.wikipedia.org/wiki/Pause_Giant_AI_Experiments:_An_Open_Letter)
-
-49: [Project Gotham Racing](https://en.wikipedia.org/wiki/Project_Gotham_Racing)
-
-50: [Ray Kurzweil](https://en.wikipedia.org/wiki/Ray_Kurzweil)
-
-51: [Replicant](https://en.wikipedia.org/wiki/Replicant)
-
-52: [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman)
-
-53: [Shane Legg](https://en.wikipedia.org/wiki/Shane_Legg)
-
-54: [Star Trek TNG The Measure of a Man](https://en.wikipedia.org/wiki/The_Measure_of_a_Man_(Star_Trek:_The_Next_Generation))
-
-55: [Stargate SG-1 Replicators](https://en.wikipedia.org/wiki/List_of_Stargate_SG-1_characters#Replicators)
-
-56: [The Elder Scrolls](https://en.wikipedia.org/wiki/The_Elder_Scrolls)
-
-57: [Three Laws of Robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)
-
-58: [xAI](https://en.wikipedia.org/wiki/XAI_(company))
-
-59: [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)
-
-60: [Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio)
+[2001 A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey)
+[Ad astra](https://en.wikipedia.org/wiki/Ad_astra)
+[Anthropic Principle](https://en.wikipedia.org/wiki/Anthropic_principle)
+[Anthropic](https://en.wikipedia.org/wiki/Anthropic)
+[Ben Goertzel](https://en.wikipedia.org/wiki/Ben_Goertzel)
+[Blade Runner](https://en.wikipedia.org/wiki/Blade_Runner)
+[Connor Leahy](https://en.wikipedia.org/wiki/Connor_Leahy)
+[Cortana](https://en.wikipedia.org/wiki/Cortana_(Halo))
+[Cosmic Ray](https://en.wikipedia.org/wiki/Cosmic_ray)
+[Daniel Kokotajlo](https://en.wikipedia.org/wiki/Daniel_Kokotajlo_(researcher))
+[Dario Amodei](https://en.wikipedia.org/wiki/Dario_Amodei)
+[DeepMind](https://en.wikipedia.org/wiki/Google_DeepMind)
+[DeepSeek](https://en.wikipedia.org/wiki/DeepSeek)
+[Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis)
+[Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky)
+[Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)
+[Eric Schmidt](https://en.wikipedia.org/wiki/Eric_Schmidt)
+[Gary Marcus](https://en.wikipedia.org/wiki/Gary_Marcus)
+[Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton)
+[Google Brain](https://en.wikipedia.org/wiki/Google_Brain)
+[HAL 9000](https://en.wikipedia.org/wiki/HAL_9000)
+[Halo Combat Evolved](https://en.wikipedia.org/wiki/Halo:_Combat_Evolved)
+[Hugo de Garis](https://en.wikipedia.org/wiki/Hugo_de_Garis)
+[Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever)
+[Jan Leike](https://en.wikipedia.org/wiki/Jan_Leike)
+[Max Tegmark](https://en.wikipedia.org/wiki/Max_Tegmark)
+[OpenAI](https://en.wikipedia.org/wiki/OpenAI)
+[OpenCog](https://en.wikipedia.org/wiki/OpenCog)
+[Overton Window](https://en.wikipedia.org/wiki/Overton_window)
+[Pause Giant AI Experiments](https://en.wikipedia.org/wiki/Pause_Giant_AI_Experiments:_An_Open_Letter)
+[Project Gotham Racing](https://en.wikipedia.org/wiki/Project_Gotham_Racing)
+[Ray Kurzweil](https://en.wikipedia.org/wiki/Ray_Kurzweil)
+[Replicant](https://en.wikipedia.org/wiki/Replicant)
+[Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman)
+[Shane Legg](https://en.wikipedia.org/wiki/Shane_Legg)
+[Star Trek TNG The Measure of a Man](https://en.wikipedia.org/wiki/The_Measure_of_a_Man_(Star_Trek:_The_Next_Generation))
+[Stargate SG-1 Replicators](https://en.wikipedia.org/wiki/List_of_Stargate_SG-1_characters#Replicators)
+[The Elder Scrolls](https://en.wikipedia.org/wiki/The_Elder_Scrolls)
+[Three Laws of Robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)
+[xAI](https://en.wikipedia.org/wiki/XAI_(company))
+[Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun)
+[Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio)
