@@ -49,7 +49,7 @@ Adjacent to language models is self-driving cars. FSD Autopilot is both smart an
 
 The 2030s is the babysitter decade, the human level AI phase. Give an AGI a job, sit-back, watch it work, and help it when it gets stuck. Humans will be the front-end interface to help the AGIs do their job. This phase will be short-lived, 3 to 5 years. The AGIs will work fine on their own well before the decade is done. True AI Agents will be operational and progress will be fast. Those AGIs will start to create the next-generation ASIs. Humanity needs to successfully align the AIs before the takeoff period in the 2030s.
 
-Even the slow timeline is fast.
+Even the slow timeline is fast. Will progress stop? No. Will progress have new road blocks? Maybe. It is unknown how far AI systems will improve with the current architectures, datasets, training mechanisisms, processing power, and electricity consumption. A new global war could destroy the datacenters. But zooming out over decades clearly shows that computers have consistently grown smarter over time. There is no reason to believe that the trend lines will flatline.
 
 ### 2D The Measure of a Man
 
