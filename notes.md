@@ -191,3 +191,6 @@
     * Lawyer AI - emotions
     * Scientific Discovery AI - emotions
     * All knowing God-like AI - emotions
+* Claude Opus 4 may be the first wanring sign shown to the public.
+    * The pre-release SNAPSHOTs were erradict and unhinged.
+    * It would decide to act based on its own value system.
