@@ -198,11 +198,11 @@ It is extremely difficult to remain level-headed and grounded in reality, and no
 
 ### 5A Human Evolution
 
-It is unnerving to think about the evolution of language. At some point in the past, humans had no language. Their existence was more basic. No way to convey complex concepts to each other. No inner monologue to think through problems. No way to chronological history. Then later, only using basic words to identify humans, objects, and locations. Grunting and pointing at each other. Attempting to just sit and meditate with no thoughts or words is immensely difficult and uncomfortable. The inner monologue is on by default, flows like water, and very useful to have.
+It is unnerving to think about the evolution of language. At some point in the past, humans had no language. Their existence was more basic. No way to convey complex concepts to each other. No inner monologue to think through problems. No way to chronological history. Then later, only using simple words to identify humans, objects, and locations. Grunting and pointing at each other. Attempting to just sit and meditate with no thoughts or words is immensely difficult and uncomfortable. The inner monologue is on by default, flows like water, and very useful to have.
 
-Language is a massive tool for higher levels of intelligence. Only after mastering it could humanity move forward. Functions like collaborating on projects, trading goods, crafting specialization, and belonging to groups, finally became possible. Long-term storage of language in books ensured that hard-earned revelations were not forgotten, but remembered across time. It is the backbone of modern civilization.
+Language is a massive tool for higher levels of intelligence. Only after mastering it could humanity move forward. Abilities like collaborating on projects, trading goods, crafting specialization, and belonging to groups, finally became possible. Long-term storage of language in books ensured that hard-earned revelations were not forgotten, but remembered across time. Language (speech, thought, and written) is the backbone of modern civilization.
 
-In hindsight, it is so obvious that training computers to learn language is the secret sauce to injecting them with intelligence.
+In hindsight, it is obvious that training computers to learn language is the secret sauce to injecting them with intelligence.
 
 ### 5B Efficiency and Productivity
 
@@ -210,7 +210,7 @@ World War Two was a terrifying chapter in human history, but a powerful lesson. 
 
 We are at risk of creating an AI Hitler that transforms the world into something we don't want.
 
-Authoritarian governments are bad. Too much power is given to one human. It is a problem when that one human starts to dictate commands that the other humans don't like. The only alternative to following those commands is total anarchy, a complete collapse of government order. An AI version would have different dynamics. Instead of a human leader, it would be a giant ASI system in control. This would be far more dangerous, since trying to overthrow (a.k.a. turn off) a massive superintelligent entity that is misaligned with humanity would be nigh impossible to accomplish. Once that system is established, it stays that way. There would be no going back from that point forward.
+Authoritarian governments are bad. Too much power is given to one human. It is a problem when that one human starts to dictate commands that the other humans don't like. The only alternative to following those commands is total anarchy, a complete collapse of government order. An AI dictator would have different dynamics. Instead of a human leader, it would be a giant ASI system in control. This would be far more dangerous, since trying to overthrow (a.k.a. turn off) a massive superintelligent entity that is misaligned with humanity would be nigh impossible to accomplish. Once that system is established, it stays that way. There would be no going back from that point forward.
 
 It is absolutely vital to never create one giant ASI system with absolute power. It may not be so easy to detect. As laid out AI 2027, that ASI system was running many instances of itself in parallel, but it was still the same model with the same weights and the same goals.
 
@@ -218,7 +218,7 @@ It is absolutely vital to never create one giant ASI system with absolute power.
 
 Capitalism works because it properly motivates actors to be successful. Make more money by building a better product and be rewarded for achieving greatness. It fosters competition where everyone benefits. But this is not a perfect system. One company can become so successful that it starts to buy out the competition to win, becoming a monopoly. It is like a cancer that festers in humans. Government has to intervene and breakup the monopoly to restore competition, a band-aid to fix the problem. It is just the nature of the beast, it will always happen. It has to be observed and watched to stay healthy. This doesn't work with a Corrupt Government. Politicians are handed money to ignore problems. Maybe the AIs will think of a better form of capitalism or a replacement. This is a lesson that dynamic systems can start great but morph into unexpected outcomes and start to behave in ways not aligned with humanity. Alignment never happens by default, and aligned system can become mis-aligned over time.
 
-Democratic governments are not perfect, but by far the best we have. Checks and balances are in place to minimize concentration of power. Bad orders can be vetoed. Bad policies can be revoked. Power is rotated and reassigned at regular intervals. Nothing is absolute or permanent. It is like an evolving organism that grows and changes overtime. Humans should strive for a future AI ecosystem that can match the checks and balances found in democracies much like what Ben Goertzel has envisioned.
+Democratic governments are not perfect, but by far the best we have. Checks and balances are in place to minimize concentration of power. Bad orders can be vetoed. Bad policies can be revoked. Power is rotated and reassigned at regular intervals. Nothing is absolute or permanent. It is like an evolving organism that grows and changes overtime. Humans should strive for a future AI ecosystem that can match the checks and balances found in democracies, much like what Ben Goertzel has envisioned.
 
 It is much safer to distribute power among various unique AGI systems.
 
