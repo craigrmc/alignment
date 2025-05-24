@@ -386,6 +386,7 @@ It is perplexing to be both excited and worried about the coming AIs at the same
 [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever)
 [Jan Leike](https://en.wikipedia.org/wiki/Jan_Leike)
 [Max Tegmark](https://en.wikipedia.org/wiki/Max_Tegmark)
+[Nick Bostrom](https://en.wikipedia.org/wiki/Nick_Bostrom)
 [OpenAI](https://en.wikipedia.org/wiki/OpenAI)
 [OpenCog](https://en.wikipedia.org/wiki/OpenCog)
 [Overton Window](https://en.wikipedia.org/wiki/Overton_window)
