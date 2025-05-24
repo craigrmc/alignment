@@ -88,8 +88,6 @@
 
 [r/AGI](https://www.reddit.com/r/agi/)
 
-[r/ArtificialInteligence](https://www.reddit.com/r/ArtificialInteligence/)
-
 [r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
 
 [r/Singularity](https://www.reddit.com/r/singularity/)
@@ -103,8 +101,6 @@
 [Emergent Garden](https://www.youtube.com/@EmergentGarden/)
 
 [Robert Miles AI Safety](https://www.youtube.com/@RobertMilesAI/)
-
-[SFIA Isaac Arthur](https://www.youtube.com/@isaacarthurSFIA/)
 
 [Species Documenting AGI](https://www.youtube.com/@AISpecies/)
 
