@@ -14,7 +14,7 @@ An essay to help facility the transition to AGI and then ASI. A traditional Soft
 
 ### NotebookLM Summary:
 
-[Episode Link]()
+[Audio Overview](https://notebooklm.google.com/notebook/85e9a0dd-3ce2-4fab-ab6a-89007b3df6a5/audio)
 
 ### Home Page:
 
