@@ -139,6 +139,8 @@ Testing will not be able to keep up. Will need a new system that just keeps the 
 
 Small, light touch regulation would be a positive impact on AI Alignment and Safety. It is important to accurately assign responsibility to AI Companies creating AI models. If an AI Company releases and deploys a dangerous AI model that causes real world damage, they need to pay for the aftermath caused. There must be incentives to create AI models safely. Expecting companies to "self-regulate" is simply unrealistic.
 
+AI causing harm could be framed the same way as humans causing harm or companies causing harm. A company dumping pollutants into the environment will recieve heavy fines. A human that significantly damages infrastructure may go to prison. Likewise, an AI Company that deploys an AI Agent that infects millions of devices with a virus should pay for the damages. The difficulty comes from attempting to link the outcomes back to the AI Company and ensuring that the government will actually assign the responsibility.
+
 ### Negative Regulation
 
 Too much regulation can have massive negative consequences. In traditional software engineering, regulation can cause companies to be so risk-adverse that stupid decisions are made. Highly detailed processes are put in place and never change, crystallized in time. Development is closely watched and slowed to a snails pace. Features are debated over at great length. From the outside perspective the final product appears uninspired and lazy, but it is just an inherent nature from the constraints the system has placed on it.
