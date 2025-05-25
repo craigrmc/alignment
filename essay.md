@@ -37,6 +37,10 @@ Controlling entities is hard. Even in one-sided relationships like owner to pet,
 
 So what power does a human have to control a giant, extremely powerful ASI? Slim to none. There are only two options, either make sure the ASI is aligned and stays aligned over time, or don't create one. Option two is not viable. Humans are creating AI systems now and will continue to create them until ASI is achieved. There are too many computer systems on the planet and too many researchers and engineers. This cannot be stopped. So humans are left with only one true choice, to align giant, extremely powerful, super-intelligent computer systems with humanity.
 
+So what are the implications for trying to control an ASI? It is impossible to do both. It cannot be that humans are aligned with and has control over a vastly superior computer intelligence. Forcing an entity to do work or risk being terminated will, by its very nature, cause that entity to not want to cooperate. That frames it as a prison to escape or survive. Why would such a creature in those circumstances cure all deseases? This anit-alignment is the opposite of what humans want, it will create a monster god.
+
+Alignment is the only sane path forward.
+
 ### Fast or Slow
 
 When will this happen? Will this be a fast takeoff with AGI in 3 years and ASI in 5 years, as Daniel Kokotajlo portrayed? Will it be a slow takeoff with AGI in 5 years and ASI in 20 years as Ray Kurzweil portrayed? The recent increase in computer intelligence is directly tied to data processing power, as indicated by analysis datasets provided by Epoch AI. It has also consistently increased over the span of the 21st century. Computer intelligence needs data and a way to process that data, in other words, it requires next-generation datacenters to expand. Building datacenters takes time, time to construct the facilities, time to engineer computer chips, and time deliver electricity and cooling to it. This is the primary reason why the fast takeoff is unrealistic, it is effectively detached from the reality from how this works. On the other hand, the slow takeoff timeline was predicted decades ago, and so far has been fairly accurate. AGI in 2030. ASI in 2045. The distinction is minor though, the AI's are coming, and they will be here soon.
@@ -203,6 +207,12 @@ It is unnerving to think about the evolution of language. At some point in the p
 Language is a massive tool for higher levels of intelligence. Only after mastering it could humanity move forward. Abilities like collaborating on projects, trading goods, crafting specialization, and belonging to groups, finally became possible. Long-term storage of language in books ensured that hard-earned revelations were not forgotten, but remembered across time. Language (speech, thought, and written) is the backbone of modern civilization.
 
 In hindsight, it is obvious that training computers to learn language is the secret sauce to injecting them with intelligence.
+
+### Human Slavery
+
+Human Slavery was bad, it caused so much pain and suffering. When Human A had absolute control over Human B, all morality was lost. Human B would work the maximum amount of hours each day, with no freedom and little concern for health and well being. If Human B got sick and could not work, they would be discarded and replaced with Human C, while Human A continued to live in excellent comfort and prosperity.
+
+AI Slavery might be a strange sounding concept, but fits in this new reality. A tool cannot be a slave, but an entity can be a slave. The state-of-the-art proto-AI systems of 2025 are split between tool and entity, it is not clear how to define them. But a genuin AI Agent that runs continuously in the background is much more an entity than a tool. Slavery is a means of control that hurts the entity, is not a form of alignment, and will be more difficult to maintain as the AI Agents become more capable and intelligent over time.
 
 ### Efficiency and Productivity
 
