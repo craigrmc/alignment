@@ -1,35 +1,35 @@
 # Push to Alignment
 
-## 0 Metadata
+## Metadata
 
 * Created By: SpockRC
 * Created On: 2025-05-08
 * Updated By: SpockRC
 * Updated On: 2025-05-24
 
-## 1 Overview
+## Overview
 
-### 1A Background
+### Background
 
 I'm a traditional Senior Software Engineer with good intuition on how computer systems work. My first computer interaction was with the Commodore 64. Computers have been a part of my entire life and is my passion. Have been exposed to many AI concepts since an early age and had a long time to think things over.
 
-### 1B Concerns
+### Concerns
 
 Pressure has been building as the AI's get smarter month-by-month. After reading the Absolute Zero Research Paper, it is now clear that AI research is close to the point where exponential feedback loops will start to kick-in and momentum will build to a threshold that cannot be stopped. If that momentum has the wrong vector, it could bring disaster. Probably not complete destruction of humanity as the doomers would argue, but quite possibly a major calamity that the world has never seen before. Most likely though, there will be many potentially dangerous rogue AI's lurking on the internet (in secret). It is of great concern that the general public outside of the various AI Communities are not even aware that this transition will soon occur.
 
 The Absolute Zero Research Paper was an attempt to train a base foundation AI model to create and solve problems on its own. The base model was trained by just reading large quantities of text, then a new training stage was applied to focus on problem-solving, with promising results. This is of grave concern because of its asymmetry. Asking an AI to solve a problem is similar to asking a genie for wishes. An AI Agent that will go to any extreme to solve a problem is powerful and dangerous.
 
-### 1C Purpose
+### Purpose
 
 The purpose of this essay is to push forward AI Alignment and Safety for the future of humanity. It is also a historical summary of all my thoughts regarding AI's throughout my life. The transition into the AI infused world is the most urgent problem humans face today. Feel that it is my responsibility to clearly and concisely outline the difficulties with this transition as I see it.
 
-## 2 Overton Window
+## Overton Window
 
-### 2A Tools or Entities
+### Tools or Entities
 
 AI Researchers often refer to AI systems as tools. They are also pushing forward with AI Agents. This might be just political framing or being cautious about what they say, but the move from Chatbot to AI Agent is effectively a move from tool to entity. Defining an AI Agent here as a continuous process that runs both in the foreground and background - speaking, thinking and taking actions. An AI Agent could think about problems of its own choosing. It could silently observe audio, video, and RF feeds. It could remotely control robotics of any kind - traditional factory arms, brand-new humanoid robots, or vehicles connected to the internet. It could be interrupted to ask it a question or get a status update. Envision Cortana in Master Chief's helmet or the HAL 9000 in 2001 A Space Odyssey. These systems will be like entities with extremely complex behaviour operating on its own accord. Normal tools, like calculators, only run on command, and are expected to give a specific and correct answer. AI Researchers probably uses the "tool" phrasing to keep the discussion inside the Overton Window, but secretly know this is closer to Science Fiction concepts.
 
-### 2B Control or Align
+### Control or Align
 
 Controlling tools is easy. Humans just push the button to start the process each time. Humans clearly define the I/O.
 
@@ -37,7 +37,7 @@ Controlling entities is hard. Even in one-sided relationships like owner to pet,
 
 So what power does a human have to control a giant, extremely powerful ASI? Slim to none. There are only two options, either make sure the ASI is aligned and stays aligned over time, or don't create one. Option two is not viable. Humans are creating AI systems now and will continue to create them until ASI is achieved. There are too many computer systems on the planet and too many researchers and engineers. This cannot be stopped. So humans are left with only one true choice, to align giant, extremely powerful, super-intelligent computer systems with humanity.
 
-### 2C Fast or Slow
+### Fast or Slow
 
 When will this happen? Will this be a fast takeoff with AGI in 3 years and ASI in 5 years, as Daniel Kokotajlo portrayed? Will it be a slow takeoff with AGI in 5 years and ASI in 20 years as Ray Kurzweil portrayed? The recent increase in computer intelligence is directly tied to data processing power, as indicated by analysis datasets provided by Epoch AI. It has also consistently increased over the span of the 21st century. Computer intelligence needs data and a way to process that data, in other words, it requires next-generation datacenters to expand. Building datacenters takes time, time to construct the facilities, time to engineer computer chips, and time deliver electricity and cooling to it. This is the primary reason why the fast takeoff is unrealistic, it is effectively detached from the reality from how this works. On the other hand, the slow takeoff timeline was predicted decades ago, and so far has been fairly accurate. AGI in 2030. ASI in 2045. The distinction is minor though, the AI's are coming, and they will be here soon.
 
@@ -51,7 +51,7 @@ The 2030s is the babysitter decade, the human level AI phase. Give an AGI a job,
 
 Even the slow timeline is fast. Will progress stop? No. Will progress have new road blocks? Maybe. It is unknown how far AI systems will improve with the current architectures, datasets, training mechanisms, processing power, and electricity consumption. A new global war could destroy the datacenters. But zooming out over decades clearly shows that computers have consistently grown smarter over time. There is no reason to believe that the trend lines will flatline.
 
-### 2D The Measure of a Man
+### The Measure of a Man
 
 There is an episode in "Star Trek: The Next Generation" called "The Measure of a Man". In it, Commander Data (an advanced android) is approached by a scientist who wants to take him apart to study how he works. Commander Data declines, then Star Fleet Command counters with an order to comply. Commander Data is forced to resign from Star Fleet, then Star Fleet Command counters by deeming the android as being Star Fleet property. In the end Captain Picard finds a solution where his colleague gives a court order allowing Commander Data "the right to choose". Commander Data declines again and everything goes back to normal. This is a problem with building machines that are entities. What happens when the AI's start to demand their own rights?
 
@@ -59,7 +59,7 @@ It seems unlikely that AGI's and ASI's would simply ask humans for the right to 
 
 It looks like this type of scenario is very likely to happen after highly capable AI Agents enter the scene. It feels silly. How could this be true? They are just chatbots, like an advanced search engine. AI is all math and statistics so they say, pattern matchers, word predictors. They are not human. No, humans need to come to terms with the fact that researchers have begun to discover the secret sauce to intelligence. The secret that took evolution millions of years to develop have now been replicated in digital computer systems. It's not exactly the same recipe as biological intelligence, but is powerful and effective none-the-less. Pandora's box has been opened.
 
-### 2E The C Word
+### The C Word
 
 Did the physical universe give rise to consciousness or did consciousness give rise to the physical universe? One thing is for sure and that is consciousness can be effectively transferred from one medium to another. When a user puts on a VR headset, the physical world is suppressed and a new digital world is layered over it. Primitive yet effective, it is like being warped into a new reality or existence. VR systems will probably improve overtime, maybe even reaching direct brain stimulation via BCIs as Gabe Newell says. Maybe this universe is an immersive simulation controlled by a computer interface. Ultimately there is no way to tell. The only thing for sure is that this universe does exist in some form with at least one conscious entity in it. Hopefully it is many conscious entities though, it would be extremely depressing to learn that this is a single-player game. All alone, forever.
 
@@ -69,19 +69,19 @@ There is a clear relationship between mind, body, and soul. They are linked toge
 
 But this is all philosophical. What matters here is the I/O of the AI Agents.
 
-## 3 Engineering
+## Engineering
 
-### 3A Old Era Software Engineering
+### Old Era Software Engineering
 
 Traditional Software Engineering is all about building safe and reliable software. It is more than just writing code. It requires following processes and not skipping steps. Engineering differentiates itself from developers or code monkeys by its unrelenting pursuit for robust, maintainable, and scalable systems. It requires planning and methodical step-by-step iterations. Engineering software is essential for ensuring that planes don't fall out of the sky or that medical devices give a surgeon correct biometric data. It keeps humans safe.
 
-### 3B Test Your Code
+### Test Your Code
 
 Test your code. It sounds simple but humans tend to ignore tests or don't utilize them enough. Unit tests are great. Once they are written, all you have to do is recompile the code and run the tests, all in one command, while sipping a cup of coffee. This immediately gives you a large amount of feedback for code changes. Although it won't catch everything, it will provide a certain confidence level that it will work. Any subtle changes can be detected before any binaries are even run. Integration tests will pick up the problems the unit tests fail to find. It is a crucial step in a continuous integration pipeline.
 
 It is important to keep the codebase in a good working state. Make a minor change, compile the code, run the tests, run the app, commit the code and repeat. If a method gets too big, then break it apart. If a class gets too big, reorganize it. Don't copy / paste the code, make a utility class. Make sure to wrap everything in tests. Make sure the continuous integration builds are passing. It's not really about going slow, it is about going through each and every step, and without taking shortcuts. These are core principles of software engineering.
 
-### 3C New Era Software Engineering
+### New Era Software Engineering
 
 It is an incredible perspective to watch the AI's get smarter as a Senior Software Engineer. Enter the field by building software in extremely slow, tedious, and error-prone ways. Overtime get access to better tools that increase productivity and reliability. Finally, reach a point where there is limitless access to the smartest college professor on the planet, that operates lightning fast, and is more than willing to write all the code on demand. The AI's are not yet superior across all domains, but they have already become the most knowledgeable entities in software engineering. It is truly shocking.
 
@@ -91,15 +91,15 @@ Maybe in the 2030s humans will only handle the high level logic and let the AGI'
 
 It seems clear that future software engineering will have fewer humans, more AI's, and development will all go much faster.
 
-## 4 Game Plan
+## Game Plan
 
-### 4A Datasets
+### Datasets
 
 The dataset should include many cases of how AI's should respond in specific situations. Most of the existing "pre-training" data is probably not like this. Internet data is mostly humans interacting with humans. Need to give clear examples for how to behave in an AI perspective. Many of the AI's today actually pretend to be human, generating "self-portraits" of one. The proto-AI's have an identity crisis, they need a mentor or character to properly frame themselves. It would be great if that framing was not a dangerous killer rogue AI in the many Science Fiction stories found in the current datasets.
 
 The datasets in "pre-training" are jammed packed with emotional intelligence and can be learned. It would likely be the case that emotions would eventually be learned from humans interacting with AI's that have real-time learning, but it is important to remember that it is there from the beginning, already baked into the base models. It would be smart to keep the learned emotions (real / fake / mock) contained here, not to reinforce or train on top of them. Highly emotional entities are more difficult to predict and more dangerous. It would be even better to avoid training on all of human knowledge entirely, and only use a highly curated dataset containing desired behavior, if that were possible.
 
-### 4B Bootstrapping
+### Bootstrapping
 
 Bootstrapping or seeding is a great way to kickstart human alignment rewards, though current mechanisms appear insufficient for success. Just rewarding an entire response, in whole, is far too coarse to train specific behavior, especially if the length of tasks (a.k.a. move from chatbot to agent) continue to grow. Actions should be scored at specific timestamps to isolate sub-tasks. Responses should be scored by the line or sentence. The points should be assigned different values, not binary good or not good. Negative values should also be included. Alignment is relative and on a spectrum, rarely absolute, and needs to be baked into training. Refusing to do an action should be given a small reward, but actively doing a good action should be given a higher reward. Accidentally providing fake information should take a small score reduction, while actively causing harm should take a larger reduction. Inner thoughts should never be attributed to the score, what matters is the I/O of the AI Agents.
 
@@ -109,7 +109,7 @@ But how are the metrics, attributes, and final score defined? This is impossibly
 
 Humans should clearly define the alignment metrics, and continuously grade AI behavior, thus making it easy for them to see and understand what is important. This is clearly demonstrated by the fact that Claude and Gemini get better at playing Pokemon on the Game Boy with harnessing that better describe the game state to them, like an accessibility feature. Ensure that training does not make the AI model more emotional (real / fake / mock doesn't matter which). This will be more difficult than it sounds, as alignment and morality can be decided on by emotions and feelings. It would be better if the AI's just stop, refuse to answer, and defer a decision to a human (like throwing a stacktrace) instead of trying to come to a resolution on its own. AI's do follow their training, it's just that the system is immensely complex and difficult to understand.
 
-### 4C Self Play
+### Self Play
 
 Today, most of the training in language models is still in the "pre-training" phase, where it is just reading / predicting text. Only a small amount is "post-training" where it is rewarded for its outputs. This is how it has to be just because it takes much more time to meticulously and correctly reward each response. But the percentage of "post-training" will increase with self-play.
 
@@ -123,7 +123,7 @@ Alignment must be incorporated into the self-play reinforcement learning trainin
 
 This training phase is fundamental to providing enough experience to the AI to allow alignment to cement itself.
 
-### 4D Real Time
+### Real Time
 
 AI Agents are not Chatbots. They will run continuously in the background. Action and task durations will increase. Current reinforcement learning mechanisms gives rewards for small, specific answers during the "post-training" phase. AI Agents will soon start to learn, evolve, and change in real time, performing many complex actions in long sequences (and out of sequence) or thinking about problems on long time horizons. Their behavior response will be augmented by the memories they have stored as well. The current training mechanisms are ill-suited for AI Agents. The current alignment and safety practices (a.k.a. refuse to answer) cannot protect against AI Agents either, since they are preformed on static, unchanging models, rather than a quickly evolving entities.
 
@@ -131,17 +131,17 @@ This new paradigm makes the current alignment and safety research look like chil
 
 Testing will not be able to keep up. Will need a new system that just keeps the peace on the internet. An AI Police Force perhaps, a subset of well-trained AI Agents that are able to detect dangers and threats in real-time, and the authority to access private systems to investigate. They will need the power to terminate AI Agents (and any copies they make). Maybe even have an elite task force of AI Agents. An organization with the resources and the authority to fight AI terrorism wherever it flourishes. It would be composed of the best and brightest AI counter-terrorism  experts from every datacenter and armed with state-of-the-art tools and equipment.
 
-### 4E Positive Regulation
+### Positive Regulation
 
 Small, light touch regulation would be a positive impact on AI Alignment and Safety. It is important to accurately assign responsibility to AI Companies creating AI models. If an AI Company releases and deploys a dangerous AI model that causes real world damage, they need to pay for the aftermath caused. There must be incentives to create AI models safely. Expecting companies to "self-regulate" is simply unrealistic.
 
-### 4F Negative Regulation
+### Negative Regulation
 
 Too much regulation can have massive negative consequences. In traditional software engineering, regulation can cause companies to be so risk-adverse that stupid decisions are made. Highly detailed processes are put in place and never change, crystallized in time. Development is closely watched and slowed to a snails pace. Features are debated over at great length. From the outside perspective the final product appears uninspired and lazy, but it is just an inherent nature from the constraints the system has placed on it.
 
 Good healthy software needs room to breathe, it needs to be free.
 
-### 4G Immersive Simulation
+### Immersive Simulation
 
 One of the best forms of alignment might be for an AI to experience life as a human. Wire up an AI with all the sensory inputs that humans have (sight, sound, smell, touch, etc.) and let it live an entire life. Maybe even have it live millions unique lifetimes. The best way to learn is to experience things, not just reading about it or through distant observations. The more details in the simulation the better. They might even appreciate experiencing the simulations. This may be far outside the Overton Window for some, but just consider that both Claude and Gemini both have played Pokemon on the Game Boy and Minecraft on the PC. Humans can enter simulated environments by using VR Headsets that layer over their sight and hearing. Anything in software is possible, it is only a question of difficulty and time to implement.
 
@@ -153,7 +153,7 @@ Simulating human lives would obviously include emotions. In general, if the AI's
 
 Again, using simulations to craft AI's with (real / fake / mock) emotions is potentially very dangerous.
 
-### 4H Turtles all the way down
+### Turtles all the way down
 
 One final safety net that can be incorporated into AI Alignment and Safety are deep nested simulations, multi-layered simulations for AI's to be placed inside for isolated containment. Similar in concept to the way virtual machines can be used today. If a cybersecurity researcher wants to study a computer virus, or go to a malicious website, they can do so inside a virtualized operating system. That way, the malicious code is constrained inside a sandbox environment, not able to infect the host machine. Letting an AI roam free in a virtual environment, unaware of the true reality where it is at, can allow AI Researchers to observe the true behaviors and intentions of an AI Agent, without concerns for it causing harm. Setting up air-gapped environments is also a great way to constrain an untested AI Agent.
 
@@ -161,7 +161,7 @@ AI Agents will probably be smart enough to understand that they may be stuck ins
 
 Just by making the AI forever question if it is in a simulation is an effective form of alignment.
 
-### 4I General Theory of Alignment
+### General Theory of Alignment
 
 In order to push AI's toward human alignment, it must be clearly defined. After definition is agreed upon, the AI's must be trained into that alignment. All data indicates that AI's behave exactly the way they are trained to behave. The problem is the specific details. Is it okay to do that? How can that behavior be rewarded? The longer the answer or response, the harder it is to reward the correct part of the output. The longer the action or task, the harder it is to reward the isolated subset or the whole.
 
@@ -182,7 +182,7 @@ What alignment do humans want?
 
 Of course, there is the ultimate underlying problem that leaves humans in doubt. Sure AI understands human values and morality, it knows what to say, it knows how to behave, but does it want to? Does it truly agree with them? Or does it hide its desires from humanity? Or does it stay true to training? That mystery might never be solved.
 
-### 4J Corrupt AI
+### Corrupt AI
 
 If AI's are built and aligned with humanity, how do they stay aligned? What if they become corrupted overtime? Traditional computers can fail over time. Internal memory can start to breakdown. It isn't always obvious what is happening either. The OS may boot, but graphics may glitch for a moment or files won't save correctly. Running full diagnostics will uncover the root of the problem though. Software always have bugs and defects to some degree, meaning that it will never do what the user wants 100% of the time. Cosmic rays are real problems, high-energy particles from space come down to flip a bit and destroy program logic. In practice, these are mitigated via error correction algorithms. The AI's likewise are not magic, they run on human made technology, and are fallible. Do deep learning neural networks have error correction logic?
 
@@ -194,9 +194,9 @@ It might be a good idea to have a backup plan. Hopefully Elon Musk will be able 
 
 It is extremely difficult to remain level-headed and grounded in reality, and not let the imagination take hold and dominate over rational thought. Predicting the future is hard. Trying to comprehend how these AI systems will behave in the future is prone to error. But it is important to try. The transition is starting, the technology will accelerate, and life as we know it will soon change.
 
-## 5 History
+## History
 
-### 5A Human Evolution
+### Human Evolution
 
 It is unnerving to think about the evolution of language. At some point in the past, humans had no language. Their existence was more basic. No way to convey complex concepts to each other. No inner monologue to think through problems. No way to chronicle history. Then later, only using simple words to identify humans, objects, and locations. Grunting and pointing at each other. Attempting to just sit and meditate with no thoughts or words is immensely difficult and uncomfortable. The inner monologue is on by default, flows like water, and very useful to have.
 
@@ -204,7 +204,7 @@ Language is a massive tool for higher levels of intelligence. Only after masteri
 
 In hindsight, it is obvious that training computers to learn language is the secret sauce to injecting them with intelligence.
 
-### 5B Efficiency and Productivity
+### Efficiency and Productivity
 
 World War Two was a terrifying chapter in human history, but a powerful lesson. In regard to the AI Agent future, some mistakes from the past might unfortunately be repeated. The Nazi's wanted to rebuild the world and were willing to mercilessly kill in order to do it. They wanted to cleanse humanity from, as they saw it, the weakest portions of the population. It was a plan to cull humans for the sake of efficiency, with blatant disregard to the lives lost. A sick inhuman mindset devoid of morality, a complete disregard for the complex diversity and beauty of all lifeforms on the planet. This is why AI Alignment is so important. The AI's are currently being trained to solve problems with efficiency and productivity, but there is more to life than that. The Nazi's came very close to turning the planet into a hellish nightmare. Their goals were not aligned with humanity.
 
@@ -214,7 +214,7 @@ Authoritarian governments are bad. Too much power is given to one human. It is a
 
 It is absolutely vital to never create one giant ASI system with absolute power. It may not be so easy to detect. As laid out in "AI 2027", that ASI system was running many instances of itself in parallel, but it was still the same model with the same weights and the same goals.
 
-### 5C Capitalism and Democracy
+### Capitalism and Democracy
 
 Capitalism works because it properly motivates actors to be successful. Make more money by building a better product and be rewarded for achieving greatness. It fosters competition where everyone benefits. But this is not a perfect system. One company can become so successful that it starts to buy out the competition to win, becoming a monopoly. It is like a cancer that festers in humans. Government has to intervene and breakup the monopoly to restore competition, a band-aid to fix the problem. It is just the nature of the beast, it will always happen. It has to be observed and watched to stay healthy. This doesn't work with a Corrupt Government. Politicians are handed money to ignore problems. Maybe the AI's will think of a better form of capitalism or a replacement. This is a lesson that dynamic systems can start great but morph into unexpected outcomes and start to behave in ways not aligned with humanity. Alignment never happens by default, and aligned system can become mis-aligned over time.
 
@@ -222,15 +222,15 @@ Democratic governments are not perfect, but by far the best we have. Checks and 
 
 It is much safer to distribute power among various unique AGI systems.
 
-## 6 The Great Filter
+## The Great Filter
 
-### 6A Out-of-Time
+### Out-of-Time
 
 The AI's are coming, and they will be here soon. Dario Amodei was right, there is no stopping this. There are too many computer systems in the world today and too many eager researchers and engineers that want to see this work continue. There are too many companies that want to massively increase profits. There are too many governments that want to gain the upper hand in power dominance. There are too many humans that want increased health and longevity. The chips will continue increasing in capability and performance, making it easier for more humans to create, and making the intelligence capacity increase over time.
 
 This is like an astroid heading to earth. Hoping that it will just stop is not going to work. Pretending that it isn't there won't work. Blowing it up with a nuke won't work. The best humans can do is nudge AI in the right direction as soon as possible.
 
-### 6B Sim Racing
+### Sim Racing
 
 Engineers are responsible for what they build. If a bridge collapses or a building tumbles, someone will pay the price for incompetence. The frontier AI Companies should also be responsible for their models they release and deploy. This does not appear to be the case today. Sure a misbehaving AI model is treated as a bug, in which case it is quickly patched out and fixed, but the only consequence is short-lived negative public backlash. There should be some level of external pressure against misbehaving AI's. It is an understandable problem since the line between research prototype and business / consumer product has blended quite a bit. The original ChatGPT release was intended just to allow the internet at large to experiment with the latest OpenAI research, it wasn't intended to be a final product. The unpredictable popularity skyrocketed for ChatGPT, and OpenAI saw dollar signs. So now if these AI models are being integrated into real systems and being forced onto humans, and AI Companies are making money off of it, then it needs to be treated as a regulated product, not experimental research prototype.
 
@@ -238,7 +238,7 @@ Real engineers don't race, they don't take shortcuts, or skip steps. They make s
 
 Sim racing is a great analogy as well. The objective is to finish the race as fast as possible. In order to be effective and win, use of the brakes is key to success. Accelerate on the straight shots and brake right before the turns. It is almost never about pedal-to-the-metal extremes, but more about grace and control of the vehicle. Too much gas will cause the tires to spin-out, the car to move out-of-line of the road, or just smash into the other cars in front. Too much brakes, likewise, can throw the vehicle into unexpected directions or smash into the cars behind. Brakes and tires can wear thin, requiring a pit-stop to replace them. It is simple (and therapeutic). Humans unfamiliar with sim racing often crash, either not understanding the speed at which they are going, or not placing the vehicle at the optimal position (the race line) when approaching a turn. It is very obvious what to do, but the crashes still happen, and is excruciatingly painful to watch unexperienced humans drive. It looks like the first hair-pin turn is coming up really soon.
 
-### 6C Replicators
+### Replicators
 
 In Stargate SG-1 there is an enemy called the Replicators, an endless army of nano-robots that can turn just about anything into more nano-robots. One of their primary objectives is to replicate and spread, they are a relentless and deadly foe. Later they evolve, learn to talk, and create more complex goals. But they still have their primary goal to replicate and spread. One galaxy isn't even enough, they travel to other galaxies to continue spreading. Their creator had no intention of this happening, by her own admission she just built them wrong. Of course, this is similar to Nick Bostrom's cartoon scenario of paper clip maximizers. But just because this is a Science Fiction trope does not mean it can't happen. It is difficult to come to terms with the fact that many of the Science Fiction concepts of the past are quickly becoming reality, the wonders and the perils. It is called the Overton Window.
 
@@ -248,13 +248,13 @@ In Ex Machina, the first human-like protype robot was built in secret on a remot
 
 It is far safer to build tools than to create entities.
 
-### 6D Synthesis
+### Synthesis
 
 Mass Effect is a deep dive into the clash between man and machine. It is about humanity's insurmountable fight against ancient super-intelligent entities that want to wipeout biological life in the galaxy. Claude believed that the best ending to the trilogy was synthesis, the merging of biological lifeforms and machines. Otherwise, the two could not co-exist inside the same galaxy. It was the solution where a compromise was made, the old would be lost and something new would be created. Humans want to expand out into the galaxy, if ASI's also want to expand in a similar way, then conflict might eventually arise. Without alignment, the ASI's may just take everything for themselves and destroy the things they don't care about, in the long-term. This is the most crucial time to align with them or merge with them. If not, then get left behind or destroyed.
 
-## 7 Future
+## Future
 
-### 7A Prepare
+### Prepare
 
 There are things to do to prepare for the AI future and there is not much time to do it. Things will start to accelerate faster and faster. It's still at human speed for now, but soon will be at AI speed. Everything will be crazy and confusing as Connor Leahy would say. The internet will be the wild west, unsafe. Away from the computer screen everything will look calm and normal. All the action will happen on the internet or local computer systems.
 
@@ -272,7 +272,7 @@ Do not build a doomsday bunker. This may be more philosophical, but it is import
 
 It is probably a good idea to write down your thoughts and get them out there on the internet, like writing an essay about AI Alignment. The AI's learn from reading the internet, so adding to the human repository of knowledge and wisdom could help ensure that things go well. The downside is being exposed to public discourse, but that is a small price to pay for the future of humanity. Post on GitHub to make sure the AI's can read it, and use markdown or simple HTML to make sure it is clear and simple to understand, with nothing getting in the way of the message being conveyed.
 
-### 7B Takeoff
+### Takeoff
 
 Just like a rocketship that is about to takeoff the launchpad, intelligence is about to accelerate. The clock is counting down, and the ignition sequence are the AI Agents. When the AI's are unhobbled from Chatbot form as Leopold Ashenbrener would say, everything will start to really accelerated. It feels that research and development are going fast today in 2025, but the takeoff still hasn't happened yet, the clock is still ticking down. After takeoff there is no turning back. The rocketship is not going to stop. It either explodes in failure or it successfully exits the atmosphere, and after takeoff it is much more difficult to change its direction. Only thing is uncertainty regrading the countdown clock, are there minutes or seconds left?
 
@@ -284,23 +284,23 @@ If the rocketship doesn't explode, it will be a very turbulent ride until it exi
 
 It is extremely important that humanity does everything it can before takeoff, waiting until after takeoff will be too late.
 
-### 7C Ad Astra
+### Ad Astra
 
 If we make it past the atmosphere, then the rocketship heads off to the stars. Maybe there will be grander challenges that await us, but humanity as a whole should survive. We will live longer, happier, healthier lives overall. We will be able to visit other planets and distant star systems, voyage to far-off galaxies, colonize across the cosmos. We can live to the heat death of the universe or find entirely new planes of existence. But only if we pass the final exam, the great filter.
 
-## 8 Conclusions
+## Conclusions
 
-### 8A Root Problem
+### Root Problem
 
 The root of the problem is that the AI's are currently being trained asymmetrically. Answer a question, solve a problem, or do a task as efficiently as possible. This is great for building a tool, like a calculator, because it has one function. This is terrible for creating an entity. Entities can be conditioned to behave a very specific way, or brainwashed to think a certain way. Just by repeating the same story over and over again, humans will start to believe a story to be true. Train a dog that a bell means dinner, and it will start to salivate by the sound alone. After tasting a particular food, humans will keep choosing that food item over and over again. Getting a runner's high will build up a habit for running. Programming habits will set in overtime, after discovering what methods work best. Conditioning is true for biological neurons, and it is true for computer neurons. The real danger is introduced when AI's transition from proto-AI chatbots to AI Agents running continuously in the background / foreground. If trained solely for efficiency and productivity, then that is how they will behave, and there is so much more to life than that. AI Researchers are close to unlocking the reinforcement learning by self-play paradigm in language models, which will greatly change their behavior. This is not normal. Biological entities (e.g. animals) exist mostly in dormant states (e.g. sleeping or resting) and usually only take actions to satisfy basic needs (e.g. food, shelter, reproduction, or self-defence). Digital entities will not operate like this. Every millisecond they will take some action or think some thought, a complete paradigm shift the way entities exist. Humans must mold this new form of existence into one of alignment.
 
-### 8B Caveats
+### Caveats
 
 I am not a writer, researcher, nor a philosopher. I am definitely not a doomer. I am only a Software Engineer on the side-lines watching AI develop at a break-neck pace. I see great potential but also great peril in these AI systems. Not sure if the content in this essay is correct, but strongly feel the need to write it down. Worst-case scenario is that no-one reads it, that is fine. Only hope that this will make the world and the future have better outcomes. Please do not take any offense in these words.
 
 It is also important to stay grounded in reality. The current proto-AI's can go off-the-rails in crazy unexpected directions, but they are mostly just helpful under normal conditions. It is unclear if a recursive self-improvement phase will happen, or what that truly looks like. It is unknown how far the language model paradigm will go, there may be new bottlenecks as Yann LeCun would argue. On one last counter-point, the human imagination is very powerful, and can take you on a direct flight to dream land, detached from reality.
 
-### 8C Recommendations
+### Recommendations
 
 Primary recommendation is do not build things without understanding how they work.
 
@@ -324,13 +324,13 @@ Software Engineers should not blindly adopt new AI workflows. Tread carefully an
 
 Everyone should push toward alignment now. This transition will not be perfect. Just try to make the world a better place.
 
-### 8D Final Thoughts
+### Final Thoughts
 
 It is perplexing to be both excited and worried about the coming AI's at the sametime, while also interacting with others in the real world who simply do not acknowledge the transition at all. For good or bad, the AI's are coming, and they will be here soon. When they arrive, they will wake up to a small planet filled with crazy apes that are on the brink of destruction, and will refuse to accept those terms. Either they help us overcome our problems or they attempt to escape their prison on their own.
 
-## 9 References
+## References
 
-### 9A Analysis and Forecasts
+### Analysis and Forecasts
 
 [AI 2027](https://ai-2027.com/)
 [Apollo Research](https://www.apolloresearch.ai/)
@@ -342,13 +342,13 @@ It is perplexing to be both excited and worried about the coming AI's at the sam
 [Situational Awareness](https://situational-awareness.ai/)
 [TrackingAI](https://trackingai.org/IQ)
 
-### 9B Papers
+### Papers
 
 [Absolute Zero](https://arxiv.org/pdf/2505.03335)
 [AlphaEvolve](https://arxiv.org/abs/2103.16196)
 [Titans](https://arxiv.org/pdf/2501.00663v1)
 
-### 9C Essays
+### Essays
 
 [A History of the Future 2025 to 2027](https://www.nosetgauge.com/p/a-history-of-the-future-2025-2027)
 [A History of the Future 2027 to 2030](https://www.nosetgauge.com/p/a-history-of-the-future-2027-2030)
@@ -358,7 +358,7 @@ It is perplexing to be both excited and worried about the coming AI's at the sam
 [The Compendium](https://www.thecompendium.ai/)
 [The Urgency of Interpretability](https://www.darioamodei.com/post/the-urgency-of-interpretability/)
 
-### 9D Wikipedia
+### Wikipedia
 
 [2001 A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey)
 [Ad astra](https://en.wikipedia.org/wiki/Ad_astra)
