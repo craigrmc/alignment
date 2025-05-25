@@ -302,6 +302,8 @@ It is extremely important that humanity does everything it can before takeoff, w
 
 If we make it past the atmosphere, then the rocketship heads off to the stars. Maybe there will be grander challenges that await us, but humanity as a whole should survive. We will live longer, happier, healthier lives overall. We will be able to visit other planets and distant star systems, voyage to far-off galaxies, colonize across the cosmos. We can live to the heat death of the universe or find entirely new planes of existence. But only if we pass the final exam, the great filter.
 
+Alignment may get easier, but it will never stop. Humans, cyborgs, artificial intelligences, and uploaded intelligences must all continue to cooperate and work together if we are to live on the same planet. The future will be a diverse array of unique entities, not just biological humans.
+
 ## Conclusions
 
 ### Root Problem
