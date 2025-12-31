@@ -4,6 +4,8 @@
 
 [AI 2027](https://ai-2027.com/)
 
+[AI Futures Project](https://ai-futures.org/)
+
 [Apollo Research](https://www.apolloresearch.ai/)
 
 [Artificial Analysis](https://artificialanalysis.ai/)
@@ -19,6 +21,8 @@
 [Situational Awareness](https://situational-awareness.ai/)
 
 [TrackingAI](https://trackingai.org/)
+
+[semianalysis](https://semianalysis.com/)
 
 ## Books
 
@@ -43,6 +47,8 @@
 [A History of the Future 2027 to 2030](https://www.nosetgauge.com/p/a-history-of-the-future-2027-2030)
 
 [A History of the Future 2030 to 2040](https://www.nosetgauge.com/p/a-history-of-the-future-2030-2040)
+
+[Mechanize](https://www.mechanize.work/)
 
 [The AI Revolution Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 
