@@ -18,7 +18,7 @@
 
 [Situational Awareness](https://situational-awareness.ai/)
 
-[TrackingAI](https://trackingai.org/IQ/)
+[TrackingAI](https://trackingai.org/)
 
 ## Books
 
