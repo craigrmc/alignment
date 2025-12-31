@@ -360,7 +360,7 @@ It is perplexing to be both excited and worried about the coming AIs at the same
 [METR](https://metr.org/)
 [SimpleBench](https://simple-bench.com/)
 [Situational Awareness](https://situational-awareness.ai/)
-[TrackingAI](https://trackingai.org/IQ)
+[TrackingAI](https://trackingai.org/)
 
 ### Papers
 
